@@ -4,7 +4,7 @@
 
 **[Onlinegenerator starten](https://xinjia-yilu-formgenerator.densemalt.chatgpt.site)**
 
-Die Onlinefassung läuft ohne Python-Installation auf Computer, Tablet und Smartphone. Der Zugang ist derzeit privat und erfolgt mit Stefans berechtigtem ChatGPT-Konto. Positionen und Anmerkungen auswählen, PDF erstellen und herunterladen.
+Die Onlinefassung läuft ohne Python-Installation auf Computer, Tablet und Smartphone. Der Generator ist öffentlich und ohne Anmeldung erreichbar. Positionen und Anmerkungen auswählen, PDF erstellen und herunterladen.
 
 Anmerkungen und Sammlungen bleiben im jeweiligen Browser. Für den Wechsel auf ein anderes Gerät „Datei sichern“ und dort „Datei laden“ verwenden. Die Onlinefassung liegt unter `online/dist/`; sie erzeugt die PDFs auf dem Gerät. Die folgende Anleitung beschreibt die zusätzliche lokale Python-Fassung.
 
