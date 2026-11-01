@@ -1,0 +1,5705 @@
+{
+  "_hinweis": "Sequenzen visuell anhand der Fotofolge zugeordnet. Keine zeitcodierte Namensliste lag vor. Ü markiert die Bildpositionen an unsicher abgrenzbaren Sequenzwechseln. Vorläufige Zuordnung für fachliche Durchsicht.",
+  "_quellen": [
+    "WCTAG / Frank Marquardt: Formen-Chenstil-Formennamen-Stellungsnamen.pdf, Seiten 13-16 (vom Auftraggeber bereitgestellt)",
+    "https://www.taijiquan.com.tw/introduce/introduce_new1.html",
+    "https://www.chenstyletaijiquan.net/wp-content/uploads/2020/04/Xin-Jia-Yi-Lu-Movements.pdf"
+  ],
+  "_varianten": {
+    "20_45": "三换掌: Sān huàn zhǎng; huang in der lokalen Liste als Schreibfehler berichtigt.",
+    "21": "肘底拳 / 肘底捶: hier Zhǒu dǐ quán gemäß lokaler WCTAG-Liste.",
+    "31_58_70": "云手: Yún shǒu; Variante 运手: Yùn shǒu.",
+    "72": "十字摆莲: Shí zì bǎi lián; bao in der lokalen Liste berichtigt.",
+    "79": "Xià bù kuà gōng gemäß lokaler WCTAG-Liste; weitere Benennung: Tuì bù kuà hǔ / 退步跨虎.",
+    "uebersetzungen": "Kurze deutsche Bildtitel nach der lokalen Liste, englische Übertragungen redaktionell vereinheitlicht.",
+    "toene": "Töne in Wörterbuchform; Tonsandhi von 一 wird nicht gesondert notiert."
+  },
+  "sequenzen": [
+    {
+      "sequenz": 1,
+      "schluessel": "prep",
+      "von": 1,
+      "bis": 4,
+      "de": "Vorbereitungsstellung",
+      "en": "Preparation",
+      "pinyin": "Yù bèi shì",
+      "hanzi": "预备势",
+      "grenze": "markante Formphase",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 2,
+      "schluessel": "jingang",
+      "von": 5,
+      "bis": 14,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "grenze": "markante Formphase",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 3,
+      "schluessel": "lanzha",
+      "von": 15,
+      "bis": 25,
+      "de": "Den Mantel befestigen",
+      "en": "Lazily Tying the Robe",
+      "pinyin": "Lǎn zhā yī",
+      "hanzi": "懒扎衣",
+      "grenze": "markante Formphase",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 4,
+      "schluessel": "liufeng",
+      "von": 26,
+      "bis": 35,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "grenze": "markante Formphase",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 5,
+      "schluessel": "danbian",
+      "von": 36,
+      "bis": 39,
+      "de": "Die einzelne Peitsche",
+      "en": "Single Whip",
+      "pinyin": "Dān biān",
+      "hanzi": "单鞭",
+      "grenze": "markante Formphase",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 6,
+      "schluessel": "jingang",
+      "von": 40,
+      "bis": 61,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 7,
+      "schluessel": "baihe",
+      "von": 62,
+      "bis": 63,
+      "de": "Der weiße Kranich breitet die Flügel aus",
+      "en": "White Crane Spreads Its Wings",
+      "pinyin": "Bái hè liàng chì",
+      "hanzi": "白鹤亮翅",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 8,
+      "schluessel": "xiexing",
+      "von": 64,
+      "bis": 83,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 9,
+      "schluessel": "chushou",
+      "von": 84,
+      "bis": 87,
+      "de": "Erstes Umfassen",
+      "en": "First Gathering",
+      "pinyin": "Chū shōu",
+      "hanzi": "初收",
+      "grenze": "markante Formphase",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 10,
+      "schluessel": "qiantang",
+      "von": 88,
+      "bis": 90,
+      "de": "Diagonal vorwärts im Gegenschritt",
+      "en": "Wading Forward with Twisted Steps",
+      "pinyin": "Qián tāng ào bù",
+      "hanzi": "前蹚拗步",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 11,
+      "schluessel": "xiexing",
+      "von": 91,
+      "bis": 92,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 12,
+      "schluessel": "zaishou",
+      "von": 93,
+      "bis": 95,
+      "de": "Wiederholtes Umfassen",
+      "en": "Gathering Again",
+      "pinyin": "Zài shōu",
+      "hanzi": "再收",
+      "grenze": "markante Formphase",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 13,
+      "schluessel": "qiantang",
+      "von": 96,
+      "bis": 98,
+      "de": "Diagonal vorwärts im Gegenschritt",
+      "en": "Wading Forward with Twisted Steps",
+      "pinyin": "Qián tāng ào bù",
+      "hanzi": "前蹚拗步",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 14,
+      "schluessel": "yanshou",
+      "von": 99,
+      "bis": 102,
+      "de": "Verdeckter Arm- und Fauststoß",
+      "en": "Covering Hand and Forearm Punch",
+      "pinyin": "Yǎn shǒu gōng quán",
+      "hanzi": "掩手肱拳",
+      "grenze": "markante Formphase",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 15,
+      "schluessel": "jingang",
+      "von": 103,
+      "bis": 110,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "grenze": "markante Formphase",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 16,
+      "schluessel": "pishen",
+      "von": 111,
+      "bis": 114,
+      "de": "Fauststoß mit eingedrehtem Körper",
+      "en": "Turning Body Punch",
+      "pinyin": "Piě shēn quán",
+      "hanzi": "撇身拳",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 17,
+      "schluessel": "beizhe",
+      "von": 115,
+      "bis": 117,
+      "de": "Mit der Schulter rückwärts schlagen",
+      "en": "Back-Folding Shoulder Strike",
+      "pinyin": "Bèi zhé kào",
+      "hanzi": "背折靠",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 18,
+      "schluessel": "qinglong",
+      "von": 118,
+      "bis": 128,
+      "de": "Der blaugrüne Drache steigt aus dem Wasser",
+      "en": "Green Dragon Emerges from Water",
+      "pinyin": "Qīng lóng chū shuǐ",
+      "hanzi": "青龙出水",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 19,
+      "schluessel": "shuangtui",
+      "von": 129,
+      "bis": 133,
+      "de": "Mit beiden Händen schieben",
+      "en": "Pushing with Both Hands",
+      "pinyin": "Shuāng tuī shǒu",
+      "hanzi": "双推手",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 20,
+      "schluessel": "sanhuan",
+      "von": 134,
+      "bis": 145,
+      "de": "Die Handflächen wechseln dreimal",
+      "en": "Three Palm Changes",
+      "pinyin": "Sān huàn zhǎng",
+      "hanzi": "三换掌",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 21,
+      "schluessel": "zhoudi",
+      "von": 146,
+      "bis": 148,
+      "de": "Die Faust unter dem Ellbogen",
+      "en": "Fist Beneath the Elbow",
+      "pinyin": "Zhǒu dǐ quán",
+      "hanzi": "肘底拳",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 22,
+      "schluessel": "daojuan",
+      "von": 149,
+      "bis": 161,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "grenze": "markante Formphase",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 23,
+      "schluessel": "tuibu",
+      "von": 162,
+      "bis": 165,
+      "de": "Schritt zurück und Ellbogenschlag",
+      "en": "Step Back and Press the Elbow",
+      "pinyin": "Tuì bù yā zhǒu",
+      "hanzi": "退步压肘",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 24,
+      "schluessel": "zhongpan",
+      "von": 166,
+      "bis": 169,
+      "de": "Aus der Mitte rundum schlagen",
+      "en": "Central Coiling Strikes",
+      "pinyin": "Zhōng pán",
+      "hanzi": "中盘",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 25,
+      "schluessel": "baihe",
+      "von": 170,
+      "bis": 177,
+      "de": "Der weiße Kranich breitet die Flügel aus",
+      "en": "White Crane Spreads Its Wings",
+      "pinyin": "Bái hè liàng chì",
+      "hanzi": "白鹤亮翅",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 26,
+      "schluessel": "xiexing",
+      "von": 178,
+      "bis": 191,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 27,
+      "schluessel": "shantong",
+      "von": 192,
+      "bis": 205,
+      "de": "Mit dem Rücken schnell ausweichen",
+      "en": "Flash Through the Back",
+      "pinyin": "Shǎn tōng bèi",
+      "hanzi": "闪通背",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 28,
+      "schluessel": "yanshou",
+      "von": 206,
+      "bis": 209,
+      "de": "Verdeckter Arm- und Fauststoß",
+      "en": "Covering Hand and Forearm Punch",
+      "pinyin": "Yǎn shǒu gōng quán",
+      "hanzi": "掩手肱拳",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 29,
+      "schluessel": "liufeng",
+      "von": 210,
+      "bis": 216,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "grenze": "markante Formphase",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 30,
+      "schluessel": "danbian",
+      "von": 217,
+      "bis": 220,
+      "de": "Die einzelne Peitsche",
+      "en": "Single Whip",
+      "pinyin": "Dān biān",
+      "hanzi": "单鞭",
+      "grenze": "markante Formphase",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 31,
+      "schluessel": "yunshou",
+      "von": 221,
+      "bis": 232,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "grenze": "markante Formphase",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 32,
+      "schluessel": "gaotan",
+      "von": 233,
+      "bis": 238,
+      "de": "Hoch zum Pferd strecken",
+      "en": "High Pat on Horse",
+      "pinyin": "Gāo tàn mǎ",
+      "hanzi": "高探马",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 33,
+      "schluessel": "youca",
+      "von": 239,
+      "bis": 247,
+      "de": "Mit dem rechten Fuß reiben",
+      "en": "Right Foot Slap",
+      "pinyin": "Yòu cā jiǎo",
+      "hanzi": "右擦脚",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 34,
+      "schluessel": "zuoca",
+      "von": 248,
+      "bis": 251,
+      "de": "Mit dem linken Fuß reiben",
+      "en": "Left Foot Slap",
+      "pinyin": "Zuǒ cā jiǎo",
+      "hanzi": "左擦脚",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 35,
+      "schluessel": "zuodeng",
+      "von": 252,
+      "bis": 258,
+      "de": "Linker Fersentritt",
+      "en": "Left Heel Kick",
+      "pinyin": "Zuǒ dēng yī gēn",
+      "hanzi": "左蹬一跟",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 36,
+      "schluessel": "qiantang",
+      "von": 259,
+      "bis": 264,
+      "de": "Diagonal vorwärts im Gegenschritt",
+      "en": "Wading Forward with Twisted Steps",
+      "pinyin": "Qián tāng ào bù",
+      "hanzi": "前蹚拗步",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 37,
+      "schluessel": "jidi",
+      "von": 265,
+      "bis": 270,
+      "de": "Mit der Faust nach unten schlagen",
+      "en": "Punching Downward",
+      "pinyin": "Jī dì chuí",
+      "hanzi": "击地捶",
+      "grenze": "markante Formphase",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 38,
+      "schluessel": "faner",
+      "von": 271,
+      "bis": 277,
+      "de": "Körper drehen und doppelt treten",
+      "en": "Turning Double Jump Kick",
+      "pinyin": "Fān shēn èr qǐ jiǎo",
+      "hanzi": "翻身二起脚",
+      "grenze": "markante Formphase",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 39,
+      "schluessel": "shoutou",
+      "von": 278,
+      "bis": 279,
+      "de": "Wie der Kopf einer Bestie",
+      "en": "Beast Head Posture",
+      "pinyin": "Shòu tóu shì",
+      "hanzi": "兽头势",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 40,
+      "schluessel": "xuanfeng",
+      "von": 280,
+      "bis": 286,
+      "de": "Treten wie ein Wirbelwind",
+      "en": "Whirlwind Kick",
+      "pinyin": "Xuàn fēng jiǎo",
+      "hanzi": "旋风脚",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 41,
+      "schluessel": "youdeng",
+      "von": 287,
+      "bis": 294,
+      "de": "Rechter Fersentritt",
+      "en": "Right Heel Kick",
+      "pinyin": "Yòu dēng yī gēn",
+      "hanzi": "右蹬一跟",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 42,
+      "schluessel": "yanshou",
+      "von": 295,
+      "bis": 301,
+      "de": "Verdeckter Arm- und Fauststoß",
+      "en": "Covering Hand and Forearm Punch",
+      "pinyin": "Yǎn shǒu gōng quán",
+      "hanzi": "掩手肱拳",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 43,
+      "schluessel": "xiaoqin",
+      "von": 302,
+      "bis": 316,
+      "de": "Kleines Fassen und Schlagen",
+      "en": "Small Grasp and Strike",
+      "pinyin": "Xiǎo qín dǎ",
+      "hanzi": "小擒打",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 44,
+      "schluessel": "baotou",
+      "von": 317,
+      "bis": 321,
+      "de": "Den Kopf schützen und den Berg schieben",
+      "en": "Cover the Head and Push the Mountain",
+      "pinyin": "Bào tóu tuī shān",
+      "hanzi": "抱头推山",
+      "grenze": "markante Formphase",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 45,
+      "schluessel": "sanhuan",
+      "von": 322,
+      "bis": 330,
+      "de": "Die Handflächen wechseln dreimal",
+      "en": "Three Palm Changes",
+      "pinyin": "Sān huàn zhǎng",
+      "hanzi": "三换掌",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 46,
+      "schluessel": "liufeng",
+      "von": 331,
+      "bis": 333,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 47,
+      "schluessel": "danbian",
+      "von": 334,
+      "bis": 336,
+      "de": "Die einzelne Peitsche",
+      "en": "Single Whip",
+      "pinyin": "Dān biān",
+      "hanzi": "单鞭",
+      "grenze": "markante Formphase",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 48,
+      "schluessel": "qianzhao",
+      "von": 337,
+      "bis": 338,
+      "de": "Von vorne aufnehmen",
+      "en": "Receiving from the Front",
+      "pinyin": "Qián zhāo",
+      "hanzi": "前招",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 49,
+      "schluessel": "houzhao",
+      "von": 339,
+      "bis": 341,
+      "de": "Von hinten aufnehmen",
+      "en": "Receiving from Behind",
+      "pinyin": "Hòu zhāo",
+      "hanzi": "后招",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 50,
+      "schluessel": "yema",
+      "von": 342,
+      "bis": 359,
+      "de": "Die Mähne des Wildpferdes teilt sich",
+      "en": "Parting the Wild Horse's Mane",
+      "pinyin": "Yě mǎ fēn zōng",
+      "hanzi": "野马分鬃",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 51,
+      "schluessel": "liufeng",
+      "von": 360,
+      "bis": 369,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 52,
+      "schluessel": "danbian",
+      "von": 370,
+      "bis": 373,
+      "de": "Die einzelne Peitsche",
+      "en": "Single Whip",
+      "pinyin": "Dān biān",
+      "hanzi": "单鞭",
+      "grenze": "markante Formphase",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 53,
+      "schluessel": "shuangzhen",
+      "von": 374,
+      "bis": 378,
+      "de": "Mit beiden Füßen stampfen",
+      "en": "Stamping Both Feet",
+      "pinyin": "Shuāng zhèn jiǎo",
+      "hanzi": "双震脚",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 54,
+      "schluessel": "yunu",
+      "von": 379,
+      "bis": 386,
+      "de": "Die Jadefrau wirft das Weberschiffchen",
+      "en": "Jade Maiden Works the Shuttle",
+      "pinyin": "Yù nǚ chuān suō",
+      "hanzi": "玉女穿梭",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 55,
+      "schluessel": "lanzha",
+      "von": 387,
+      "bis": 390,
+      "de": "Den Mantel befestigen",
+      "en": "Lazily Tying the Robe",
+      "pinyin": "Lǎn zhā yī",
+      "hanzi": "懒扎衣",
+      "grenze": "markante Formphase",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 56,
+      "schluessel": "liufeng",
+      "von": 391,
+      "bis": 398,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "grenze": "markante Formphase",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 57,
+      "schluessel": "danbian",
+      "von": 399,
+      "bis": 401,
+      "de": "Die einzelne Peitsche",
+      "en": "Single Whip",
+      "pinyin": "Dān biān",
+      "hanzi": "单鞭",
+      "grenze": "markante Formphase",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 58,
+      "schluessel": "yunshou",
+      "von": 402,
+      "bis": 413,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "grenze": "markante Formphase",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 59,
+      "schluessel": "baijiao",
+      "von": 414,
+      "bis": 417,
+      "de": "Fuß schwingen, sinken und Beine spreizen",
+      "en": "Swinging the Foot and Dropping Low",
+      "pinyin": "Bǎi jiǎo diē chà",
+      "hanzi": "摆脚跌岔",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 60,
+      "schluessel": "jinji",
+      "von": 418,
+      "bis": 423,
+      "de": "Der goldene Hahn steht auf einem Bein",
+      "en": "Golden Rooster Stands on One Leg",
+      "pinyin": "Zuǒ yòu jīn jī dú lì",
+      "hanzi": "左右金鸡独立",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 61,
+      "schluessel": "daojuan",
+      "von": 424,
+      "bis": 442,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "grenze": "markante Formphase",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 62,
+      "schluessel": "tuibu",
+      "von": 443,
+      "bis": 445,
+      "de": "Schritt zurück und Ellbogenschlag",
+      "en": "Step Back and Press the Elbow",
+      "pinyin": "Tuì bù yā zhǒu",
+      "hanzi": "退步压肘",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 63,
+      "schluessel": "zhongpan",
+      "von": 446,
+      "bis": 447,
+      "de": "Aus der Mitte rundum schlagen",
+      "en": "Central Coiling Strikes",
+      "pinyin": "Zhōng pán",
+      "hanzi": "中盘",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 64,
+      "schluessel": "baihe",
+      "von": 448,
+      "bis": 453,
+      "de": "Der weiße Kranich breitet die Flügel aus",
+      "en": "White Crane Spreads Its Wings",
+      "pinyin": "Bái hè liàng chì",
+      "hanzi": "白鹤亮翅",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 65,
+      "schluessel": "xiexing",
+      "von": 454,
+      "bis": 466,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 66,
+      "schluessel": "shantong",
+      "von": 467,
+      "bis": 480,
+      "de": "Mit dem Rücken schnell ausweichen",
+      "en": "Flash Through the Back",
+      "pinyin": "Shǎn tōng bèi",
+      "hanzi": "闪通背",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 67,
+      "schluessel": "yanshou",
+      "von": 481,
+      "bis": 485,
+      "de": "Verdeckter Arm- und Fauststoß",
+      "en": "Covering Hand and Forearm Punch",
+      "pinyin": "Yǎn shǒu gōng quán",
+      "hanzi": "掩手肱拳",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 68,
+      "schluessel": "liufeng",
+      "von": 486,
+      "bis": 493,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "grenze": "markante Formphase",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 69,
+      "schluessel": "danbian",
+      "von": 494,
+      "bis": 496,
+      "de": "Die einzelne Peitsche",
+      "en": "Single Whip",
+      "pinyin": "Dān biān",
+      "hanzi": "单鞭",
+      "grenze": "markante Formphase",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 70,
+      "schluessel": "yunshou",
+      "von": 497,
+      "bis": 511,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "grenze": "markante Formphase",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 71,
+      "schluessel": "gaotan",
+      "von": 512,
+      "bis": 515,
+      "de": "Hoch zum Pferd strecken",
+      "en": "High Pat on Horse",
+      "pinyin": "Gāo tàn mǎ",
+      "hanzi": "高探马",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 72,
+      "schluessel": "shizi",
+      "von": 516,
+      "bis": 529,
+      "de": "Lotusschwingen mit gekreuzten Armen",
+      "en": "Crossed-Arm Lotus Kick",
+      "pinyin": "Shí zì bǎi lián",
+      "hanzi": "十字摆莲",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 73,
+      "schluessel": "zhidang",
+      "von": 530,
+      "bis": 539,
+      "de": "Die Faust auf den Unterleib richten",
+      "en": "Punching toward the Groin",
+      "pinyin": "Zhǐ dāng chuí",
+      "hanzi": "指裆捶",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 74,
+      "schluessel": "baiyuan",
+      "von": 540,
+      "bis": 540,
+      "de": "Der weiße Affe reicht die Frucht",
+      "en": "White Ape Offers Fruit",
+      "pinyin": "Bái yuán xiàn guǒ",
+      "hanzi": "白猿献果",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 75,
+      "schluessel": "liufeng",
+      "von": 541,
+      "bis": 543,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "grenze": "markante Formphase",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 76,
+      "schluessel": "danbian",
+      "von": 544,
+      "bis": 547,
+      "de": "Die einzelne Peitsche",
+      "en": "Single Whip",
+      "pinyin": "Dān biān",
+      "hanzi": "单鞭",
+      "grenze": "markante Formphase",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 77,
+      "schluessel": "quedi",
+      "von": 548,
+      "bis": 550,
+      "de": "Der Drache neigt sich zum Boden",
+      "en": "Dragon Dips toward the Ground",
+      "pinyin": "Què dì lóng",
+      "hanzi": "雀地龙",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 78,
+      "schluessel": "qixing",
+      "von": 551,
+      "bis": 552,
+      "de": "Vorwärtsschreiten zu den sieben Sternen",
+      "en": "Step Forward into Seven Stars",
+      "pinyin": "Shàng bù qī xīng",
+      "hanzi": "上步七星",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 79,
+      "schluessel": "xiabu",
+      "von": 553,
+      "bis": 559,
+      "de": "Rückwärtsschreiten und Arme spreizen",
+      "en": "Step Back and Spread the Arms",
+      "pinyin": "Xià bù kuà gōng",
+      "hanzi": "下步跨肱",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 80,
+      "schluessel": "shuangbai",
+      "von": 560,
+      "bis": 571,
+      "de": "Drehen und doppelt Lotus schwingen",
+      "en": "Turn and Swing the Double Lotus",
+      "pinyin": "Zhuǎn shēn shuāng bǎi lián",
+      "hanzi": "转身双摆莲",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 81,
+      "schluessel": "dangtou",
+      "von": 572,
+      "bis": 576,
+      "de": "Kanonenschlag zum Kopf",
+      "en": "Cannon Strike toward the Head",
+      "pinyin": "Dāng tóu pào",
+      "hanzi": "当头炮",
+      "grenze": "markante Formphase",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 82,
+      "schluessel": "jingang",
+      "von": 577,
+      "bis": 581,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    },
+    {
+      "sequenz": 83,
+      "schluessel": "shoushi",
+      "von": 582,
+      "bis": 586,
+      "de": "Schlussstellung",
+      "en": "Closing Posture",
+      "pinyin": "Shōu shì",
+      "hanzi": "收势",
+      "grenze": "visuell angenähert",
+      "basis": "WCTAG-Namensliste; Endstellungen und Fotofolge"
+    }
+  ],
+  "bilder": {
+    "1": {
+      "sequenz": 1,
+      "de": "Vorbereitungsstellung",
+      "en": "Preparation",
+      "pinyin": "Yù bèi shì",
+      "hanzi": "预备势",
+      "uebergang": false
+    },
+    "2": {
+      "sequenz": 1,
+      "de": "Vorbereitungsstellung",
+      "en": "Preparation",
+      "pinyin": "Yù bèi shì",
+      "hanzi": "预备势",
+      "uebergang": false
+    },
+    "3": {
+      "sequenz": 1,
+      "de": "Vorbereitungsstellung",
+      "en": "Preparation",
+      "pinyin": "Yù bèi shì",
+      "hanzi": "预备势",
+      "uebergang": false
+    },
+    "4": {
+      "sequenz": 1,
+      "de": "Vorbereitungsstellung",
+      "en": "Preparation",
+      "pinyin": "Yù bèi shì",
+      "hanzi": "预备势",
+      "uebergang": false
+    },
+    "5": {
+      "sequenz": 2,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "6": {
+      "sequenz": 2,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "7": {
+      "sequenz": 2,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "8": {
+      "sequenz": 2,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "9": {
+      "sequenz": 2,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "10": {
+      "sequenz": 2,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "11": {
+      "sequenz": 2,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "12": {
+      "sequenz": 2,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "13": {
+      "sequenz": 2,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "14": {
+      "sequenz": 2,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "15": {
+      "sequenz": 3,
+      "de": "Den Mantel befestigen",
+      "en": "Lazily Tying the Robe",
+      "pinyin": "Lǎn zhā yī",
+      "hanzi": "懒扎衣",
+      "uebergang": false
+    },
+    "16": {
+      "sequenz": 3,
+      "de": "Den Mantel befestigen",
+      "en": "Lazily Tying the Robe",
+      "pinyin": "Lǎn zhā yī",
+      "hanzi": "懒扎衣",
+      "uebergang": false
+    },
+    "17": {
+      "sequenz": 3,
+      "de": "Den Mantel befestigen",
+      "en": "Lazily Tying the Robe",
+      "pinyin": "Lǎn zhā yī",
+      "hanzi": "懒扎衣",
+      "uebergang": false
+    },
+    "18": {
+      "sequenz": 3,
+      "de": "Den Mantel befestigen",
+      "en": "Lazily Tying the Robe",
+      "pinyin": "Lǎn zhā yī",
+      "hanzi": "懒扎衣",
+      "uebergang": false
+    },
+    "19": {
+      "sequenz": 3,
+      "de": "Den Mantel befestigen",
+      "en": "Lazily Tying the Robe",
+      "pinyin": "Lǎn zhā yī",
+      "hanzi": "懒扎衣",
+      "uebergang": false
+    },
+    "20": {
+      "sequenz": 3,
+      "de": "Den Mantel befestigen",
+      "en": "Lazily Tying the Robe",
+      "pinyin": "Lǎn zhā yī",
+      "hanzi": "懒扎衣",
+      "uebergang": false
+    },
+    "21": {
+      "sequenz": 3,
+      "de": "Den Mantel befestigen",
+      "en": "Lazily Tying the Robe",
+      "pinyin": "Lǎn zhā yī",
+      "hanzi": "懒扎衣",
+      "uebergang": false
+    },
+    "22": {
+      "sequenz": 3,
+      "de": "Den Mantel befestigen",
+      "en": "Lazily Tying the Robe",
+      "pinyin": "Lǎn zhā yī",
+      "hanzi": "懒扎衣",
+      "uebergang": false
+    },
+    "23": {
+      "sequenz": 3,
+      "de": "Den Mantel befestigen",
+      "en": "Lazily Tying the Robe",
+      "pinyin": "Lǎn zhā yī",
+      "hanzi": "懒扎衣",
+      "uebergang": false
+    },
+    "24": {
+      "sequenz": 3,
+      "de": "Den Mantel befestigen",
+      "en": "Lazily Tying the Robe",
+      "pinyin": "Lǎn zhā yī",
+      "hanzi": "懒扎衣",
+      "uebergang": false
+    },
+    "25": {
+      "sequenz": 3,
+      "de": "Den Mantel befestigen",
+      "en": "Lazily Tying the Robe",
+      "pinyin": "Lǎn zhā yī",
+      "hanzi": "懒扎衣",
+      "uebergang": false
+    },
+    "26": {
+      "sequenz": 4,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "27": {
+      "sequenz": 4,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "28": {
+      "sequenz": 4,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "29": {
+      "sequenz": 4,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "30": {
+      "sequenz": 4,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "31": {
+      "sequenz": 4,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "32": {
+      "sequenz": 4,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "33": {
+      "sequenz": 4,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "34": {
+      "sequenz": 4,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "35": {
+      "sequenz": 4,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "36": {
+      "sequenz": 5,
+      "de": "Die einzelne Peitsche",
+      "en": "Single Whip",
+      "pinyin": "Dān biān",
+      "hanzi": "单鞭",
+      "uebergang": false
+    },
+    "37": {
+      "sequenz": 5,
+      "de": "Die einzelne Peitsche",
+      "en": "Single Whip",
+      "pinyin": "Dān biān",
+      "hanzi": "单鞭",
+      "uebergang": false
+    },
+    "38": {
+      "sequenz": 5,
+      "de": "Die einzelne Peitsche",
+      "en": "Single Whip",
+      "pinyin": "Dān biān",
+      "hanzi": "单鞭",
+      "uebergang": false
+    },
+    "39": {
+      "sequenz": 5,
+      "de": "Die einzelne Peitsche",
+      "en": "Single Whip",
+      "pinyin": "Dān biān",
+      "hanzi": "单鞭",
+      "uebergang": true
+    },
+    "40": {
+      "sequenz": 6,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": true
+    },
+    "41": {
+      "sequenz": 6,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "42": {
+      "sequenz": 6,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "43": {
+      "sequenz": 6,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "44": {
+      "sequenz": 6,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "45": {
+      "sequenz": 6,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "46": {
+      "sequenz": 6,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "47": {
+      "sequenz": 6,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "48": {
+      "sequenz": 6,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "49": {
+      "sequenz": 6,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "50": {
+      "sequenz": 6,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "51": {
+      "sequenz": 6,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "52": {
+      "sequenz": 6,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "53": {
+      "sequenz": 6,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "54": {
+      "sequenz": 6,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "55": {
+      "sequenz": 6,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "56": {
+      "sequenz": 6,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "57": {
+      "sequenz": 6,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "58": {
+      "sequenz": 6,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "59": {
+      "sequenz": 6,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "60": {
+      "sequenz": 6,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "61": {
+      "sequenz": 6,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": true
+    },
+    "62": {
+      "sequenz": 7,
+      "de": "Der weiße Kranich breitet die Flügel aus",
+      "en": "White Crane Spreads Its Wings",
+      "pinyin": "Bái hè liàng chì",
+      "hanzi": "白鹤亮翅",
+      "uebergang": true
+    },
+    "63": {
+      "sequenz": 7,
+      "de": "Der weiße Kranich breitet die Flügel aus",
+      "en": "White Crane Spreads Its Wings",
+      "pinyin": "Bái hè liàng chì",
+      "hanzi": "白鹤亮翅",
+      "uebergang": true
+    },
+    "64": {
+      "sequenz": 8,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": true
+    },
+    "65": {
+      "sequenz": 8,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "66": {
+      "sequenz": 8,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "67": {
+      "sequenz": 8,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "68": {
+      "sequenz": 8,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "69": {
+      "sequenz": 8,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "70": {
+      "sequenz": 8,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "71": {
+      "sequenz": 8,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "72": {
+      "sequenz": 8,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "73": {
+      "sequenz": 8,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "74": {
+      "sequenz": 8,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "75": {
+      "sequenz": 8,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "76": {
+      "sequenz": 8,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "77": {
+      "sequenz": 8,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "78": {
+      "sequenz": 8,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "79": {
+      "sequenz": 8,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "80": {
+      "sequenz": 8,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "81": {
+      "sequenz": 8,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "82": {
+      "sequenz": 8,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "83": {
+      "sequenz": 8,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "84": {
+      "sequenz": 9,
+      "de": "Erstes Umfassen",
+      "en": "First Gathering",
+      "pinyin": "Chū shōu",
+      "hanzi": "初收",
+      "uebergang": false
+    },
+    "85": {
+      "sequenz": 9,
+      "de": "Erstes Umfassen",
+      "en": "First Gathering",
+      "pinyin": "Chū shōu",
+      "hanzi": "初收",
+      "uebergang": false
+    },
+    "86": {
+      "sequenz": 9,
+      "de": "Erstes Umfassen",
+      "en": "First Gathering",
+      "pinyin": "Chū shōu",
+      "hanzi": "初收",
+      "uebergang": false
+    },
+    "87": {
+      "sequenz": 9,
+      "de": "Erstes Umfassen",
+      "en": "First Gathering",
+      "pinyin": "Chū shōu",
+      "hanzi": "初收",
+      "uebergang": true
+    },
+    "88": {
+      "sequenz": 10,
+      "de": "Diagonal vorwärts im Gegenschritt",
+      "en": "Wading Forward with Twisted Steps",
+      "pinyin": "Qián tāng ào bù",
+      "hanzi": "前蹚拗步",
+      "uebergang": true
+    },
+    "89": {
+      "sequenz": 10,
+      "de": "Diagonal vorwärts im Gegenschritt",
+      "en": "Wading Forward with Twisted Steps",
+      "pinyin": "Qián tāng ào bù",
+      "hanzi": "前蹚拗步",
+      "uebergang": false
+    },
+    "90": {
+      "sequenz": 10,
+      "de": "Diagonal vorwärts im Gegenschritt",
+      "en": "Wading Forward with Twisted Steps",
+      "pinyin": "Qián tāng ào bù",
+      "hanzi": "前蹚拗步",
+      "uebergang": true
+    },
+    "91": {
+      "sequenz": 11,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": true
+    },
+    "92": {
+      "sequenz": 11,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "93": {
+      "sequenz": 12,
+      "de": "Wiederholtes Umfassen",
+      "en": "Gathering Again",
+      "pinyin": "Zài shōu",
+      "hanzi": "再收",
+      "uebergang": false
+    },
+    "94": {
+      "sequenz": 12,
+      "de": "Wiederholtes Umfassen",
+      "en": "Gathering Again",
+      "pinyin": "Zài shōu",
+      "hanzi": "再收",
+      "uebergang": false
+    },
+    "95": {
+      "sequenz": 12,
+      "de": "Wiederholtes Umfassen",
+      "en": "Gathering Again",
+      "pinyin": "Zài shōu",
+      "hanzi": "再收",
+      "uebergang": true
+    },
+    "96": {
+      "sequenz": 13,
+      "de": "Diagonal vorwärts im Gegenschritt",
+      "en": "Wading Forward with Twisted Steps",
+      "pinyin": "Qián tāng ào bù",
+      "hanzi": "前蹚拗步",
+      "uebergang": true
+    },
+    "97": {
+      "sequenz": 13,
+      "de": "Diagonal vorwärts im Gegenschritt",
+      "en": "Wading Forward with Twisted Steps",
+      "pinyin": "Qián tāng ào bù",
+      "hanzi": "前蹚拗步",
+      "uebergang": false
+    },
+    "98": {
+      "sequenz": 13,
+      "de": "Diagonal vorwärts im Gegenschritt",
+      "en": "Wading Forward with Twisted Steps",
+      "pinyin": "Qián tāng ào bù",
+      "hanzi": "前蹚拗步",
+      "uebergang": false
+    },
+    "99": {
+      "sequenz": 14,
+      "de": "Verdeckter Arm- und Fauststoß",
+      "en": "Covering Hand and Forearm Punch",
+      "pinyin": "Yǎn shǒu gōng quán",
+      "hanzi": "掩手肱拳",
+      "uebergang": false
+    },
+    "100": {
+      "sequenz": 14,
+      "de": "Verdeckter Arm- und Fauststoß",
+      "en": "Covering Hand and Forearm Punch",
+      "pinyin": "Yǎn shǒu gōng quán",
+      "hanzi": "掩手肱拳",
+      "uebergang": false
+    },
+    "101": {
+      "sequenz": 14,
+      "de": "Verdeckter Arm- und Fauststoß",
+      "en": "Covering Hand and Forearm Punch",
+      "pinyin": "Yǎn shǒu gōng quán",
+      "hanzi": "掩手肱拳",
+      "uebergang": false
+    },
+    "102": {
+      "sequenz": 14,
+      "de": "Verdeckter Arm- und Fauststoß",
+      "en": "Covering Hand and Forearm Punch",
+      "pinyin": "Yǎn shǒu gōng quán",
+      "hanzi": "掩手肱拳",
+      "uebergang": false
+    },
+    "103": {
+      "sequenz": 15,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "104": {
+      "sequenz": 15,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "105": {
+      "sequenz": 15,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "106": {
+      "sequenz": 15,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "107": {
+      "sequenz": 15,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "108": {
+      "sequenz": 15,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "109": {
+      "sequenz": 15,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "110": {
+      "sequenz": 15,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": true
+    },
+    "111": {
+      "sequenz": 16,
+      "de": "Fauststoß mit eingedrehtem Körper",
+      "en": "Turning Body Punch",
+      "pinyin": "Piě shēn quán",
+      "hanzi": "撇身拳",
+      "uebergang": true
+    },
+    "112": {
+      "sequenz": 16,
+      "de": "Fauststoß mit eingedrehtem Körper",
+      "en": "Turning Body Punch",
+      "pinyin": "Piě shēn quán",
+      "hanzi": "撇身拳",
+      "uebergang": false
+    },
+    "113": {
+      "sequenz": 16,
+      "de": "Fauststoß mit eingedrehtem Körper",
+      "en": "Turning Body Punch",
+      "pinyin": "Piě shēn quán",
+      "hanzi": "撇身拳",
+      "uebergang": false
+    },
+    "114": {
+      "sequenz": 16,
+      "de": "Fauststoß mit eingedrehtem Körper",
+      "en": "Turning Body Punch",
+      "pinyin": "Piě shēn quán",
+      "hanzi": "撇身拳",
+      "uebergang": true
+    },
+    "115": {
+      "sequenz": 17,
+      "de": "Mit der Schulter rückwärts schlagen",
+      "en": "Back-Folding Shoulder Strike",
+      "pinyin": "Bèi zhé kào",
+      "hanzi": "背折靠",
+      "uebergang": true
+    },
+    "116": {
+      "sequenz": 17,
+      "de": "Mit der Schulter rückwärts schlagen",
+      "en": "Back-Folding Shoulder Strike",
+      "pinyin": "Bèi zhé kào",
+      "hanzi": "背折靠",
+      "uebergang": false
+    },
+    "117": {
+      "sequenz": 17,
+      "de": "Mit der Schulter rückwärts schlagen",
+      "en": "Back-Folding Shoulder Strike",
+      "pinyin": "Bèi zhé kào",
+      "hanzi": "背折靠",
+      "uebergang": true
+    },
+    "118": {
+      "sequenz": 18,
+      "de": "Der blaugrüne Drache steigt aus dem Wasser",
+      "en": "Green Dragon Emerges from Water",
+      "pinyin": "Qīng lóng chū shuǐ",
+      "hanzi": "青龙出水",
+      "uebergang": true
+    },
+    "119": {
+      "sequenz": 18,
+      "de": "Der blaugrüne Drache steigt aus dem Wasser",
+      "en": "Green Dragon Emerges from Water",
+      "pinyin": "Qīng lóng chū shuǐ",
+      "hanzi": "青龙出水",
+      "uebergang": false
+    },
+    "120": {
+      "sequenz": 18,
+      "de": "Der blaugrüne Drache steigt aus dem Wasser",
+      "en": "Green Dragon Emerges from Water",
+      "pinyin": "Qīng lóng chū shuǐ",
+      "hanzi": "青龙出水",
+      "uebergang": false
+    },
+    "121": {
+      "sequenz": 18,
+      "de": "Der blaugrüne Drache steigt aus dem Wasser",
+      "en": "Green Dragon Emerges from Water",
+      "pinyin": "Qīng lóng chū shuǐ",
+      "hanzi": "青龙出水",
+      "uebergang": false
+    },
+    "122": {
+      "sequenz": 18,
+      "de": "Der blaugrüne Drache steigt aus dem Wasser",
+      "en": "Green Dragon Emerges from Water",
+      "pinyin": "Qīng lóng chū shuǐ",
+      "hanzi": "青龙出水",
+      "uebergang": false
+    },
+    "123": {
+      "sequenz": 18,
+      "de": "Der blaugrüne Drache steigt aus dem Wasser",
+      "en": "Green Dragon Emerges from Water",
+      "pinyin": "Qīng lóng chū shuǐ",
+      "hanzi": "青龙出水",
+      "uebergang": false
+    },
+    "124": {
+      "sequenz": 18,
+      "de": "Der blaugrüne Drache steigt aus dem Wasser",
+      "en": "Green Dragon Emerges from Water",
+      "pinyin": "Qīng lóng chū shuǐ",
+      "hanzi": "青龙出水",
+      "uebergang": false
+    },
+    "125": {
+      "sequenz": 18,
+      "de": "Der blaugrüne Drache steigt aus dem Wasser",
+      "en": "Green Dragon Emerges from Water",
+      "pinyin": "Qīng lóng chū shuǐ",
+      "hanzi": "青龙出水",
+      "uebergang": false
+    },
+    "126": {
+      "sequenz": 18,
+      "de": "Der blaugrüne Drache steigt aus dem Wasser",
+      "en": "Green Dragon Emerges from Water",
+      "pinyin": "Qīng lóng chū shuǐ",
+      "hanzi": "青龙出水",
+      "uebergang": false
+    },
+    "127": {
+      "sequenz": 18,
+      "de": "Der blaugrüne Drache steigt aus dem Wasser",
+      "en": "Green Dragon Emerges from Water",
+      "pinyin": "Qīng lóng chū shuǐ",
+      "hanzi": "青龙出水",
+      "uebergang": false
+    },
+    "128": {
+      "sequenz": 18,
+      "de": "Der blaugrüne Drache steigt aus dem Wasser",
+      "en": "Green Dragon Emerges from Water",
+      "pinyin": "Qīng lóng chū shuǐ",
+      "hanzi": "青龙出水",
+      "uebergang": true
+    },
+    "129": {
+      "sequenz": 19,
+      "de": "Mit beiden Händen schieben",
+      "en": "Pushing with Both Hands",
+      "pinyin": "Shuāng tuī shǒu",
+      "hanzi": "双推手",
+      "uebergang": true
+    },
+    "130": {
+      "sequenz": 19,
+      "de": "Mit beiden Händen schieben",
+      "en": "Pushing with Both Hands",
+      "pinyin": "Shuāng tuī shǒu",
+      "hanzi": "双推手",
+      "uebergang": false
+    },
+    "131": {
+      "sequenz": 19,
+      "de": "Mit beiden Händen schieben",
+      "en": "Pushing with Both Hands",
+      "pinyin": "Shuāng tuī shǒu",
+      "hanzi": "双推手",
+      "uebergang": false
+    },
+    "132": {
+      "sequenz": 19,
+      "de": "Mit beiden Händen schieben",
+      "en": "Pushing with Both Hands",
+      "pinyin": "Shuāng tuī shǒu",
+      "hanzi": "双推手",
+      "uebergang": false
+    },
+    "133": {
+      "sequenz": 19,
+      "de": "Mit beiden Händen schieben",
+      "en": "Pushing with Both Hands",
+      "pinyin": "Shuāng tuī shǒu",
+      "hanzi": "双推手",
+      "uebergang": true
+    },
+    "134": {
+      "sequenz": 20,
+      "de": "Die Handflächen wechseln dreimal",
+      "en": "Three Palm Changes",
+      "pinyin": "Sān huàn zhǎng",
+      "hanzi": "三换掌",
+      "uebergang": true
+    },
+    "135": {
+      "sequenz": 20,
+      "de": "Die Handflächen wechseln dreimal",
+      "en": "Three Palm Changes",
+      "pinyin": "Sān huàn zhǎng",
+      "hanzi": "三换掌",
+      "uebergang": false
+    },
+    "136": {
+      "sequenz": 20,
+      "de": "Die Handflächen wechseln dreimal",
+      "en": "Three Palm Changes",
+      "pinyin": "Sān huàn zhǎng",
+      "hanzi": "三换掌",
+      "uebergang": false
+    },
+    "137": {
+      "sequenz": 20,
+      "de": "Die Handflächen wechseln dreimal",
+      "en": "Three Palm Changes",
+      "pinyin": "Sān huàn zhǎng",
+      "hanzi": "三换掌",
+      "uebergang": false
+    },
+    "138": {
+      "sequenz": 20,
+      "de": "Die Handflächen wechseln dreimal",
+      "en": "Three Palm Changes",
+      "pinyin": "Sān huàn zhǎng",
+      "hanzi": "三换掌",
+      "uebergang": false
+    },
+    "139": {
+      "sequenz": 20,
+      "de": "Die Handflächen wechseln dreimal",
+      "en": "Three Palm Changes",
+      "pinyin": "Sān huàn zhǎng",
+      "hanzi": "三换掌",
+      "uebergang": false
+    },
+    "140": {
+      "sequenz": 20,
+      "de": "Die Handflächen wechseln dreimal",
+      "en": "Three Palm Changes",
+      "pinyin": "Sān huàn zhǎng",
+      "hanzi": "三换掌",
+      "uebergang": false
+    },
+    "141": {
+      "sequenz": 20,
+      "de": "Die Handflächen wechseln dreimal",
+      "en": "Three Palm Changes",
+      "pinyin": "Sān huàn zhǎng",
+      "hanzi": "三换掌",
+      "uebergang": false
+    },
+    "142": {
+      "sequenz": 20,
+      "de": "Die Handflächen wechseln dreimal",
+      "en": "Three Palm Changes",
+      "pinyin": "Sān huàn zhǎng",
+      "hanzi": "三换掌",
+      "uebergang": false
+    },
+    "143": {
+      "sequenz": 20,
+      "de": "Die Handflächen wechseln dreimal",
+      "en": "Three Palm Changes",
+      "pinyin": "Sān huàn zhǎng",
+      "hanzi": "三换掌",
+      "uebergang": false
+    },
+    "144": {
+      "sequenz": 20,
+      "de": "Die Handflächen wechseln dreimal",
+      "en": "Three Palm Changes",
+      "pinyin": "Sān huàn zhǎng",
+      "hanzi": "三换掌",
+      "uebergang": false
+    },
+    "145": {
+      "sequenz": 20,
+      "de": "Die Handflächen wechseln dreimal",
+      "en": "Three Palm Changes",
+      "pinyin": "Sān huàn zhǎng",
+      "hanzi": "三换掌",
+      "uebergang": true
+    },
+    "146": {
+      "sequenz": 21,
+      "de": "Die Faust unter dem Ellbogen",
+      "en": "Fist Beneath the Elbow",
+      "pinyin": "Zhǒu dǐ quán",
+      "hanzi": "肘底拳",
+      "uebergang": true
+    },
+    "147": {
+      "sequenz": 21,
+      "de": "Die Faust unter dem Ellbogen",
+      "en": "Fist Beneath the Elbow",
+      "pinyin": "Zhǒu dǐ quán",
+      "hanzi": "肘底拳",
+      "uebergang": false
+    },
+    "148": {
+      "sequenz": 21,
+      "de": "Die Faust unter dem Ellbogen",
+      "en": "Fist Beneath the Elbow",
+      "pinyin": "Zhǒu dǐ quán",
+      "hanzi": "肘底拳",
+      "uebergang": false
+    },
+    "149": {
+      "sequenz": 22,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "uebergang": false
+    },
+    "150": {
+      "sequenz": 22,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "uebergang": false
+    },
+    "151": {
+      "sequenz": 22,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "uebergang": false
+    },
+    "152": {
+      "sequenz": 22,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "uebergang": false
+    },
+    "153": {
+      "sequenz": 22,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "uebergang": false
+    },
+    "154": {
+      "sequenz": 22,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "uebergang": false
+    },
+    "155": {
+      "sequenz": 22,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "uebergang": false
+    },
+    "156": {
+      "sequenz": 22,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "uebergang": false
+    },
+    "157": {
+      "sequenz": 22,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "uebergang": false
+    },
+    "158": {
+      "sequenz": 22,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "uebergang": false
+    },
+    "159": {
+      "sequenz": 22,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "uebergang": false
+    },
+    "160": {
+      "sequenz": 22,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "uebergang": false
+    },
+    "161": {
+      "sequenz": 22,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "uebergang": true
+    },
+    "162": {
+      "sequenz": 23,
+      "de": "Schritt zurück und Ellbogenschlag",
+      "en": "Step Back and Press the Elbow",
+      "pinyin": "Tuì bù yā zhǒu",
+      "hanzi": "退步压肘",
+      "uebergang": true
+    },
+    "163": {
+      "sequenz": 23,
+      "de": "Schritt zurück und Ellbogenschlag",
+      "en": "Step Back and Press the Elbow",
+      "pinyin": "Tuì bù yā zhǒu",
+      "hanzi": "退步压肘",
+      "uebergang": false
+    },
+    "164": {
+      "sequenz": 23,
+      "de": "Schritt zurück und Ellbogenschlag",
+      "en": "Step Back and Press the Elbow",
+      "pinyin": "Tuì bù yā zhǒu",
+      "hanzi": "退步压肘",
+      "uebergang": false
+    },
+    "165": {
+      "sequenz": 23,
+      "de": "Schritt zurück und Ellbogenschlag",
+      "en": "Step Back and Press the Elbow",
+      "pinyin": "Tuì bù yā zhǒu",
+      "hanzi": "退步压肘",
+      "uebergang": true
+    },
+    "166": {
+      "sequenz": 24,
+      "de": "Aus der Mitte rundum schlagen",
+      "en": "Central Coiling Strikes",
+      "pinyin": "Zhōng pán",
+      "hanzi": "中盘",
+      "uebergang": true
+    },
+    "167": {
+      "sequenz": 24,
+      "de": "Aus der Mitte rundum schlagen",
+      "en": "Central Coiling Strikes",
+      "pinyin": "Zhōng pán",
+      "hanzi": "中盘",
+      "uebergang": false
+    },
+    "168": {
+      "sequenz": 24,
+      "de": "Aus der Mitte rundum schlagen",
+      "en": "Central Coiling Strikes",
+      "pinyin": "Zhōng pán",
+      "hanzi": "中盘",
+      "uebergang": false
+    },
+    "169": {
+      "sequenz": 24,
+      "de": "Aus der Mitte rundum schlagen",
+      "en": "Central Coiling Strikes",
+      "pinyin": "Zhōng pán",
+      "hanzi": "中盘",
+      "uebergang": true
+    },
+    "170": {
+      "sequenz": 25,
+      "de": "Der weiße Kranich breitet die Flügel aus",
+      "en": "White Crane Spreads Its Wings",
+      "pinyin": "Bái hè liàng chì",
+      "hanzi": "白鹤亮翅",
+      "uebergang": true
+    },
+    "171": {
+      "sequenz": 25,
+      "de": "Der weiße Kranich breitet die Flügel aus",
+      "en": "White Crane Spreads Its Wings",
+      "pinyin": "Bái hè liàng chì",
+      "hanzi": "白鹤亮翅",
+      "uebergang": false
+    },
+    "172": {
+      "sequenz": 25,
+      "de": "Der weiße Kranich breitet die Flügel aus",
+      "en": "White Crane Spreads Its Wings",
+      "pinyin": "Bái hè liàng chì",
+      "hanzi": "白鹤亮翅",
+      "uebergang": false
+    },
+    "173": {
+      "sequenz": 25,
+      "de": "Der weiße Kranich breitet die Flügel aus",
+      "en": "White Crane Spreads Its Wings",
+      "pinyin": "Bái hè liàng chì",
+      "hanzi": "白鹤亮翅",
+      "uebergang": false
+    },
+    "174": {
+      "sequenz": 25,
+      "de": "Der weiße Kranich breitet die Flügel aus",
+      "en": "White Crane Spreads Its Wings",
+      "pinyin": "Bái hè liàng chì",
+      "hanzi": "白鹤亮翅",
+      "uebergang": false
+    },
+    "175": {
+      "sequenz": 25,
+      "de": "Der weiße Kranich breitet die Flügel aus",
+      "en": "White Crane Spreads Its Wings",
+      "pinyin": "Bái hè liàng chì",
+      "hanzi": "白鹤亮翅",
+      "uebergang": false
+    },
+    "176": {
+      "sequenz": 25,
+      "de": "Der weiße Kranich breitet die Flügel aus",
+      "en": "White Crane Spreads Its Wings",
+      "pinyin": "Bái hè liàng chì",
+      "hanzi": "白鹤亮翅",
+      "uebergang": false
+    },
+    "177": {
+      "sequenz": 25,
+      "de": "Der weiße Kranich breitet die Flügel aus",
+      "en": "White Crane Spreads Its Wings",
+      "pinyin": "Bái hè liàng chì",
+      "hanzi": "白鹤亮翅",
+      "uebergang": true
+    },
+    "178": {
+      "sequenz": 26,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": true
+    },
+    "179": {
+      "sequenz": 26,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "180": {
+      "sequenz": 26,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "181": {
+      "sequenz": 26,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "182": {
+      "sequenz": 26,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "183": {
+      "sequenz": 26,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "184": {
+      "sequenz": 26,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "185": {
+      "sequenz": 26,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "186": {
+      "sequenz": 26,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "187": {
+      "sequenz": 26,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "188": {
+      "sequenz": 26,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "189": {
+      "sequenz": 26,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "190": {
+      "sequenz": 26,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "191": {
+      "sequenz": 26,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": true
+    },
+    "192": {
+      "sequenz": 27,
+      "de": "Mit dem Rücken schnell ausweichen",
+      "en": "Flash Through the Back",
+      "pinyin": "Shǎn tōng bèi",
+      "hanzi": "闪通背",
+      "uebergang": true
+    },
+    "193": {
+      "sequenz": 27,
+      "de": "Mit dem Rücken schnell ausweichen",
+      "en": "Flash Through the Back",
+      "pinyin": "Shǎn tōng bèi",
+      "hanzi": "闪通背",
+      "uebergang": false
+    },
+    "194": {
+      "sequenz": 27,
+      "de": "Mit dem Rücken schnell ausweichen",
+      "en": "Flash Through the Back",
+      "pinyin": "Shǎn tōng bèi",
+      "hanzi": "闪通背",
+      "uebergang": false
+    },
+    "195": {
+      "sequenz": 27,
+      "de": "Mit dem Rücken schnell ausweichen",
+      "en": "Flash Through the Back",
+      "pinyin": "Shǎn tōng bèi",
+      "hanzi": "闪通背",
+      "uebergang": false
+    },
+    "196": {
+      "sequenz": 27,
+      "de": "Mit dem Rücken schnell ausweichen",
+      "en": "Flash Through the Back",
+      "pinyin": "Shǎn tōng bèi",
+      "hanzi": "闪通背",
+      "uebergang": false
+    },
+    "197": {
+      "sequenz": 27,
+      "de": "Mit dem Rücken schnell ausweichen",
+      "en": "Flash Through the Back",
+      "pinyin": "Shǎn tōng bèi",
+      "hanzi": "闪通背",
+      "uebergang": false
+    },
+    "198": {
+      "sequenz": 27,
+      "de": "Mit dem Rücken schnell ausweichen",
+      "en": "Flash Through the Back",
+      "pinyin": "Shǎn tōng bèi",
+      "hanzi": "闪通背",
+      "uebergang": false
+    },
+    "199": {
+      "sequenz": 27,
+      "de": "Mit dem Rücken schnell ausweichen",
+      "en": "Flash Through the Back",
+      "pinyin": "Shǎn tōng bèi",
+      "hanzi": "闪通背",
+      "uebergang": false
+    },
+    "200": {
+      "sequenz": 27,
+      "de": "Mit dem Rücken schnell ausweichen",
+      "en": "Flash Through the Back",
+      "pinyin": "Shǎn tōng bèi",
+      "hanzi": "闪通背",
+      "uebergang": false
+    },
+    "201": {
+      "sequenz": 27,
+      "de": "Mit dem Rücken schnell ausweichen",
+      "en": "Flash Through the Back",
+      "pinyin": "Shǎn tōng bèi",
+      "hanzi": "闪通背",
+      "uebergang": false
+    },
+    "202": {
+      "sequenz": 27,
+      "de": "Mit dem Rücken schnell ausweichen",
+      "en": "Flash Through the Back",
+      "pinyin": "Shǎn tōng bèi",
+      "hanzi": "闪通背",
+      "uebergang": false
+    },
+    "203": {
+      "sequenz": 27,
+      "de": "Mit dem Rücken schnell ausweichen",
+      "en": "Flash Through the Back",
+      "pinyin": "Shǎn tōng bèi",
+      "hanzi": "闪通背",
+      "uebergang": false
+    },
+    "204": {
+      "sequenz": 27,
+      "de": "Mit dem Rücken schnell ausweichen",
+      "en": "Flash Through the Back",
+      "pinyin": "Shǎn tōng bèi",
+      "hanzi": "闪通背",
+      "uebergang": false
+    },
+    "205": {
+      "sequenz": 27,
+      "de": "Mit dem Rücken schnell ausweichen",
+      "en": "Flash Through the Back",
+      "pinyin": "Shǎn tōng bèi",
+      "hanzi": "闪通背",
+      "uebergang": true
+    },
+    "206": {
+      "sequenz": 28,
+      "de": "Verdeckter Arm- und Fauststoß",
+      "en": "Covering Hand and Forearm Punch",
+      "pinyin": "Yǎn shǒu gōng quán",
+      "hanzi": "掩手肱拳",
+      "uebergang": true
+    },
+    "207": {
+      "sequenz": 28,
+      "de": "Verdeckter Arm- und Fauststoß",
+      "en": "Covering Hand and Forearm Punch",
+      "pinyin": "Yǎn shǒu gōng quán",
+      "hanzi": "掩手肱拳",
+      "uebergang": false
+    },
+    "208": {
+      "sequenz": 28,
+      "de": "Verdeckter Arm- und Fauststoß",
+      "en": "Covering Hand and Forearm Punch",
+      "pinyin": "Yǎn shǒu gōng quán",
+      "hanzi": "掩手肱拳",
+      "uebergang": false
+    },
+    "209": {
+      "sequenz": 28,
+      "de": "Verdeckter Arm- und Fauststoß",
+      "en": "Covering Hand and Forearm Punch",
+      "pinyin": "Yǎn shǒu gōng quán",
+      "hanzi": "掩手肱拳",
+      "uebergang": false
+    },
+    "210": {
+      "sequenz": 29,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "211": {
+      "sequenz": 29,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "212": {
+      "sequenz": 29,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "213": {
+      "sequenz": 29,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "214": {
+      "sequenz": 29,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "215": {
+      "sequenz": 29,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "216": {
+      "sequenz": 29,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "217": {
+      "sequenz": 30,
+      "de": "Die einzelne Peitsche",
+      "en": "Single Whip",
+      "pinyin": "Dān biān",
+      "hanzi": "单鞭",
+      "uebergang": false
+    },
+    "218": {
+      "sequenz": 30,
+      "de": "Die einzelne Peitsche",
+      "en": "Single Whip",
+      "pinyin": "Dān biān",
+      "hanzi": "单鞭",
+      "uebergang": false
+    },
+    "219": {
+      "sequenz": 30,
+      "de": "Die einzelne Peitsche",
+      "en": "Single Whip",
+      "pinyin": "Dān biān",
+      "hanzi": "单鞭",
+      "uebergang": false
+    },
+    "220": {
+      "sequenz": 30,
+      "de": "Die einzelne Peitsche",
+      "en": "Single Whip",
+      "pinyin": "Dān biān",
+      "hanzi": "单鞭",
+      "uebergang": false
+    },
+    "221": {
+      "sequenz": 31,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "222": {
+      "sequenz": 31,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "223": {
+      "sequenz": 31,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "224": {
+      "sequenz": 31,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "225": {
+      "sequenz": 31,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "226": {
+      "sequenz": 31,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "227": {
+      "sequenz": 31,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "228": {
+      "sequenz": 31,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "229": {
+      "sequenz": 31,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "230": {
+      "sequenz": 31,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "231": {
+      "sequenz": 31,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "232": {
+      "sequenz": 31,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": true
+    },
+    "233": {
+      "sequenz": 32,
+      "de": "Hoch zum Pferd strecken",
+      "en": "High Pat on Horse",
+      "pinyin": "Gāo tàn mǎ",
+      "hanzi": "高探马",
+      "uebergang": true
+    },
+    "234": {
+      "sequenz": 32,
+      "de": "Hoch zum Pferd strecken",
+      "en": "High Pat on Horse",
+      "pinyin": "Gāo tàn mǎ",
+      "hanzi": "高探马",
+      "uebergang": false
+    },
+    "235": {
+      "sequenz": 32,
+      "de": "Hoch zum Pferd strecken",
+      "en": "High Pat on Horse",
+      "pinyin": "Gāo tàn mǎ",
+      "hanzi": "高探马",
+      "uebergang": false
+    },
+    "236": {
+      "sequenz": 32,
+      "de": "Hoch zum Pferd strecken",
+      "en": "High Pat on Horse",
+      "pinyin": "Gāo tàn mǎ",
+      "hanzi": "高探马",
+      "uebergang": false
+    },
+    "237": {
+      "sequenz": 32,
+      "de": "Hoch zum Pferd strecken",
+      "en": "High Pat on Horse",
+      "pinyin": "Gāo tàn mǎ",
+      "hanzi": "高探马",
+      "uebergang": false
+    },
+    "238": {
+      "sequenz": 32,
+      "de": "Hoch zum Pferd strecken",
+      "en": "High Pat on Horse",
+      "pinyin": "Gāo tàn mǎ",
+      "hanzi": "高探马",
+      "uebergang": true
+    },
+    "239": {
+      "sequenz": 33,
+      "de": "Mit dem rechten Fuß reiben",
+      "en": "Right Foot Slap",
+      "pinyin": "Yòu cā jiǎo",
+      "hanzi": "右擦脚",
+      "uebergang": true
+    },
+    "240": {
+      "sequenz": 33,
+      "de": "Mit dem rechten Fuß reiben",
+      "en": "Right Foot Slap",
+      "pinyin": "Yòu cā jiǎo",
+      "hanzi": "右擦脚",
+      "uebergang": false
+    },
+    "241": {
+      "sequenz": 33,
+      "de": "Mit dem rechten Fuß reiben",
+      "en": "Right Foot Slap",
+      "pinyin": "Yòu cā jiǎo",
+      "hanzi": "右擦脚",
+      "uebergang": false
+    },
+    "242": {
+      "sequenz": 33,
+      "de": "Mit dem rechten Fuß reiben",
+      "en": "Right Foot Slap",
+      "pinyin": "Yòu cā jiǎo",
+      "hanzi": "右擦脚",
+      "uebergang": false
+    },
+    "243": {
+      "sequenz": 33,
+      "de": "Mit dem rechten Fuß reiben",
+      "en": "Right Foot Slap",
+      "pinyin": "Yòu cā jiǎo",
+      "hanzi": "右擦脚",
+      "uebergang": false
+    },
+    "244": {
+      "sequenz": 33,
+      "de": "Mit dem rechten Fuß reiben",
+      "en": "Right Foot Slap",
+      "pinyin": "Yòu cā jiǎo",
+      "hanzi": "右擦脚",
+      "uebergang": false
+    },
+    "245": {
+      "sequenz": 33,
+      "de": "Mit dem rechten Fuß reiben",
+      "en": "Right Foot Slap",
+      "pinyin": "Yòu cā jiǎo",
+      "hanzi": "右擦脚",
+      "uebergang": false
+    },
+    "246": {
+      "sequenz": 33,
+      "de": "Mit dem rechten Fuß reiben",
+      "en": "Right Foot Slap",
+      "pinyin": "Yòu cā jiǎo",
+      "hanzi": "右擦脚",
+      "uebergang": false
+    },
+    "247": {
+      "sequenz": 33,
+      "de": "Mit dem rechten Fuß reiben",
+      "en": "Right Foot Slap",
+      "pinyin": "Yòu cā jiǎo",
+      "hanzi": "右擦脚",
+      "uebergang": true
+    },
+    "248": {
+      "sequenz": 34,
+      "de": "Mit dem linken Fuß reiben",
+      "en": "Left Foot Slap",
+      "pinyin": "Zuǒ cā jiǎo",
+      "hanzi": "左擦脚",
+      "uebergang": true
+    },
+    "249": {
+      "sequenz": 34,
+      "de": "Mit dem linken Fuß reiben",
+      "en": "Left Foot Slap",
+      "pinyin": "Zuǒ cā jiǎo",
+      "hanzi": "左擦脚",
+      "uebergang": false
+    },
+    "250": {
+      "sequenz": 34,
+      "de": "Mit dem linken Fuß reiben",
+      "en": "Left Foot Slap",
+      "pinyin": "Zuǒ cā jiǎo",
+      "hanzi": "左擦脚",
+      "uebergang": false
+    },
+    "251": {
+      "sequenz": 34,
+      "de": "Mit dem linken Fuß reiben",
+      "en": "Left Foot Slap",
+      "pinyin": "Zuǒ cā jiǎo",
+      "hanzi": "左擦脚",
+      "uebergang": true
+    },
+    "252": {
+      "sequenz": 35,
+      "de": "Linker Fersentritt",
+      "en": "Left Heel Kick",
+      "pinyin": "Zuǒ dēng yī gēn",
+      "hanzi": "左蹬一跟",
+      "uebergang": true
+    },
+    "253": {
+      "sequenz": 35,
+      "de": "Linker Fersentritt",
+      "en": "Left Heel Kick",
+      "pinyin": "Zuǒ dēng yī gēn",
+      "hanzi": "左蹬一跟",
+      "uebergang": false
+    },
+    "254": {
+      "sequenz": 35,
+      "de": "Linker Fersentritt",
+      "en": "Left Heel Kick",
+      "pinyin": "Zuǒ dēng yī gēn",
+      "hanzi": "左蹬一跟",
+      "uebergang": false
+    },
+    "255": {
+      "sequenz": 35,
+      "de": "Linker Fersentritt",
+      "en": "Left Heel Kick",
+      "pinyin": "Zuǒ dēng yī gēn",
+      "hanzi": "左蹬一跟",
+      "uebergang": false
+    },
+    "256": {
+      "sequenz": 35,
+      "de": "Linker Fersentritt",
+      "en": "Left Heel Kick",
+      "pinyin": "Zuǒ dēng yī gēn",
+      "hanzi": "左蹬一跟",
+      "uebergang": false
+    },
+    "257": {
+      "sequenz": 35,
+      "de": "Linker Fersentritt",
+      "en": "Left Heel Kick",
+      "pinyin": "Zuǒ dēng yī gēn",
+      "hanzi": "左蹬一跟",
+      "uebergang": false
+    },
+    "258": {
+      "sequenz": 35,
+      "de": "Linker Fersentritt",
+      "en": "Left Heel Kick",
+      "pinyin": "Zuǒ dēng yī gēn",
+      "hanzi": "左蹬一跟",
+      "uebergang": true
+    },
+    "259": {
+      "sequenz": 36,
+      "de": "Diagonal vorwärts im Gegenschritt",
+      "en": "Wading Forward with Twisted Steps",
+      "pinyin": "Qián tāng ào bù",
+      "hanzi": "前蹚拗步",
+      "uebergang": true
+    },
+    "260": {
+      "sequenz": 36,
+      "de": "Diagonal vorwärts im Gegenschritt",
+      "en": "Wading Forward with Twisted Steps",
+      "pinyin": "Qián tāng ào bù",
+      "hanzi": "前蹚拗步",
+      "uebergang": false
+    },
+    "261": {
+      "sequenz": 36,
+      "de": "Diagonal vorwärts im Gegenschritt",
+      "en": "Wading Forward with Twisted Steps",
+      "pinyin": "Qián tāng ào bù",
+      "hanzi": "前蹚拗步",
+      "uebergang": false
+    },
+    "262": {
+      "sequenz": 36,
+      "de": "Diagonal vorwärts im Gegenschritt",
+      "en": "Wading Forward with Twisted Steps",
+      "pinyin": "Qián tāng ào bù",
+      "hanzi": "前蹚拗步",
+      "uebergang": false
+    },
+    "263": {
+      "sequenz": 36,
+      "de": "Diagonal vorwärts im Gegenschritt",
+      "en": "Wading Forward with Twisted Steps",
+      "pinyin": "Qián tāng ào bù",
+      "hanzi": "前蹚拗步",
+      "uebergang": false
+    },
+    "264": {
+      "sequenz": 36,
+      "de": "Diagonal vorwärts im Gegenschritt",
+      "en": "Wading Forward with Twisted Steps",
+      "pinyin": "Qián tāng ào bù",
+      "hanzi": "前蹚拗步",
+      "uebergang": false
+    },
+    "265": {
+      "sequenz": 37,
+      "de": "Mit der Faust nach unten schlagen",
+      "en": "Punching Downward",
+      "pinyin": "Jī dì chuí",
+      "hanzi": "击地捶",
+      "uebergang": false
+    },
+    "266": {
+      "sequenz": 37,
+      "de": "Mit der Faust nach unten schlagen",
+      "en": "Punching Downward",
+      "pinyin": "Jī dì chuí",
+      "hanzi": "击地捶",
+      "uebergang": false
+    },
+    "267": {
+      "sequenz": 37,
+      "de": "Mit der Faust nach unten schlagen",
+      "en": "Punching Downward",
+      "pinyin": "Jī dì chuí",
+      "hanzi": "击地捶",
+      "uebergang": false
+    },
+    "268": {
+      "sequenz": 37,
+      "de": "Mit der Faust nach unten schlagen",
+      "en": "Punching Downward",
+      "pinyin": "Jī dì chuí",
+      "hanzi": "击地捶",
+      "uebergang": false
+    },
+    "269": {
+      "sequenz": 37,
+      "de": "Mit der Faust nach unten schlagen",
+      "en": "Punching Downward",
+      "pinyin": "Jī dì chuí",
+      "hanzi": "击地捶",
+      "uebergang": false
+    },
+    "270": {
+      "sequenz": 37,
+      "de": "Mit der Faust nach unten schlagen",
+      "en": "Punching Downward",
+      "pinyin": "Jī dì chuí",
+      "hanzi": "击地捶",
+      "uebergang": false
+    },
+    "271": {
+      "sequenz": 38,
+      "de": "Körper drehen und doppelt treten",
+      "en": "Turning Double Jump Kick",
+      "pinyin": "Fān shēn èr qǐ jiǎo",
+      "hanzi": "翻身二起脚",
+      "uebergang": false
+    },
+    "272": {
+      "sequenz": 38,
+      "de": "Körper drehen und doppelt treten",
+      "en": "Turning Double Jump Kick",
+      "pinyin": "Fān shēn èr qǐ jiǎo",
+      "hanzi": "翻身二起脚",
+      "uebergang": false
+    },
+    "273": {
+      "sequenz": 38,
+      "de": "Körper drehen und doppelt treten",
+      "en": "Turning Double Jump Kick",
+      "pinyin": "Fān shēn èr qǐ jiǎo",
+      "hanzi": "翻身二起脚",
+      "uebergang": false
+    },
+    "274": {
+      "sequenz": 38,
+      "de": "Körper drehen und doppelt treten",
+      "en": "Turning Double Jump Kick",
+      "pinyin": "Fān shēn èr qǐ jiǎo",
+      "hanzi": "翻身二起脚",
+      "uebergang": false
+    },
+    "275": {
+      "sequenz": 38,
+      "de": "Körper drehen und doppelt treten",
+      "en": "Turning Double Jump Kick",
+      "pinyin": "Fān shēn èr qǐ jiǎo",
+      "hanzi": "翻身二起脚",
+      "uebergang": false
+    },
+    "276": {
+      "sequenz": 38,
+      "de": "Körper drehen und doppelt treten",
+      "en": "Turning Double Jump Kick",
+      "pinyin": "Fān shēn èr qǐ jiǎo",
+      "hanzi": "翻身二起脚",
+      "uebergang": false
+    },
+    "277": {
+      "sequenz": 38,
+      "de": "Körper drehen und doppelt treten",
+      "en": "Turning Double Jump Kick",
+      "pinyin": "Fān shēn èr qǐ jiǎo",
+      "hanzi": "翻身二起脚",
+      "uebergang": true
+    },
+    "278": {
+      "sequenz": 39,
+      "de": "Wie der Kopf einer Bestie",
+      "en": "Beast Head Posture",
+      "pinyin": "Shòu tóu shì",
+      "hanzi": "兽头势",
+      "uebergang": true
+    },
+    "279": {
+      "sequenz": 39,
+      "de": "Wie der Kopf einer Bestie",
+      "en": "Beast Head Posture",
+      "pinyin": "Shòu tóu shì",
+      "hanzi": "兽头势",
+      "uebergang": true
+    },
+    "280": {
+      "sequenz": 40,
+      "de": "Treten wie ein Wirbelwind",
+      "en": "Whirlwind Kick",
+      "pinyin": "Xuàn fēng jiǎo",
+      "hanzi": "旋风脚",
+      "uebergang": true
+    },
+    "281": {
+      "sequenz": 40,
+      "de": "Treten wie ein Wirbelwind",
+      "en": "Whirlwind Kick",
+      "pinyin": "Xuàn fēng jiǎo",
+      "hanzi": "旋风脚",
+      "uebergang": false
+    },
+    "282": {
+      "sequenz": 40,
+      "de": "Treten wie ein Wirbelwind",
+      "en": "Whirlwind Kick",
+      "pinyin": "Xuàn fēng jiǎo",
+      "hanzi": "旋风脚",
+      "uebergang": false
+    },
+    "283": {
+      "sequenz": 40,
+      "de": "Treten wie ein Wirbelwind",
+      "en": "Whirlwind Kick",
+      "pinyin": "Xuàn fēng jiǎo",
+      "hanzi": "旋风脚",
+      "uebergang": false
+    },
+    "284": {
+      "sequenz": 40,
+      "de": "Treten wie ein Wirbelwind",
+      "en": "Whirlwind Kick",
+      "pinyin": "Xuàn fēng jiǎo",
+      "hanzi": "旋风脚",
+      "uebergang": false
+    },
+    "285": {
+      "sequenz": 40,
+      "de": "Treten wie ein Wirbelwind",
+      "en": "Whirlwind Kick",
+      "pinyin": "Xuàn fēng jiǎo",
+      "hanzi": "旋风脚",
+      "uebergang": false
+    },
+    "286": {
+      "sequenz": 40,
+      "de": "Treten wie ein Wirbelwind",
+      "en": "Whirlwind Kick",
+      "pinyin": "Xuàn fēng jiǎo",
+      "hanzi": "旋风脚",
+      "uebergang": true
+    },
+    "287": {
+      "sequenz": 41,
+      "de": "Rechter Fersentritt",
+      "en": "Right Heel Kick",
+      "pinyin": "Yòu dēng yī gēn",
+      "hanzi": "右蹬一跟",
+      "uebergang": true
+    },
+    "288": {
+      "sequenz": 41,
+      "de": "Rechter Fersentritt",
+      "en": "Right Heel Kick",
+      "pinyin": "Yòu dēng yī gēn",
+      "hanzi": "右蹬一跟",
+      "uebergang": false
+    },
+    "289": {
+      "sequenz": 41,
+      "de": "Rechter Fersentritt",
+      "en": "Right Heel Kick",
+      "pinyin": "Yòu dēng yī gēn",
+      "hanzi": "右蹬一跟",
+      "uebergang": false
+    },
+    "290": {
+      "sequenz": 41,
+      "de": "Rechter Fersentritt",
+      "en": "Right Heel Kick",
+      "pinyin": "Yòu dēng yī gēn",
+      "hanzi": "右蹬一跟",
+      "uebergang": false
+    },
+    "291": {
+      "sequenz": 41,
+      "de": "Rechter Fersentritt",
+      "en": "Right Heel Kick",
+      "pinyin": "Yòu dēng yī gēn",
+      "hanzi": "右蹬一跟",
+      "uebergang": false
+    },
+    "292": {
+      "sequenz": 41,
+      "de": "Rechter Fersentritt",
+      "en": "Right Heel Kick",
+      "pinyin": "Yòu dēng yī gēn",
+      "hanzi": "右蹬一跟",
+      "uebergang": false
+    },
+    "293": {
+      "sequenz": 41,
+      "de": "Rechter Fersentritt",
+      "en": "Right Heel Kick",
+      "pinyin": "Yòu dēng yī gēn",
+      "hanzi": "右蹬一跟",
+      "uebergang": false
+    },
+    "294": {
+      "sequenz": 41,
+      "de": "Rechter Fersentritt",
+      "en": "Right Heel Kick",
+      "pinyin": "Yòu dēng yī gēn",
+      "hanzi": "右蹬一跟",
+      "uebergang": true
+    },
+    "295": {
+      "sequenz": 42,
+      "de": "Verdeckter Arm- und Fauststoß",
+      "en": "Covering Hand and Forearm Punch",
+      "pinyin": "Yǎn shǒu gōng quán",
+      "hanzi": "掩手肱拳",
+      "uebergang": true
+    },
+    "296": {
+      "sequenz": 42,
+      "de": "Verdeckter Arm- und Fauststoß",
+      "en": "Covering Hand and Forearm Punch",
+      "pinyin": "Yǎn shǒu gōng quán",
+      "hanzi": "掩手肱拳",
+      "uebergang": false
+    },
+    "297": {
+      "sequenz": 42,
+      "de": "Verdeckter Arm- und Fauststoß",
+      "en": "Covering Hand and Forearm Punch",
+      "pinyin": "Yǎn shǒu gōng quán",
+      "hanzi": "掩手肱拳",
+      "uebergang": false
+    },
+    "298": {
+      "sequenz": 42,
+      "de": "Verdeckter Arm- und Fauststoß",
+      "en": "Covering Hand and Forearm Punch",
+      "pinyin": "Yǎn shǒu gōng quán",
+      "hanzi": "掩手肱拳",
+      "uebergang": false
+    },
+    "299": {
+      "sequenz": 42,
+      "de": "Verdeckter Arm- und Fauststoß",
+      "en": "Covering Hand and Forearm Punch",
+      "pinyin": "Yǎn shǒu gōng quán",
+      "hanzi": "掩手肱拳",
+      "uebergang": false
+    },
+    "300": {
+      "sequenz": 42,
+      "de": "Verdeckter Arm- und Fauststoß",
+      "en": "Covering Hand and Forearm Punch",
+      "pinyin": "Yǎn shǒu gōng quán",
+      "hanzi": "掩手肱拳",
+      "uebergang": false
+    },
+    "301": {
+      "sequenz": 42,
+      "de": "Verdeckter Arm- und Fauststoß",
+      "en": "Covering Hand and Forearm Punch",
+      "pinyin": "Yǎn shǒu gōng quán",
+      "hanzi": "掩手肱拳",
+      "uebergang": true
+    },
+    "302": {
+      "sequenz": 43,
+      "de": "Kleines Fassen und Schlagen",
+      "en": "Small Grasp and Strike",
+      "pinyin": "Xiǎo qín dǎ",
+      "hanzi": "小擒打",
+      "uebergang": true
+    },
+    "303": {
+      "sequenz": 43,
+      "de": "Kleines Fassen und Schlagen",
+      "en": "Small Grasp and Strike",
+      "pinyin": "Xiǎo qín dǎ",
+      "hanzi": "小擒打",
+      "uebergang": false
+    },
+    "304": {
+      "sequenz": 43,
+      "de": "Kleines Fassen und Schlagen",
+      "en": "Small Grasp and Strike",
+      "pinyin": "Xiǎo qín dǎ",
+      "hanzi": "小擒打",
+      "uebergang": false
+    },
+    "305": {
+      "sequenz": 43,
+      "de": "Kleines Fassen und Schlagen",
+      "en": "Small Grasp and Strike",
+      "pinyin": "Xiǎo qín dǎ",
+      "hanzi": "小擒打",
+      "uebergang": false
+    },
+    "306": {
+      "sequenz": 43,
+      "de": "Kleines Fassen und Schlagen",
+      "en": "Small Grasp and Strike",
+      "pinyin": "Xiǎo qín dǎ",
+      "hanzi": "小擒打",
+      "uebergang": false
+    },
+    "307": {
+      "sequenz": 43,
+      "de": "Kleines Fassen und Schlagen",
+      "en": "Small Grasp and Strike",
+      "pinyin": "Xiǎo qín dǎ",
+      "hanzi": "小擒打",
+      "uebergang": false
+    },
+    "308": {
+      "sequenz": 43,
+      "de": "Kleines Fassen und Schlagen",
+      "en": "Small Grasp and Strike",
+      "pinyin": "Xiǎo qín dǎ",
+      "hanzi": "小擒打",
+      "uebergang": false
+    },
+    "309": {
+      "sequenz": 43,
+      "de": "Kleines Fassen und Schlagen",
+      "en": "Small Grasp and Strike",
+      "pinyin": "Xiǎo qín dǎ",
+      "hanzi": "小擒打",
+      "uebergang": false
+    },
+    "310": {
+      "sequenz": 43,
+      "de": "Kleines Fassen und Schlagen",
+      "en": "Small Grasp and Strike",
+      "pinyin": "Xiǎo qín dǎ",
+      "hanzi": "小擒打",
+      "uebergang": false
+    },
+    "311": {
+      "sequenz": 43,
+      "de": "Kleines Fassen und Schlagen",
+      "en": "Small Grasp and Strike",
+      "pinyin": "Xiǎo qín dǎ",
+      "hanzi": "小擒打",
+      "uebergang": false
+    },
+    "312": {
+      "sequenz": 43,
+      "de": "Kleines Fassen und Schlagen",
+      "en": "Small Grasp and Strike",
+      "pinyin": "Xiǎo qín dǎ",
+      "hanzi": "小擒打",
+      "uebergang": false
+    },
+    "313": {
+      "sequenz": 43,
+      "de": "Kleines Fassen und Schlagen",
+      "en": "Small Grasp and Strike",
+      "pinyin": "Xiǎo qín dǎ",
+      "hanzi": "小擒打",
+      "uebergang": false
+    },
+    "314": {
+      "sequenz": 43,
+      "de": "Kleines Fassen und Schlagen",
+      "en": "Small Grasp and Strike",
+      "pinyin": "Xiǎo qín dǎ",
+      "hanzi": "小擒打",
+      "uebergang": false
+    },
+    "315": {
+      "sequenz": 43,
+      "de": "Kleines Fassen und Schlagen",
+      "en": "Small Grasp and Strike",
+      "pinyin": "Xiǎo qín dǎ",
+      "hanzi": "小擒打",
+      "uebergang": false
+    },
+    "316": {
+      "sequenz": 43,
+      "de": "Kleines Fassen und Schlagen",
+      "en": "Small Grasp and Strike",
+      "pinyin": "Xiǎo qín dǎ",
+      "hanzi": "小擒打",
+      "uebergang": false
+    },
+    "317": {
+      "sequenz": 44,
+      "de": "Den Kopf schützen und den Berg schieben",
+      "en": "Cover the Head and Push the Mountain",
+      "pinyin": "Bào tóu tuī shān",
+      "hanzi": "抱头推山",
+      "uebergang": false
+    },
+    "318": {
+      "sequenz": 44,
+      "de": "Den Kopf schützen und den Berg schieben",
+      "en": "Cover the Head and Push the Mountain",
+      "pinyin": "Bào tóu tuī shān",
+      "hanzi": "抱头推山",
+      "uebergang": false
+    },
+    "319": {
+      "sequenz": 44,
+      "de": "Den Kopf schützen und den Berg schieben",
+      "en": "Cover the Head and Push the Mountain",
+      "pinyin": "Bào tóu tuī shān",
+      "hanzi": "抱头推山",
+      "uebergang": false
+    },
+    "320": {
+      "sequenz": 44,
+      "de": "Den Kopf schützen und den Berg schieben",
+      "en": "Cover the Head and Push the Mountain",
+      "pinyin": "Bào tóu tuī shān",
+      "hanzi": "抱头推山",
+      "uebergang": false
+    },
+    "321": {
+      "sequenz": 44,
+      "de": "Den Kopf schützen und den Berg schieben",
+      "en": "Cover the Head and Push the Mountain",
+      "pinyin": "Bào tóu tuī shān",
+      "hanzi": "抱头推山",
+      "uebergang": true
+    },
+    "322": {
+      "sequenz": 45,
+      "de": "Die Handflächen wechseln dreimal",
+      "en": "Three Palm Changes",
+      "pinyin": "Sān huàn zhǎng",
+      "hanzi": "三换掌",
+      "uebergang": true
+    },
+    "323": {
+      "sequenz": 45,
+      "de": "Die Handflächen wechseln dreimal",
+      "en": "Three Palm Changes",
+      "pinyin": "Sān huàn zhǎng",
+      "hanzi": "三换掌",
+      "uebergang": false
+    },
+    "324": {
+      "sequenz": 45,
+      "de": "Die Handflächen wechseln dreimal",
+      "en": "Three Palm Changes",
+      "pinyin": "Sān huàn zhǎng",
+      "hanzi": "三换掌",
+      "uebergang": false
+    },
+    "325": {
+      "sequenz": 45,
+      "de": "Die Handflächen wechseln dreimal",
+      "en": "Three Palm Changes",
+      "pinyin": "Sān huàn zhǎng",
+      "hanzi": "三换掌",
+      "uebergang": false
+    },
+    "326": {
+      "sequenz": 45,
+      "de": "Die Handflächen wechseln dreimal",
+      "en": "Three Palm Changes",
+      "pinyin": "Sān huàn zhǎng",
+      "hanzi": "三换掌",
+      "uebergang": false
+    },
+    "327": {
+      "sequenz": 45,
+      "de": "Die Handflächen wechseln dreimal",
+      "en": "Three Palm Changes",
+      "pinyin": "Sān huàn zhǎng",
+      "hanzi": "三换掌",
+      "uebergang": false
+    },
+    "328": {
+      "sequenz": 45,
+      "de": "Die Handflächen wechseln dreimal",
+      "en": "Three Palm Changes",
+      "pinyin": "Sān huàn zhǎng",
+      "hanzi": "三换掌",
+      "uebergang": false
+    },
+    "329": {
+      "sequenz": 45,
+      "de": "Die Handflächen wechseln dreimal",
+      "en": "Three Palm Changes",
+      "pinyin": "Sān huàn zhǎng",
+      "hanzi": "三换掌",
+      "uebergang": false
+    },
+    "330": {
+      "sequenz": 45,
+      "de": "Die Handflächen wechseln dreimal",
+      "en": "Three Palm Changes",
+      "pinyin": "Sān huàn zhǎng",
+      "hanzi": "三换掌",
+      "uebergang": true
+    },
+    "331": {
+      "sequenz": 46,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": true
+    },
+    "332": {
+      "sequenz": 46,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "333": {
+      "sequenz": 46,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "334": {
+      "sequenz": 47,
+      "de": "Die einzelne Peitsche",
+      "en": "Single Whip",
+      "pinyin": "Dān biān",
+      "hanzi": "单鞭",
+      "uebergang": false
+    },
+    "335": {
+      "sequenz": 47,
+      "de": "Die einzelne Peitsche",
+      "en": "Single Whip",
+      "pinyin": "Dān biān",
+      "hanzi": "单鞭",
+      "uebergang": false
+    },
+    "336": {
+      "sequenz": 47,
+      "de": "Die einzelne Peitsche",
+      "en": "Single Whip",
+      "pinyin": "Dān biān",
+      "hanzi": "单鞭",
+      "uebergang": true
+    },
+    "337": {
+      "sequenz": 48,
+      "de": "Von vorne aufnehmen",
+      "en": "Receiving from the Front",
+      "pinyin": "Qián zhāo",
+      "hanzi": "前招",
+      "uebergang": true
+    },
+    "338": {
+      "sequenz": 48,
+      "de": "Von vorne aufnehmen",
+      "en": "Receiving from the Front",
+      "pinyin": "Qián zhāo",
+      "hanzi": "前招",
+      "uebergang": true
+    },
+    "339": {
+      "sequenz": 49,
+      "de": "Von hinten aufnehmen",
+      "en": "Receiving from Behind",
+      "pinyin": "Hòu zhāo",
+      "hanzi": "后招",
+      "uebergang": true
+    },
+    "340": {
+      "sequenz": 49,
+      "de": "Von hinten aufnehmen",
+      "en": "Receiving from Behind",
+      "pinyin": "Hòu zhāo",
+      "hanzi": "后招",
+      "uebergang": false
+    },
+    "341": {
+      "sequenz": 49,
+      "de": "Von hinten aufnehmen",
+      "en": "Receiving from Behind",
+      "pinyin": "Hòu zhāo",
+      "hanzi": "后招",
+      "uebergang": true
+    },
+    "342": {
+      "sequenz": 50,
+      "de": "Die Mähne des Wildpferdes teilt sich",
+      "en": "Parting the Wild Horse's Mane",
+      "pinyin": "Yě mǎ fēn zōng",
+      "hanzi": "野马分鬃",
+      "uebergang": true
+    },
+    "343": {
+      "sequenz": 50,
+      "de": "Die Mähne des Wildpferdes teilt sich",
+      "en": "Parting the Wild Horse's Mane",
+      "pinyin": "Yě mǎ fēn zōng",
+      "hanzi": "野马分鬃",
+      "uebergang": false
+    },
+    "344": {
+      "sequenz": 50,
+      "de": "Die Mähne des Wildpferdes teilt sich",
+      "en": "Parting the Wild Horse's Mane",
+      "pinyin": "Yě mǎ fēn zōng",
+      "hanzi": "野马分鬃",
+      "uebergang": false
+    },
+    "345": {
+      "sequenz": 50,
+      "de": "Die Mähne des Wildpferdes teilt sich",
+      "en": "Parting the Wild Horse's Mane",
+      "pinyin": "Yě mǎ fēn zōng",
+      "hanzi": "野马分鬃",
+      "uebergang": false
+    },
+    "346": {
+      "sequenz": 50,
+      "de": "Die Mähne des Wildpferdes teilt sich",
+      "en": "Parting the Wild Horse's Mane",
+      "pinyin": "Yě mǎ fēn zōng",
+      "hanzi": "野马分鬃",
+      "uebergang": false
+    },
+    "347": {
+      "sequenz": 50,
+      "de": "Die Mähne des Wildpferdes teilt sich",
+      "en": "Parting the Wild Horse's Mane",
+      "pinyin": "Yě mǎ fēn zōng",
+      "hanzi": "野马分鬃",
+      "uebergang": false
+    },
+    "348": {
+      "sequenz": 50,
+      "de": "Die Mähne des Wildpferdes teilt sich",
+      "en": "Parting the Wild Horse's Mane",
+      "pinyin": "Yě mǎ fēn zōng",
+      "hanzi": "野马分鬃",
+      "uebergang": false
+    },
+    "349": {
+      "sequenz": 50,
+      "de": "Die Mähne des Wildpferdes teilt sich",
+      "en": "Parting the Wild Horse's Mane",
+      "pinyin": "Yě mǎ fēn zōng",
+      "hanzi": "野马分鬃",
+      "uebergang": false
+    },
+    "350": {
+      "sequenz": 50,
+      "de": "Die Mähne des Wildpferdes teilt sich",
+      "en": "Parting the Wild Horse's Mane",
+      "pinyin": "Yě mǎ fēn zōng",
+      "hanzi": "野马分鬃",
+      "uebergang": false
+    },
+    "351": {
+      "sequenz": 50,
+      "de": "Die Mähne des Wildpferdes teilt sich",
+      "en": "Parting the Wild Horse's Mane",
+      "pinyin": "Yě mǎ fēn zōng",
+      "hanzi": "野马分鬃",
+      "uebergang": false
+    },
+    "352": {
+      "sequenz": 50,
+      "de": "Die Mähne des Wildpferdes teilt sich",
+      "en": "Parting the Wild Horse's Mane",
+      "pinyin": "Yě mǎ fēn zōng",
+      "hanzi": "野马分鬃",
+      "uebergang": false
+    },
+    "353": {
+      "sequenz": 50,
+      "de": "Die Mähne des Wildpferdes teilt sich",
+      "en": "Parting the Wild Horse's Mane",
+      "pinyin": "Yě mǎ fēn zōng",
+      "hanzi": "野马分鬃",
+      "uebergang": false
+    },
+    "354": {
+      "sequenz": 50,
+      "de": "Die Mähne des Wildpferdes teilt sich",
+      "en": "Parting the Wild Horse's Mane",
+      "pinyin": "Yě mǎ fēn zōng",
+      "hanzi": "野马分鬃",
+      "uebergang": false
+    },
+    "355": {
+      "sequenz": 50,
+      "de": "Die Mähne des Wildpferdes teilt sich",
+      "en": "Parting the Wild Horse's Mane",
+      "pinyin": "Yě mǎ fēn zōng",
+      "hanzi": "野马分鬃",
+      "uebergang": false
+    },
+    "356": {
+      "sequenz": 50,
+      "de": "Die Mähne des Wildpferdes teilt sich",
+      "en": "Parting the Wild Horse's Mane",
+      "pinyin": "Yě mǎ fēn zōng",
+      "hanzi": "野马分鬃",
+      "uebergang": false
+    },
+    "357": {
+      "sequenz": 50,
+      "de": "Die Mähne des Wildpferdes teilt sich",
+      "en": "Parting the Wild Horse's Mane",
+      "pinyin": "Yě mǎ fēn zōng",
+      "hanzi": "野马分鬃",
+      "uebergang": false
+    },
+    "358": {
+      "sequenz": 50,
+      "de": "Die Mähne des Wildpferdes teilt sich",
+      "en": "Parting the Wild Horse's Mane",
+      "pinyin": "Yě mǎ fēn zōng",
+      "hanzi": "野马分鬃",
+      "uebergang": false
+    },
+    "359": {
+      "sequenz": 50,
+      "de": "Die Mähne des Wildpferdes teilt sich",
+      "en": "Parting the Wild Horse's Mane",
+      "pinyin": "Yě mǎ fēn zōng",
+      "hanzi": "野马分鬃",
+      "uebergang": true
+    },
+    "360": {
+      "sequenz": 51,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": true
+    },
+    "361": {
+      "sequenz": 51,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "362": {
+      "sequenz": 51,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "363": {
+      "sequenz": 51,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "364": {
+      "sequenz": 51,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "365": {
+      "sequenz": 51,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "366": {
+      "sequenz": 51,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "367": {
+      "sequenz": 51,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "368": {
+      "sequenz": 51,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "369": {
+      "sequenz": 51,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "370": {
+      "sequenz": 52,
+      "de": "Die einzelne Peitsche",
+      "en": "Single Whip",
+      "pinyin": "Dān biān",
+      "hanzi": "单鞭",
+      "uebergang": false
+    },
+    "371": {
+      "sequenz": 52,
+      "de": "Die einzelne Peitsche",
+      "en": "Single Whip",
+      "pinyin": "Dān biān",
+      "hanzi": "单鞭",
+      "uebergang": false
+    },
+    "372": {
+      "sequenz": 52,
+      "de": "Die einzelne Peitsche",
+      "en": "Single Whip",
+      "pinyin": "Dān biān",
+      "hanzi": "单鞭",
+      "uebergang": false
+    },
+    "373": {
+      "sequenz": 52,
+      "de": "Die einzelne Peitsche",
+      "en": "Single Whip",
+      "pinyin": "Dān biān",
+      "hanzi": "单鞭",
+      "uebergang": true
+    },
+    "374": {
+      "sequenz": 53,
+      "de": "Mit beiden Füßen stampfen",
+      "en": "Stamping Both Feet",
+      "pinyin": "Shuāng zhèn jiǎo",
+      "hanzi": "双震脚",
+      "uebergang": true
+    },
+    "375": {
+      "sequenz": 53,
+      "de": "Mit beiden Füßen stampfen",
+      "en": "Stamping Both Feet",
+      "pinyin": "Shuāng zhèn jiǎo",
+      "hanzi": "双震脚",
+      "uebergang": false
+    },
+    "376": {
+      "sequenz": 53,
+      "de": "Mit beiden Füßen stampfen",
+      "en": "Stamping Both Feet",
+      "pinyin": "Shuāng zhèn jiǎo",
+      "hanzi": "双震脚",
+      "uebergang": false
+    },
+    "377": {
+      "sequenz": 53,
+      "de": "Mit beiden Füßen stampfen",
+      "en": "Stamping Both Feet",
+      "pinyin": "Shuāng zhèn jiǎo",
+      "hanzi": "双震脚",
+      "uebergang": false
+    },
+    "378": {
+      "sequenz": 53,
+      "de": "Mit beiden Füßen stampfen",
+      "en": "Stamping Both Feet",
+      "pinyin": "Shuāng zhèn jiǎo",
+      "hanzi": "双震脚",
+      "uebergang": true
+    },
+    "379": {
+      "sequenz": 54,
+      "de": "Die Jadefrau wirft das Weberschiffchen",
+      "en": "Jade Maiden Works the Shuttle",
+      "pinyin": "Yù nǚ chuān suō",
+      "hanzi": "玉女穿梭",
+      "uebergang": true
+    },
+    "380": {
+      "sequenz": 54,
+      "de": "Die Jadefrau wirft das Weberschiffchen",
+      "en": "Jade Maiden Works the Shuttle",
+      "pinyin": "Yù nǚ chuān suō",
+      "hanzi": "玉女穿梭",
+      "uebergang": false
+    },
+    "381": {
+      "sequenz": 54,
+      "de": "Die Jadefrau wirft das Weberschiffchen",
+      "en": "Jade Maiden Works the Shuttle",
+      "pinyin": "Yù nǚ chuān suō",
+      "hanzi": "玉女穿梭",
+      "uebergang": false
+    },
+    "382": {
+      "sequenz": 54,
+      "de": "Die Jadefrau wirft das Weberschiffchen",
+      "en": "Jade Maiden Works the Shuttle",
+      "pinyin": "Yù nǚ chuān suō",
+      "hanzi": "玉女穿梭",
+      "uebergang": false
+    },
+    "383": {
+      "sequenz": 54,
+      "de": "Die Jadefrau wirft das Weberschiffchen",
+      "en": "Jade Maiden Works the Shuttle",
+      "pinyin": "Yù nǚ chuān suō",
+      "hanzi": "玉女穿梭",
+      "uebergang": false
+    },
+    "384": {
+      "sequenz": 54,
+      "de": "Die Jadefrau wirft das Weberschiffchen",
+      "en": "Jade Maiden Works the Shuttle",
+      "pinyin": "Yù nǚ chuān suō",
+      "hanzi": "玉女穿梭",
+      "uebergang": false
+    },
+    "385": {
+      "sequenz": 54,
+      "de": "Die Jadefrau wirft das Weberschiffchen",
+      "en": "Jade Maiden Works the Shuttle",
+      "pinyin": "Yù nǚ chuān suō",
+      "hanzi": "玉女穿梭",
+      "uebergang": false
+    },
+    "386": {
+      "sequenz": 54,
+      "de": "Die Jadefrau wirft das Weberschiffchen",
+      "en": "Jade Maiden Works the Shuttle",
+      "pinyin": "Yù nǚ chuān suō",
+      "hanzi": "玉女穿梭",
+      "uebergang": false
+    },
+    "387": {
+      "sequenz": 55,
+      "de": "Den Mantel befestigen",
+      "en": "Lazily Tying the Robe",
+      "pinyin": "Lǎn zhā yī",
+      "hanzi": "懒扎衣",
+      "uebergang": false
+    },
+    "388": {
+      "sequenz": 55,
+      "de": "Den Mantel befestigen",
+      "en": "Lazily Tying the Robe",
+      "pinyin": "Lǎn zhā yī",
+      "hanzi": "懒扎衣",
+      "uebergang": false
+    },
+    "389": {
+      "sequenz": 55,
+      "de": "Den Mantel befestigen",
+      "en": "Lazily Tying the Robe",
+      "pinyin": "Lǎn zhā yī",
+      "hanzi": "懒扎衣",
+      "uebergang": false
+    },
+    "390": {
+      "sequenz": 55,
+      "de": "Den Mantel befestigen",
+      "en": "Lazily Tying the Robe",
+      "pinyin": "Lǎn zhā yī",
+      "hanzi": "懒扎衣",
+      "uebergang": false
+    },
+    "391": {
+      "sequenz": 56,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "392": {
+      "sequenz": 56,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "393": {
+      "sequenz": 56,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "394": {
+      "sequenz": 56,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "395": {
+      "sequenz": 56,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "396": {
+      "sequenz": 56,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "397": {
+      "sequenz": 56,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "398": {
+      "sequenz": 56,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "399": {
+      "sequenz": 57,
+      "de": "Die einzelne Peitsche",
+      "en": "Single Whip",
+      "pinyin": "Dān biān",
+      "hanzi": "单鞭",
+      "uebergang": false
+    },
+    "400": {
+      "sequenz": 57,
+      "de": "Die einzelne Peitsche",
+      "en": "Single Whip",
+      "pinyin": "Dān biān",
+      "hanzi": "单鞭",
+      "uebergang": false
+    },
+    "401": {
+      "sequenz": 57,
+      "de": "Die einzelne Peitsche",
+      "en": "Single Whip",
+      "pinyin": "Dān biān",
+      "hanzi": "单鞭",
+      "uebergang": false
+    },
+    "402": {
+      "sequenz": 58,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "403": {
+      "sequenz": 58,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "404": {
+      "sequenz": 58,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "405": {
+      "sequenz": 58,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "406": {
+      "sequenz": 58,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "407": {
+      "sequenz": 58,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "408": {
+      "sequenz": 58,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "409": {
+      "sequenz": 58,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "410": {
+      "sequenz": 58,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "411": {
+      "sequenz": 58,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "412": {
+      "sequenz": 58,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "413": {
+      "sequenz": 58,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": true
+    },
+    "414": {
+      "sequenz": 59,
+      "de": "Fuß schwingen, sinken und Beine spreizen",
+      "en": "Swinging the Foot and Dropping Low",
+      "pinyin": "Bǎi jiǎo diē chà",
+      "hanzi": "摆脚跌岔",
+      "uebergang": true
+    },
+    "415": {
+      "sequenz": 59,
+      "de": "Fuß schwingen, sinken und Beine spreizen",
+      "en": "Swinging the Foot and Dropping Low",
+      "pinyin": "Bǎi jiǎo diē chà",
+      "hanzi": "摆脚跌岔",
+      "uebergang": false
+    },
+    "416": {
+      "sequenz": 59,
+      "de": "Fuß schwingen, sinken und Beine spreizen",
+      "en": "Swinging the Foot and Dropping Low",
+      "pinyin": "Bǎi jiǎo diē chà",
+      "hanzi": "摆脚跌岔",
+      "uebergang": false
+    },
+    "417": {
+      "sequenz": 59,
+      "de": "Fuß schwingen, sinken und Beine spreizen",
+      "en": "Swinging the Foot and Dropping Low",
+      "pinyin": "Bǎi jiǎo diē chà",
+      "hanzi": "摆脚跌岔",
+      "uebergang": true
+    },
+    "418": {
+      "sequenz": 60,
+      "de": "Der goldene Hahn steht auf einem Bein",
+      "en": "Golden Rooster Stands on One Leg",
+      "pinyin": "Zuǒ yòu jīn jī dú lì",
+      "hanzi": "左右金鸡独立",
+      "uebergang": true
+    },
+    "419": {
+      "sequenz": 60,
+      "de": "Der goldene Hahn steht auf einem Bein",
+      "en": "Golden Rooster Stands on One Leg",
+      "pinyin": "Zuǒ yòu jīn jī dú lì",
+      "hanzi": "左右金鸡独立",
+      "uebergang": false
+    },
+    "420": {
+      "sequenz": 60,
+      "de": "Der goldene Hahn steht auf einem Bein",
+      "en": "Golden Rooster Stands on One Leg",
+      "pinyin": "Zuǒ yòu jīn jī dú lì",
+      "hanzi": "左右金鸡独立",
+      "uebergang": false
+    },
+    "421": {
+      "sequenz": 60,
+      "de": "Der goldene Hahn steht auf einem Bein",
+      "en": "Golden Rooster Stands on One Leg",
+      "pinyin": "Zuǒ yòu jīn jī dú lì",
+      "hanzi": "左右金鸡独立",
+      "uebergang": false
+    },
+    "422": {
+      "sequenz": 60,
+      "de": "Der goldene Hahn steht auf einem Bein",
+      "en": "Golden Rooster Stands on One Leg",
+      "pinyin": "Zuǒ yòu jīn jī dú lì",
+      "hanzi": "左右金鸡独立",
+      "uebergang": false
+    },
+    "423": {
+      "sequenz": 60,
+      "de": "Der goldene Hahn steht auf einem Bein",
+      "en": "Golden Rooster Stands on One Leg",
+      "pinyin": "Zuǒ yòu jīn jī dú lì",
+      "hanzi": "左右金鸡独立",
+      "uebergang": false
+    },
+    "424": {
+      "sequenz": 61,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "uebergang": false
+    },
+    "425": {
+      "sequenz": 61,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "uebergang": false
+    },
+    "426": {
+      "sequenz": 61,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "uebergang": false
+    },
+    "427": {
+      "sequenz": 61,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "uebergang": false
+    },
+    "428": {
+      "sequenz": 61,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "uebergang": false
+    },
+    "429": {
+      "sequenz": 61,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "uebergang": false
+    },
+    "430": {
+      "sequenz": 61,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "uebergang": false
+    },
+    "431": {
+      "sequenz": 61,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "uebergang": false
+    },
+    "432": {
+      "sequenz": 61,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "uebergang": false
+    },
+    "433": {
+      "sequenz": 61,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "uebergang": false
+    },
+    "434": {
+      "sequenz": 61,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "uebergang": false
+    },
+    "435": {
+      "sequenz": 61,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "uebergang": false
+    },
+    "436": {
+      "sequenz": 61,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "uebergang": false
+    },
+    "437": {
+      "sequenz": 61,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "uebergang": false
+    },
+    "438": {
+      "sequenz": 61,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "uebergang": false
+    },
+    "439": {
+      "sequenz": 61,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "uebergang": false
+    },
+    "440": {
+      "sequenz": 61,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "uebergang": false
+    },
+    "441": {
+      "sequenz": 61,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "uebergang": false
+    },
+    "442": {
+      "sequenz": 61,
+      "de": "Rückwärtsgehen und die Arme einrollen",
+      "en": "Stepping Back and Rolling the Arms",
+      "pinyin": "Dào juǎn gōng",
+      "hanzi": "倒卷肱",
+      "uebergang": true
+    },
+    "443": {
+      "sequenz": 62,
+      "de": "Schritt zurück und Ellbogenschlag",
+      "en": "Step Back and Press the Elbow",
+      "pinyin": "Tuì bù yā zhǒu",
+      "hanzi": "退步压肘",
+      "uebergang": true
+    },
+    "444": {
+      "sequenz": 62,
+      "de": "Schritt zurück und Ellbogenschlag",
+      "en": "Step Back and Press the Elbow",
+      "pinyin": "Tuì bù yā zhǒu",
+      "hanzi": "退步压肘",
+      "uebergang": false
+    },
+    "445": {
+      "sequenz": 62,
+      "de": "Schritt zurück und Ellbogenschlag",
+      "en": "Step Back and Press the Elbow",
+      "pinyin": "Tuì bù yā zhǒu",
+      "hanzi": "退步压肘",
+      "uebergang": true
+    },
+    "446": {
+      "sequenz": 63,
+      "de": "Aus der Mitte rundum schlagen",
+      "en": "Central Coiling Strikes",
+      "pinyin": "Zhōng pán",
+      "hanzi": "中盘",
+      "uebergang": true
+    },
+    "447": {
+      "sequenz": 63,
+      "de": "Aus der Mitte rundum schlagen",
+      "en": "Central Coiling Strikes",
+      "pinyin": "Zhōng pán",
+      "hanzi": "中盘",
+      "uebergang": true
+    },
+    "448": {
+      "sequenz": 64,
+      "de": "Der weiße Kranich breitet die Flügel aus",
+      "en": "White Crane Spreads Its Wings",
+      "pinyin": "Bái hè liàng chì",
+      "hanzi": "白鹤亮翅",
+      "uebergang": true
+    },
+    "449": {
+      "sequenz": 64,
+      "de": "Der weiße Kranich breitet die Flügel aus",
+      "en": "White Crane Spreads Its Wings",
+      "pinyin": "Bái hè liàng chì",
+      "hanzi": "白鹤亮翅",
+      "uebergang": false
+    },
+    "450": {
+      "sequenz": 64,
+      "de": "Der weiße Kranich breitet die Flügel aus",
+      "en": "White Crane Spreads Its Wings",
+      "pinyin": "Bái hè liàng chì",
+      "hanzi": "白鹤亮翅",
+      "uebergang": false
+    },
+    "451": {
+      "sequenz": 64,
+      "de": "Der weiße Kranich breitet die Flügel aus",
+      "en": "White Crane Spreads Its Wings",
+      "pinyin": "Bái hè liàng chì",
+      "hanzi": "白鹤亮翅",
+      "uebergang": false
+    },
+    "452": {
+      "sequenz": 64,
+      "de": "Der weiße Kranich breitet die Flügel aus",
+      "en": "White Crane Spreads Its Wings",
+      "pinyin": "Bái hè liàng chì",
+      "hanzi": "白鹤亮翅",
+      "uebergang": false
+    },
+    "453": {
+      "sequenz": 64,
+      "de": "Der weiße Kranich breitet die Flügel aus",
+      "en": "White Crane Spreads Its Wings",
+      "pinyin": "Bái hè liàng chì",
+      "hanzi": "白鹤亮翅",
+      "uebergang": true
+    },
+    "454": {
+      "sequenz": 65,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": true
+    },
+    "455": {
+      "sequenz": 65,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "456": {
+      "sequenz": 65,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "457": {
+      "sequenz": 65,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "458": {
+      "sequenz": 65,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "459": {
+      "sequenz": 65,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "460": {
+      "sequenz": 65,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "461": {
+      "sequenz": 65,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "462": {
+      "sequenz": 65,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "463": {
+      "sequenz": 65,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "464": {
+      "sequenz": 65,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "465": {
+      "sequenz": 65,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": false
+    },
+    "466": {
+      "sequenz": 65,
+      "de": "Schräge Stellung im Gegenschritt",
+      "en": "Oblique Posture with Twisted Step",
+      "pinyin": "Xié xíng ào bù",
+      "hanzi": "斜行拗步",
+      "uebergang": true
+    },
+    "467": {
+      "sequenz": 66,
+      "de": "Mit dem Rücken schnell ausweichen",
+      "en": "Flash Through the Back",
+      "pinyin": "Shǎn tōng bèi",
+      "hanzi": "闪通背",
+      "uebergang": true
+    },
+    "468": {
+      "sequenz": 66,
+      "de": "Mit dem Rücken schnell ausweichen",
+      "en": "Flash Through the Back",
+      "pinyin": "Shǎn tōng bèi",
+      "hanzi": "闪通背",
+      "uebergang": false
+    },
+    "469": {
+      "sequenz": 66,
+      "de": "Mit dem Rücken schnell ausweichen",
+      "en": "Flash Through the Back",
+      "pinyin": "Shǎn tōng bèi",
+      "hanzi": "闪通背",
+      "uebergang": false
+    },
+    "470": {
+      "sequenz": 66,
+      "de": "Mit dem Rücken schnell ausweichen",
+      "en": "Flash Through the Back",
+      "pinyin": "Shǎn tōng bèi",
+      "hanzi": "闪通背",
+      "uebergang": false
+    },
+    "471": {
+      "sequenz": 66,
+      "de": "Mit dem Rücken schnell ausweichen",
+      "en": "Flash Through the Back",
+      "pinyin": "Shǎn tōng bèi",
+      "hanzi": "闪通背",
+      "uebergang": false
+    },
+    "472": {
+      "sequenz": 66,
+      "de": "Mit dem Rücken schnell ausweichen",
+      "en": "Flash Through the Back",
+      "pinyin": "Shǎn tōng bèi",
+      "hanzi": "闪通背",
+      "uebergang": false
+    },
+    "473": {
+      "sequenz": 66,
+      "de": "Mit dem Rücken schnell ausweichen",
+      "en": "Flash Through the Back",
+      "pinyin": "Shǎn tōng bèi",
+      "hanzi": "闪通背",
+      "uebergang": false
+    },
+    "474": {
+      "sequenz": 66,
+      "de": "Mit dem Rücken schnell ausweichen",
+      "en": "Flash Through the Back",
+      "pinyin": "Shǎn tōng bèi",
+      "hanzi": "闪通背",
+      "uebergang": false
+    },
+    "475": {
+      "sequenz": 66,
+      "de": "Mit dem Rücken schnell ausweichen",
+      "en": "Flash Through the Back",
+      "pinyin": "Shǎn tōng bèi",
+      "hanzi": "闪通背",
+      "uebergang": false
+    },
+    "476": {
+      "sequenz": 66,
+      "de": "Mit dem Rücken schnell ausweichen",
+      "en": "Flash Through the Back",
+      "pinyin": "Shǎn tōng bèi",
+      "hanzi": "闪通背",
+      "uebergang": false
+    },
+    "477": {
+      "sequenz": 66,
+      "de": "Mit dem Rücken schnell ausweichen",
+      "en": "Flash Through the Back",
+      "pinyin": "Shǎn tōng bèi",
+      "hanzi": "闪通背",
+      "uebergang": false
+    },
+    "478": {
+      "sequenz": 66,
+      "de": "Mit dem Rücken schnell ausweichen",
+      "en": "Flash Through the Back",
+      "pinyin": "Shǎn tōng bèi",
+      "hanzi": "闪通背",
+      "uebergang": false
+    },
+    "479": {
+      "sequenz": 66,
+      "de": "Mit dem Rücken schnell ausweichen",
+      "en": "Flash Through the Back",
+      "pinyin": "Shǎn tōng bèi",
+      "hanzi": "闪通背",
+      "uebergang": false
+    },
+    "480": {
+      "sequenz": 66,
+      "de": "Mit dem Rücken schnell ausweichen",
+      "en": "Flash Through the Back",
+      "pinyin": "Shǎn tōng bèi",
+      "hanzi": "闪通背",
+      "uebergang": true
+    },
+    "481": {
+      "sequenz": 67,
+      "de": "Verdeckter Arm- und Fauststoß",
+      "en": "Covering Hand and Forearm Punch",
+      "pinyin": "Yǎn shǒu gōng quán",
+      "hanzi": "掩手肱拳",
+      "uebergang": true
+    },
+    "482": {
+      "sequenz": 67,
+      "de": "Verdeckter Arm- und Fauststoß",
+      "en": "Covering Hand and Forearm Punch",
+      "pinyin": "Yǎn shǒu gōng quán",
+      "hanzi": "掩手肱拳",
+      "uebergang": false
+    },
+    "483": {
+      "sequenz": 67,
+      "de": "Verdeckter Arm- und Fauststoß",
+      "en": "Covering Hand and Forearm Punch",
+      "pinyin": "Yǎn shǒu gōng quán",
+      "hanzi": "掩手肱拳",
+      "uebergang": false
+    },
+    "484": {
+      "sequenz": 67,
+      "de": "Verdeckter Arm- und Fauststoß",
+      "en": "Covering Hand and Forearm Punch",
+      "pinyin": "Yǎn shǒu gōng quán",
+      "hanzi": "掩手肱拳",
+      "uebergang": false
+    },
+    "485": {
+      "sequenz": 67,
+      "de": "Verdeckter Arm- und Fauststoß",
+      "en": "Covering Hand and Forearm Punch",
+      "pinyin": "Yǎn shǒu gōng quán",
+      "hanzi": "掩手肱拳",
+      "uebergang": false
+    },
+    "486": {
+      "sequenz": 68,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "487": {
+      "sequenz": 68,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "488": {
+      "sequenz": 68,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "489": {
+      "sequenz": 68,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "490": {
+      "sequenz": 68,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "491": {
+      "sequenz": 68,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "492": {
+      "sequenz": 68,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "493": {
+      "sequenz": 68,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "494": {
+      "sequenz": 69,
+      "de": "Die einzelne Peitsche",
+      "en": "Single Whip",
+      "pinyin": "Dān biān",
+      "hanzi": "单鞭",
+      "uebergang": false
+    },
+    "495": {
+      "sequenz": 69,
+      "de": "Die einzelne Peitsche",
+      "en": "Single Whip",
+      "pinyin": "Dān biān",
+      "hanzi": "单鞭",
+      "uebergang": false
+    },
+    "496": {
+      "sequenz": 69,
+      "de": "Die einzelne Peitsche",
+      "en": "Single Whip",
+      "pinyin": "Dān biān",
+      "hanzi": "单鞭",
+      "uebergang": false
+    },
+    "497": {
+      "sequenz": 70,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "498": {
+      "sequenz": 70,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "499": {
+      "sequenz": 70,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "500": {
+      "sequenz": 70,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "501": {
+      "sequenz": 70,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "502": {
+      "sequenz": 70,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "503": {
+      "sequenz": 70,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "504": {
+      "sequenz": 70,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "505": {
+      "sequenz": 70,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "506": {
+      "sequenz": 70,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "507": {
+      "sequenz": 70,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "508": {
+      "sequenz": 70,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "509": {
+      "sequenz": 70,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "510": {
+      "sequenz": 70,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": false
+    },
+    "511": {
+      "sequenz": 70,
+      "de": "Kreisende Hände",
+      "en": "Cloud Hands",
+      "pinyin": "Yún shǒu",
+      "hanzi": "云手",
+      "uebergang": true
+    },
+    "512": {
+      "sequenz": 71,
+      "de": "Hoch zum Pferd strecken",
+      "en": "High Pat on Horse",
+      "pinyin": "Gāo tàn mǎ",
+      "hanzi": "高探马",
+      "uebergang": true
+    },
+    "513": {
+      "sequenz": 71,
+      "de": "Hoch zum Pferd strecken",
+      "en": "High Pat on Horse",
+      "pinyin": "Gāo tàn mǎ",
+      "hanzi": "高探马",
+      "uebergang": false
+    },
+    "514": {
+      "sequenz": 71,
+      "de": "Hoch zum Pferd strecken",
+      "en": "High Pat on Horse",
+      "pinyin": "Gāo tàn mǎ",
+      "hanzi": "高探马",
+      "uebergang": false
+    },
+    "515": {
+      "sequenz": 71,
+      "de": "Hoch zum Pferd strecken",
+      "en": "High Pat on Horse",
+      "pinyin": "Gāo tàn mǎ",
+      "hanzi": "高探马",
+      "uebergang": true
+    },
+    "516": {
+      "sequenz": 72,
+      "de": "Lotusschwingen mit gekreuzten Armen",
+      "en": "Crossed-Arm Lotus Kick",
+      "pinyin": "Shí zì bǎi lián",
+      "hanzi": "十字摆莲",
+      "uebergang": true
+    },
+    "517": {
+      "sequenz": 72,
+      "de": "Lotusschwingen mit gekreuzten Armen",
+      "en": "Crossed-Arm Lotus Kick",
+      "pinyin": "Shí zì bǎi lián",
+      "hanzi": "十字摆莲",
+      "uebergang": false
+    },
+    "518": {
+      "sequenz": 72,
+      "de": "Lotusschwingen mit gekreuzten Armen",
+      "en": "Crossed-Arm Lotus Kick",
+      "pinyin": "Shí zì bǎi lián",
+      "hanzi": "十字摆莲",
+      "uebergang": false
+    },
+    "519": {
+      "sequenz": 72,
+      "de": "Lotusschwingen mit gekreuzten Armen",
+      "en": "Crossed-Arm Lotus Kick",
+      "pinyin": "Shí zì bǎi lián",
+      "hanzi": "十字摆莲",
+      "uebergang": false
+    },
+    "520": {
+      "sequenz": 72,
+      "de": "Lotusschwingen mit gekreuzten Armen",
+      "en": "Crossed-Arm Lotus Kick",
+      "pinyin": "Shí zì bǎi lián",
+      "hanzi": "十字摆莲",
+      "uebergang": false
+    },
+    "521": {
+      "sequenz": 72,
+      "de": "Lotusschwingen mit gekreuzten Armen",
+      "en": "Crossed-Arm Lotus Kick",
+      "pinyin": "Shí zì bǎi lián",
+      "hanzi": "十字摆莲",
+      "uebergang": false
+    },
+    "522": {
+      "sequenz": 72,
+      "de": "Lotusschwingen mit gekreuzten Armen",
+      "en": "Crossed-Arm Lotus Kick",
+      "pinyin": "Shí zì bǎi lián",
+      "hanzi": "十字摆莲",
+      "uebergang": false
+    },
+    "523": {
+      "sequenz": 72,
+      "de": "Lotusschwingen mit gekreuzten Armen",
+      "en": "Crossed-Arm Lotus Kick",
+      "pinyin": "Shí zì bǎi lián",
+      "hanzi": "十字摆莲",
+      "uebergang": false
+    },
+    "524": {
+      "sequenz": 72,
+      "de": "Lotusschwingen mit gekreuzten Armen",
+      "en": "Crossed-Arm Lotus Kick",
+      "pinyin": "Shí zì bǎi lián",
+      "hanzi": "十字摆莲",
+      "uebergang": false
+    },
+    "525": {
+      "sequenz": 72,
+      "de": "Lotusschwingen mit gekreuzten Armen",
+      "en": "Crossed-Arm Lotus Kick",
+      "pinyin": "Shí zì bǎi lián",
+      "hanzi": "十字摆莲",
+      "uebergang": false
+    },
+    "526": {
+      "sequenz": 72,
+      "de": "Lotusschwingen mit gekreuzten Armen",
+      "en": "Crossed-Arm Lotus Kick",
+      "pinyin": "Shí zì bǎi lián",
+      "hanzi": "十字摆莲",
+      "uebergang": false
+    },
+    "527": {
+      "sequenz": 72,
+      "de": "Lotusschwingen mit gekreuzten Armen",
+      "en": "Crossed-Arm Lotus Kick",
+      "pinyin": "Shí zì bǎi lián",
+      "hanzi": "十字摆莲",
+      "uebergang": false
+    },
+    "528": {
+      "sequenz": 72,
+      "de": "Lotusschwingen mit gekreuzten Armen",
+      "en": "Crossed-Arm Lotus Kick",
+      "pinyin": "Shí zì bǎi lián",
+      "hanzi": "十字摆莲",
+      "uebergang": false
+    },
+    "529": {
+      "sequenz": 72,
+      "de": "Lotusschwingen mit gekreuzten Armen",
+      "en": "Crossed-Arm Lotus Kick",
+      "pinyin": "Shí zì bǎi lián",
+      "hanzi": "十字摆莲",
+      "uebergang": true
+    },
+    "530": {
+      "sequenz": 73,
+      "de": "Die Faust auf den Unterleib richten",
+      "en": "Punching toward the Groin",
+      "pinyin": "Zhǐ dāng chuí",
+      "hanzi": "指裆捶",
+      "uebergang": true
+    },
+    "531": {
+      "sequenz": 73,
+      "de": "Die Faust auf den Unterleib richten",
+      "en": "Punching toward the Groin",
+      "pinyin": "Zhǐ dāng chuí",
+      "hanzi": "指裆捶",
+      "uebergang": false
+    },
+    "532": {
+      "sequenz": 73,
+      "de": "Die Faust auf den Unterleib richten",
+      "en": "Punching toward the Groin",
+      "pinyin": "Zhǐ dāng chuí",
+      "hanzi": "指裆捶",
+      "uebergang": false
+    },
+    "533": {
+      "sequenz": 73,
+      "de": "Die Faust auf den Unterleib richten",
+      "en": "Punching toward the Groin",
+      "pinyin": "Zhǐ dāng chuí",
+      "hanzi": "指裆捶",
+      "uebergang": false
+    },
+    "534": {
+      "sequenz": 73,
+      "de": "Die Faust auf den Unterleib richten",
+      "en": "Punching toward the Groin",
+      "pinyin": "Zhǐ dāng chuí",
+      "hanzi": "指裆捶",
+      "uebergang": false
+    },
+    "535": {
+      "sequenz": 73,
+      "de": "Die Faust auf den Unterleib richten",
+      "en": "Punching toward the Groin",
+      "pinyin": "Zhǐ dāng chuí",
+      "hanzi": "指裆捶",
+      "uebergang": false
+    },
+    "536": {
+      "sequenz": 73,
+      "de": "Die Faust auf den Unterleib richten",
+      "en": "Punching toward the Groin",
+      "pinyin": "Zhǐ dāng chuí",
+      "hanzi": "指裆捶",
+      "uebergang": false
+    },
+    "537": {
+      "sequenz": 73,
+      "de": "Die Faust auf den Unterleib richten",
+      "en": "Punching toward the Groin",
+      "pinyin": "Zhǐ dāng chuí",
+      "hanzi": "指裆捶",
+      "uebergang": false
+    },
+    "538": {
+      "sequenz": 73,
+      "de": "Die Faust auf den Unterleib richten",
+      "en": "Punching toward the Groin",
+      "pinyin": "Zhǐ dāng chuí",
+      "hanzi": "指裆捶",
+      "uebergang": false
+    },
+    "539": {
+      "sequenz": 73,
+      "de": "Die Faust auf den Unterleib richten",
+      "en": "Punching toward the Groin",
+      "pinyin": "Zhǐ dāng chuí",
+      "hanzi": "指裆捶",
+      "uebergang": true
+    },
+    "540": {
+      "sequenz": 74,
+      "de": "Der weiße Affe reicht die Frucht",
+      "en": "White Ape Offers Fruit",
+      "pinyin": "Bái yuán xiàn guǒ",
+      "hanzi": "白猿献果",
+      "uebergang": true
+    },
+    "541": {
+      "sequenz": 75,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "542": {
+      "sequenz": 75,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "543": {
+      "sequenz": 75,
+      "de": "Sechsmal versiegeln, viermal schließen",
+      "en": "Six Sealings and Four Closings",
+      "pinyin": "Liù fēng sì bì",
+      "hanzi": "六封四闭",
+      "uebergang": false
+    },
+    "544": {
+      "sequenz": 76,
+      "de": "Die einzelne Peitsche",
+      "en": "Single Whip",
+      "pinyin": "Dān biān",
+      "hanzi": "单鞭",
+      "uebergang": false
+    },
+    "545": {
+      "sequenz": 76,
+      "de": "Die einzelne Peitsche",
+      "en": "Single Whip",
+      "pinyin": "Dān biān",
+      "hanzi": "单鞭",
+      "uebergang": false
+    },
+    "546": {
+      "sequenz": 76,
+      "de": "Die einzelne Peitsche",
+      "en": "Single Whip",
+      "pinyin": "Dān biān",
+      "hanzi": "单鞭",
+      "uebergang": false
+    },
+    "547": {
+      "sequenz": 76,
+      "de": "Die einzelne Peitsche",
+      "en": "Single Whip",
+      "pinyin": "Dān biān",
+      "hanzi": "单鞭",
+      "uebergang": true
+    },
+    "548": {
+      "sequenz": 77,
+      "de": "Der Drache neigt sich zum Boden",
+      "en": "Dragon Dips toward the Ground",
+      "pinyin": "Què dì lóng",
+      "hanzi": "雀地龙",
+      "uebergang": true
+    },
+    "549": {
+      "sequenz": 77,
+      "de": "Der Drache neigt sich zum Boden",
+      "en": "Dragon Dips toward the Ground",
+      "pinyin": "Què dì lóng",
+      "hanzi": "雀地龙",
+      "uebergang": false
+    },
+    "550": {
+      "sequenz": 77,
+      "de": "Der Drache neigt sich zum Boden",
+      "en": "Dragon Dips toward the Ground",
+      "pinyin": "Què dì lóng",
+      "hanzi": "雀地龙",
+      "uebergang": true
+    },
+    "551": {
+      "sequenz": 78,
+      "de": "Vorwärtsschreiten zu den sieben Sternen",
+      "en": "Step Forward into Seven Stars",
+      "pinyin": "Shàng bù qī xīng",
+      "hanzi": "上步七星",
+      "uebergang": true
+    },
+    "552": {
+      "sequenz": 78,
+      "de": "Vorwärtsschreiten zu den sieben Sternen",
+      "en": "Step Forward into Seven Stars",
+      "pinyin": "Shàng bù qī xīng",
+      "hanzi": "上步七星",
+      "uebergang": true
+    },
+    "553": {
+      "sequenz": 79,
+      "de": "Rückwärtsschreiten und Arme spreizen",
+      "en": "Step Back and Spread the Arms",
+      "pinyin": "Xià bù kuà gōng",
+      "hanzi": "下步跨肱",
+      "uebergang": true
+    },
+    "554": {
+      "sequenz": 79,
+      "de": "Rückwärtsschreiten und Arme spreizen",
+      "en": "Step Back and Spread the Arms",
+      "pinyin": "Xià bù kuà gōng",
+      "hanzi": "下步跨肱",
+      "uebergang": false
+    },
+    "555": {
+      "sequenz": 79,
+      "de": "Rückwärtsschreiten und Arme spreizen",
+      "en": "Step Back and Spread the Arms",
+      "pinyin": "Xià bù kuà gōng",
+      "hanzi": "下步跨肱",
+      "uebergang": false
+    },
+    "556": {
+      "sequenz": 79,
+      "de": "Rückwärtsschreiten und Arme spreizen",
+      "en": "Step Back and Spread the Arms",
+      "pinyin": "Xià bù kuà gōng",
+      "hanzi": "下步跨肱",
+      "uebergang": false
+    },
+    "557": {
+      "sequenz": 79,
+      "de": "Rückwärtsschreiten und Arme spreizen",
+      "en": "Step Back and Spread the Arms",
+      "pinyin": "Xià bù kuà gōng",
+      "hanzi": "下步跨肱",
+      "uebergang": false
+    },
+    "558": {
+      "sequenz": 79,
+      "de": "Rückwärtsschreiten und Arme spreizen",
+      "en": "Step Back and Spread the Arms",
+      "pinyin": "Xià bù kuà gōng",
+      "hanzi": "下步跨肱",
+      "uebergang": false
+    },
+    "559": {
+      "sequenz": 79,
+      "de": "Rückwärtsschreiten und Arme spreizen",
+      "en": "Step Back and Spread the Arms",
+      "pinyin": "Xià bù kuà gōng",
+      "hanzi": "下步跨肱",
+      "uebergang": true
+    },
+    "560": {
+      "sequenz": 80,
+      "de": "Drehen und doppelt Lotus schwingen",
+      "en": "Turn and Swing the Double Lotus",
+      "pinyin": "Zhuǎn shēn shuāng bǎi lián",
+      "hanzi": "转身双摆莲",
+      "uebergang": true
+    },
+    "561": {
+      "sequenz": 80,
+      "de": "Drehen und doppelt Lotus schwingen",
+      "en": "Turn and Swing the Double Lotus",
+      "pinyin": "Zhuǎn shēn shuāng bǎi lián",
+      "hanzi": "转身双摆莲",
+      "uebergang": false
+    },
+    "562": {
+      "sequenz": 80,
+      "de": "Drehen und doppelt Lotus schwingen",
+      "en": "Turn and Swing the Double Lotus",
+      "pinyin": "Zhuǎn shēn shuāng bǎi lián",
+      "hanzi": "转身双摆莲",
+      "uebergang": false
+    },
+    "563": {
+      "sequenz": 80,
+      "de": "Drehen und doppelt Lotus schwingen",
+      "en": "Turn and Swing the Double Lotus",
+      "pinyin": "Zhuǎn shēn shuāng bǎi lián",
+      "hanzi": "转身双摆莲",
+      "uebergang": false
+    },
+    "564": {
+      "sequenz": 80,
+      "de": "Drehen und doppelt Lotus schwingen",
+      "en": "Turn and Swing the Double Lotus",
+      "pinyin": "Zhuǎn shēn shuāng bǎi lián",
+      "hanzi": "转身双摆莲",
+      "uebergang": false
+    },
+    "565": {
+      "sequenz": 80,
+      "de": "Drehen und doppelt Lotus schwingen",
+      "en": "Turn and Swing the Double Lotus",
+      "pinyin": "Zhuǎn shēn shuāng bǎi lián",
+      "hanzi": "转身双摆莲",
+      "uebergang": false
+    },
+    "566": {
+      "sequenz": 80,
+      "de": "Drehen und doppelt Lotus schwingen",
+      "en": "Turn and Swing the Double Lotus",
+      "pinyin": "Zhuǎn shēn shuāng bǎi lián",
+      "hanzi": "转身双摆莲",
+      "uebergang": false
+    },
+    "567": {
+      "sequenz": 80,
+      "de": "Drehen und doppelt Lotus schwingen",
+      "en": "Turn and Swing the Double Lotus",
+      "pinyin": "Zhuǎn shēn shuāng bǎi lián",
+      "hanzi": "转身双摆莲",
+      "uebergang": false
+    },
+    "568": {
+      "sequenz": 80,
+      "de": "Drehen und doppelt Lotus schwingen",
+      "en": "Turn and Swing the Double Lotus",
+      "pinyin": "Zhuǎn shēn shuāng bǎi lián",
+      "hanzi": "转身双摆莲",
+      "uebergang": false
+    },
+    "569": {
+      "sequenz": 80,
+      "de": "Drehen und doppelt Lotus schwingen",
+      "en": "Turn and Swing the Double Lotus",
+      "pinyin": "Zhuǎn shēn shuāng bǎi lián",
+      "hanzi": "转身双摆莲",
+      "uebergang": false
+    },
+    "570": {
+      "sequenz": 80,
+      "de": "Drehen und doppelt Lotus schwingen",
+      "en": "Turn and Swing the Double Lotus",
+      "pinyin": "Zhuǎn shēn shuāng bǎi lián",
+      "hanzi": "转身双摆莲",
+      "uebergang": false
+    },
+    "571": {
+      "sequenz": 80,
+      "de": "Drehen und doppelt Lotus schwingen",
+      "en": "Turn and Swing the Double Lotus",
+      "pinyin": "Zhuǎn shēn shuāng bǎi lián",
+      "hanzi": "转身双摆莲",
+      "uebergang": false
+    },
+    "572": {
+      "sequenz": 81,
+      "de": "Kanonenschlag zum Kopf",
+      "en": "Cannon Strike toward the Head",
+      "pinyin": "Dāng tóu pào",
+      "hanzi": "当头炮",
+      "uebergang": false
+    },
+    "573": {
+      "sequenz": 81,
+      "de": "Kanonenschlag zum Kopf",
+      "en": "Cannon Strike toward the Head",
+      "pinyin": "Dāng tóu pào",
+      "hanzi": "当头炮",
+      "uebergang": false
+    },
+    "574": {
+      "sequenz": 81,
+      "de": "Kanonenschlag zum Kopf",
+      "en": "Cannon Strike toward the Head",
+      "pinyin": "Dāng tóu pào",
+      "hanzi": "当头炮",
+      "uebergang": false
+    },
+    "575": {
+      "sequenz": 81,
+      "de": "Kanonenschlag zum Kopf",
+      "en": "Cannon Strike toward the Head",
+      "pinyin": "Dāng tóu pào",
+      "hanzi": "当头炮",
+      "uebergang": false
+    },
+    "576": {
+      "sequenz": 81,
+      "de": "Kanonenschlag zum Kopf",
+      "en": "Cannon Strike toward the Head",
+      "pinyin": "Dāng tóu pào",
+      "hanzi": "当头炮",
+      "uebergang": true
+    },
+    "577": {
+      "sequenz": 82,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": true
+    },
+    "578": {
+      "sequenz": 82,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "579": {
+      "sequenz": 82,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "580": {
+      "sequenz": 82,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": false
+    },
+    "581": {
+      "sequenz": 82,
+      "de": "Buddhas Wächter stampft mit dem Stößel",
+      "en": "Buddha's Warrior Pounds the Mortar",
+      "pinyin": "Jīn gāng dǎo duì",
+      "hanzi": "金刚捣碓",
+      "uebergang": true
+    },
+    "582": {
+      "sequenz": 83,
+      "de": "Schlussstellung",
+      "en": "Closing Posture",
+      "pinyin": "Shōu shì",
+      "hanzi": "收势",
+      "uebergang": true
+    },
+    "583": {
+      "sequenz": 83,
+      "de": "Schlussstellung",
+      "en": "Closing Posture",
+      "pinyin": "Shōu shì",
+      "hanzi": "收势",
+      "uebergang": false
+    },
+    "584": {
+      "sequenz": 83,
+      "de": "Schlussstellung",
+      "en": "Closing Posture",
+      "pinyin": "Shōu shì",
+      "hanzi": "收势",
+      "uebergang": false
+    },
+    "585": {
+      "sequenz": 83,
+      "de": "Schlussstellung",
+      "en": "Closing Posture",
+      "pinyin": "Shōu shì",
+      "hanzi": "收势",
+      "uebergang": false
+    },
+    "586": {
+      "sequenz": 83,
+      "de": "Schlussstellung",
+      "en": "Closing Posture",
+      "pinyin": "Shōu shì",
+      "hanzi": "收势",
+      "uebergang": false
+    }
+  }
+}

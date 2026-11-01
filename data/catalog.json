@@ -1,0 +1,152 @@
+[
+  {
+    "id": "vorlage-1",
+    "category": "Stand",
+    "text": "Beide Füße parallel nach vorne."
+  },
+  {
+    "id": "vorlage-2",
+    "category": "Stand",
+    "text": "Beide Fersen auf einer Linie."
+  },
+  {
+    "id": "vorlage-3",
+    "category": "Stand",
+    "text": "Standbreite beibehalten."
+  },
+  {
+    "id": "vorlage-4",
+    "category": "Fuß und Knie",
+    "text": "Knie folgen der Richtung der Fußspitzen."
+  },
+  {
+    "id": "vorlage-5",
+    "category": "Fuß und Knie",
+    "text": "Belastetes Knie bleibt weich."
+  },
+  {
+    "id": "vorlage-6",
+    "category": "Blickrichtung",
+    "text": "Blick geradeaus und waagerecht."
+  },
+  {
+    "id": "vorlage-7",
+    "category": "Blickrichtung",
+    "text": "Blick folgt der führenden Hand."
+  },
+  {
+    "id": "vorlage-8",
+    "category": "Aufrichtung",
+    "text": "Oberkörper aufrecht und entspannt."
+  },
+  {
+    "id": "vorlage-9",
+    "category": "Aufrichtung",
+    "text": "Scheitel hebt, Schultern sinken."
+  },
+  {
+    "id": "vorlage-10",
+    "category": "Dāntián",
+    "text": "Drehung aus dem Dāntián."
+  },
+  {
+    "id": "vorlage-11",
+    "category": "Dāntián",
+    "text": "Horizontale Dāntián-Bewegung."
+  },
+  {
+    "id": "vorlage-12",
+    "category": "Dāntián",
+    "text": "Vertikale Dāntián-Bewegung."
+  },
+  {
+    "id": "vorlage-13",
+    "category": "hinteres Yāo (Hüfte/Taille)",
+    "text": "Bewegung über das hintere Yāo zum Rücken führen."
+  },
+  {
+    "id": "vorlage-14",
+    "category": "vorderes Yāo (Hüfte/Taille)",
+    "text": "Über das vordere Yāo zum Dāntián zurückführen."
+  },
+  {
+    "id": "vorlage-15",
+    "category": "Kuà",
+    "text": "Kuà entspannen und öffnen."
+  },
+  {
+    "id": "vorlage-16",
+    "category": "Leistenbeuge (fùgǔgōu)",
+    "text": "Leistenbeuge lösen; nicht einknicken."
+  },
+  {
+    "id": "vorlage-17",
+    "category": "Qi-Fluss Arme",
+    "text": "Dāntián → hinteres Yāo → Rücken → Schulter → Ellbogen → Hand."
+  },
+  {
+    "id": "vorlage-18",
+    "category": "Qi-Fluss Arme",
+    "text": "Hand → Arm-Innenseite → Schulter → vorderes Yāo → Dāntián."
+  },
+  {
+    "id": "vorlage-19",
+    "category": "Qi-Fluss Beine",
+    "text": "Verbindung zwischen Dāntián, Kuà, Knien und Füßen beachten."
+  },
+  {
+    "id": "vorlage-20",
+    "category": "Qi-Fluss unterer Rücken - oberer Rücken - Schulter - Ellbogen - Hand",
+    "text": "Untere und obere Rückenverbindung mit Schulter, Ellbogen und Hand verbinden."
+  },
+  {
+    "id": "vorlage-21",
+    "category": "Atmung",
+    "text": "Ruhig und natürlich atmen."
+  },
+  {
+    "id": "vorlage-22",
+    "category": "Tempo und Fājìn",
+    "text": "Übergang langsam und verbunden ausführen."
+  },
+  {
+    "id": "bamen-P",
+    "category": "Bā Mén",
+    "text": "Péng (Abwehren / tragendes Aufspannen)"
+  },
+  {
+    "id": "bamen-L",
+    "category": "Bā Mén",
+    "text": "Lǚ (Zurückführen / seitlich ableiten)"
+  },
+  {
+    "id": "bamen-J",
+    "category": "Bā Mén",
+    "text": "Jǐ (Drängen / zusammengeführtes Pressen)"
+  },
+  {
+    "id": "bamen-A",
+    "category": "Bā Mén",
+    "text": "Àn (Drücken / Senken)"
+  },
+  {
+    "id": "bamen-C",
+    "category": "Bā Mén",
+    "text": "Cǎi (Pflücken / abwärts ziehen)"
+  },
+  {
+    "id": "bamen-I",
+    "category": "Bā Mén",
+    "text": "Liè (Spalten / gegenläufig trennen)"
+  },
+  {
+    "id": "bamen-Z",
+    "category": "Bā Mén",
+    "text": "Zhǒu (Ellbogenmethode)"
+  },
+  {
+    "id": "bamen-K",
+    "category": "Bā Mén",
+    "text": "Kào (Schulter- / Rumpfmethode)"
+  }
+]

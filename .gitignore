@@ -1,0 +1,18 @@
+# Persönliche Eingaben und erzeugte Ausgaben
+nutzer/
+exports/
+_pruefung/
+*.pdf
+*.pdf.pruefung.json
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+!.env.example
+*.log
+*.m4v
+*.mp4
+*.mov

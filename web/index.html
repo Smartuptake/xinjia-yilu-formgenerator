@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="de">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Xinjia Yilu · Form-Generator</title><link rel="stylesheet" href="/style.css"></head>
+<body>
+<header><img src="/assets/logo.svg" alt="Healthlane Academy" class="logo"><div><p class="eyebrow">XĪNJIÀ YĪLÙ · HAPPEL LǍOSHĪ</p><h1>Dein Form-Generator</h1><p>Positionen wählen. Anmerkungen ergänzen. Dein Tableau als PDF.</p></div><span id="saveStatus" role="status" aria-live="polite">Wird geladen …</span></header>
+<main>
+<section class="controls" aria-label="Positionen filtern">
+<label class="search">Position suchen<input id="search" type="search" placeholder="Nummer, Bereich oder Name: 621, 1–20, Wolkenhände"></label>
+<label>Sequenz<select id="sequence"><option value="">Alle Sequenzen</option></select></label>
+<label class="check"><input type="checkbox" id="onlySelected">Nur meine Auswahl</label>
+<div class="filterActions"><button id="selectFiltered">Angezeigte auswählen</button><button id="clearSelection" class="quiet">Keine auswählen</button><span id="visibleCount"></span></div>
+</section>
+<div class="workspace"><section><div class="sectionTop"><h2>Die Positionen</h2><button id="catalogOpen" class="quiet">Anmerkungskatalog</button></div><div id="gallery" class="gallery" aria-label="Comicpositionen"></div><p id="empty" hidden>Keine passenden Positionen. Bitte Suche oder Sequenzfilter ändern.</p></section>
+<aside class="exportPanel"><p class="eyebrow">DEIN TABLEAU</p><h2 id="selectionCount">0 ausgewählt</h2><p class="muted">Alle 621 Positionen sind in der Reihenfolge der Form fortlaufend nummeriert.</p>
+<label>Titel der PDF<input id="title" placeholder="Meine Taiji-Auswahl" maxlength="160"></label>
+<label>Inhalt der Anmerkungskästen<select id="mode"><option value="annotated">Vorschläge + eigene Anmerkungen</option><option value="custom">Nur eigene Anmerkungen</option><option value="plain">Leere Kästen zum Schreiben</option></select></label>
+<label>Seitenaufteilung<select id="layout"><option value="below">4 Figuren · Kästen darunter</option><option value="spacious">2 Figuren · viel Schreibraum</option><option value="side">6 Figuren · Kästen daneben</option></select></label>
+<p id="selectionHelp" class="small muted">Wähle zuerst mindestens eine Position über das Kästchen neben der Bildnummer aus.</p>
+<button id="exportPdf" class="primary">PDF erstellen</button><p id="exportStatus" class="exportStatus small" role="status" aria-live="polite" hidden></p><div id="pdfResult" class="result" hidden></div>
+<hr><h3>Auswahl aufbewahren</h3><label>Name der Sammlung<input id="collectionName" placeholder="Zum Beispiel: Unterricht Montag" maxlength="160"></label><button id="saveCollection">Sammlung speichern</button>
+<label>Gespeicherte Sammlung<select id="collections"><option value="">Bitte wählen …</option></select></label><button id="loadCollection">Sammlung laden</button>
+<div class="paired"><button id="downloadState" class="quiet">Datei sichern</button><button id="uploadState" class="quiet">Datei laden</button></div><input id="importFile" type="file" accept="application/json,.json" hidden>
+<p class="small muted">Die aktuelle Auswahl wird automatisch auf diesem Mac gespeichert. „Datei sichern“ erstellt eine zusätzliche Sicherung mit deinen Anmerkungen.</p>
+<details><summary>Armphasen und Bā Mén</summary><p class="small">Die vorbelegten Einträge sind Zuordnungsvorschläge. Sichtbare Haltungen und Bewegungsübergänge zeigen den inneren Qi-Fluss nicht eindeutig. Du kannst beide Arme getrennt zuordnen.</p><p class="small"><b>Shàoyáng:</b> Dāntián → hinteres Yāo → Dūmài → Rücken.<br><b>Tàiyáng / Lǎoyáng:</b> Rücken → Schulter → Ellbogen → Hand.<br><b>Shàoyīn:</b> Hand → Arm-Innenseite → Schulter → vorderes Yāo.<br><b>Tàiyīn / Lǎoyīn:</b> vorderes Yāo → Dāntián.</p></details>
+</aside></div>
+</main>
+<dialog id="editor"><div class="dialogTop"><div><p class="eyebrow" id="editNumber"></p><h2 id="editName"></h2><p id="editTranslations" class="muted"></p></div><button id="closeEditor" aria-label="Bearbeitung schließen" class="icon">×</button></div>
+<div class="editorBody"><div class="largeFigure"><img id="editImage" alt=""><label class="check"><input id="editSelected" type="checkbox">Diese Position in mein PDF aufnehmen</label><div class="paired"><button id="previous">← Vorige</button><button id="next">Nächste →</button></div></div>
+<div class="notesPanel"><h3>Anmerkungen auswählen</h3><div id="noteChoices"></div><label>Eigene Anmerkung zu dieser Position<textarea id="freeText" rows="5" maxlength="12000" placeholder="Hier kannst du deine Hinweise ergänzen …"></textarea></label>
+<details open><summary>Armphasen zuordnen</summary><p id="bamenLabel" class="small"></p><p class="small muted">„Vorschlag beibehalten“ verwendet die vorläufige Modellzuordnung. Deine eigene Auswahl erscheint ohne den Zusatz „möglich“.</p><div class="paired"><label>Linker Arm<select id="phaseL"></select></label><label>Rechter Arm<select id="phaseR"></select></label></div><p id="phaseReasons" class="small muted"></p></details>
+<details><summary>Neue anklickbare Anmerkung</summary><label>Kategorie<select id="quickCategory"></select></label><label>Text<textarea id="quickText" rows="2"></textarea></label><button id="quickAdd">Hinzufügen und hier auswählen</button></details>
+</div></div><div class="dialogBottom"><span class="small muted">Anatomisches Links und Rechts beziehen sich auf die Figur.</span><button id="doneEditor" class="primary">Fertig</button></div></dialog>
+<dialog id="catalogDialog"><div class="dialogTop"><div><p class="eyebrow">DEINE TEXTBAUSTEINE</p><h2>Anmerkungskatalog</h2></div><button id="closeCatalog" aria-label="Katalog schließen" class="icon">×</button></div><p>Ein Eintrag pro Zeile. Anschließend kannst du diese Hinweise bei jeder Figur anklicken.</p><label>Kategorie<select id="bulkCategory"></select></label><label>Neue Anmerkungen<textarea id="bulkText" rows="7" placeholder="Beide Füße parallel nach vorne.
+Knie folgen den Fußspitzen.
+Blick geradeaus."></textarea></label><button id="bulkAdd" class="primary">Einträge hinzufügen</button><hr><h3>Vorhandenen Eintrag bearbeiten</h3><label>Eintrag<select id="catalogEntry"></select></label><label>Kategorie<input id="entryCategory" maxlength="180"></label><label>Text<textarea id="entryText" rows="3" maxlength="2000"></textarea></label><p class="small muted">Änderungen gelten überall, wo dieser Eintrag ausgewählt ist.</p><button id="updateEntry">Eintrag speichern</button></dialog>
+<dialog id="preview"><div class="dialogTop"><h2>Dein PDF ist fertig</h2><button id="closePreview" class="icon" aria-label="PDF-Vorschau schließen">×</button></div><p id="pdfSummary"></p><a id="downloadPdf" class="button primary" download>PDF herunterladen</a> <a id="openPdf" target="_blank" rel="noopener">In neuem Tab öffnen</a><details id="pdfLocation" class="pdfLocation" hidden><summary>Speicherort auf diesem Mac anzeigen</summary><p id="pdfPath" class="savedPdfPath"></p></details><iframe id="pdfFrame" title="PDF-Vorschau"></iframe></dialog>
+<div id="toast" role="status" aria-live="polite" hidden></div>
+<script src="/app.js"></script></body></html>
