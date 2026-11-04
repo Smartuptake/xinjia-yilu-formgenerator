@@ -59,7 +59,7 @@ def title_lines(c,row,x,top,width):
         for line in lines:c.drawCentredString(x+width/2,y,line);y-=7.2
     return top-y
 
-def draw_figure(c,row,cx,bottom):
+def draw_figure(c,row,cx,bottom,show_dantian=True):
     im=row['image'];f=PPU/im['u'];w,h=im['w']*f,im['h']*f
     x=cx-w/2
     path=ROOT/im.get('pdf_path',im['path'])
@@ -70,7 +70,7 @@ def draw_figure(c,row,cx,bottom):
         c.drawImage(str(path),x-bb[0]*f,bottom-(ih-bb[3])*f,iw*f,ih*f)
         c.restoreState()
     bounds=[x,bottom,x+w,bottom+h]
-    draw_dantian(c,row,bounds)
+    if show_dantian:draw_dantian(c,row,bounds)
     return bounds
 
 def note_text(row,user,preset,catalog):
@@ -102,7 +102,7 @@ def export_pdf(rows,options=None):
         missing=wanted-set(r['id'] for r in rows)
         if missing:raise ValueError('Unbekannte Bildnummern: '+', '.join(sorted(missing)))
     if not rows:raise ValueError('Bitte mindestens eine Position auswählen.')
-    mode=options.get('mode','annotated');layout=options.get('layout','below')
+    mode=options.get('mode','annotated');layout=options.get('layout','below');show_dantian=bool(options.get('show_dantian',True))
     if layout not in ['below','side','spacious']:raise ValueError('Unbekanntes Seitenraster.')
     per_page=6 if layout=='side' else (2 if layout=='spacious' else 4)
     buffer=io.BytesIO();c=canvas.Canvas(buffer,pagesize=A4)
@@ -135,7 +135,7 @@ def export_pdf(rows,options=None):
                 rh=(top-footer-2*gap)/3;bw=52*mm;aw=35*mm
                 x=M+col*(bw+aw+2*gap);y=top-(line+1)*rh-line*gap
                 bottom=y+44
-                bounds=draw_figure(c,row,x+bw/2,bottom)
+                bounds=draw_figure(c,row,x+bw/2,bottom,show_dantian)
                 if bounds[3]>y+rh-1*mm:raise ValueError(f"Figur {row['number']} ist für sechs Positionen pro Seite zu hoch; bitte vier Positionen wählen.")
                 if bounds[0]<x-(gap-mm) or bounds[2]>x+bw+gap-mm:raise ValueError(f"Figur {row['number']} ist für diesen Bildplatz zu breit; bitte vier Positionen wählen.")
                 title_lines(c,row,x,y+30,bw)
@@ -150,7 +150,7 @@ def export_pdf(rows,options=None):
                 title_lines(c,row,x,cap_top,cell)
                 c.setFillColor(INK);c.setFont('LatoB',10);c.drawString(x,cap_top+1*mm,str(row['number']))
                 bottom=cap_top+5*mm
-                bounds=draw_figure(c,row,x+cell/2,bottom)
+                bounds=draw_figure(c,row,x+cell/2,bottom,show_dantian)
                 if bounds[3]>y+rh-1*mm:raise ValueError(f"Figur {row['number']} ist im gewählten Raster zu hoch.")
             bx,by,bw,bh=box
             c.setStrokeColor(GREY);c.setLineWidth(.7);c.roundRect(bx,by,bw,bh,4,stroke=1,fill=0)
@@ -161,7 +161,7 @@ def export_pdf(rows,options=None):
             c.setStrokeColor(LINE);c.setLineWidth(.4);ly=by+bh-8-8*mm
             while ly>by+bh-8-used-10:ly-=8*mm
             while ly>by+4:c.line(bx+6,ly,bx+bw-6,ly);ly-=8*mm
-            audit.append({'id':row['id'],'number':row['number'],'page':page_index+1,'image_bounds':bounds,'box_bounds':list(box),'scale':PPU/row['image']['u'],'u':row['image']['u'],'dantian':dantian_geometry(row,bounds)})
+            audit.append({'id':row['id'],'number':row['number'],'page':page_index+1,'image_bounds':bounds,'box_bounds':list(box),'scale':PPU/row['image']['u'],'u':row['image']['u'],'dantian':dantian_geometry(row,bounds) if show_dantian else None})
         # Kategorien, Logo und Seitenzahl in beiden Fassungen identisch.
         c.setStrokeColor(LINE);c.line(M,footer-1*mm,pw-M,footer-1*mm)
         para(c,'<b>Anmerkungskategorien:</b> '+escape(' · '.join(CATEGORIES)),M,footer-3*mm,pw-2*M,14*mm,size=6.1,leading=7.4)
@@ -169,7 +169,7 @@ def export_pdf(rows,options=None):
         c.setFillColor(GREY);c.setFont('Lato',8);c.drawRightString(pw-M,5.5*mm,f'Seite {page_index+1} von {pages}')
         c.showPage()
     c.save()
-    return buffer.getvalue(),{'pages':pages,'figures':len(rows),'layout':layout,'mode':mode,'audit':audit,'caption_sizes':[6,5.5,6],'timestamps':False,'body_unit_pt':PPU,'dantian_ellipses':2*len(rows),'direction_arrows':0,'default_title':DEFAULT_TITLE,'chinese_title_font':'LXGW WenKai (Kai)' }
+    return buffer.getvalue(),{'pages':pages,'figures':len(rows),'layout':layout,'mode':mode,'audit':audit,'caption_sizes':[6,5.5,6],'timestamps':False,'body_unit_pt':PPU,'dantian_ellipses':2*len(rows) if show_dantian else 0,'direction_arrows':0,'default_title':DEFAULT_TITLE,'chinese_title_font':'LXGW WenKai (Kai)' }
 
 if __name__=='__main__':
     import argparse

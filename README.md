@@ -64,3 +64,7 @@ Die mitgelieferten Schriften Lato, Cormorant Garamond und LXGW WenKai stehen unt
 
 
 Die 621 Positionen verwenden durchgaengig die juengere, freigegebene Referenzfigur ohne Brille und dasselbe schwarze Schuhmodell mit cremefarbenen Streifen und flacher brauner Sohle. Der anatomische Koerpermassstab und bestehende Haltungs- und Fusskorrekturen bleiben erhalten. Die 4K-Referenz ist technisch hochskaliert; die einzelnen Generierungen werden nicht als native 4K bezeichnet.
+
+
+<!-- korrekturen-20261104 -->
+50 gezielte Bildkorrekturen vom 4. November 2026: einheitliche Schuhstreifen, Hand- und Fussstellung, Proportionen und weisser Hintergrund. Alle 621 Dantian-Anker erneut visuell geprueft. Nummern und interne IDs unveraendert. Lokale PDF-Funktion unterstuetzt optional show_dantian=False fuer eine Fassung ohne Ellipsen; Standard bleibt mit beiden Ellipsen ohne Pfeile.

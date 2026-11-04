@@ -6443,22 +6443,22 @@
     "sequence": 8,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/090.jpg",
-      "pdf_path": "assets/referenzwechsel/090.jpg",
+      "path": "assets/korrekturen-20261104/090.jpg",
+      "pdf_path": "assets/korrekturen-20261104/090.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        813,
-        1304
+        812,
+        1301
       ],
       "size": [
-        813,
-        1304
+        812,
+        1301
       ],
-      "w": 813,
-      "h": 1304,
-      "u": 314.2346557696648
+      "w": 812,
+      "h": 1301,
+      "u": 311.1014877289129
     },
     "frame": 951,
     "bamen": {
@@ -6493,18 +6493,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/090.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/090.jpg",
     "number": 90,
     "dantian": {
-      "x": 0.4224298,
-      "y": 0.4747715,
+      "x": 0.4238007,
+      "y": 0.4726056,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1294.8613508879585,
+      "stature_source_px": 1281.9505591362658,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -6658,22 +6658,22 @@
     "sequence": 8,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/093.jpg",
-      "pdf_path": "assets/referenzwechsel/093.jpg",
+      "path": "assets/korrekturen-20261104/093.jpg",
+      "pdf_path": "assets/korrekturen-20261104/093.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        933,
-        1258
+        934,
+        1257
       ],
       "size": [
-        933,
-        1258
+        934,
+        1257
       ],
-      "w": 933,
-      "h": 1258,
-      "u": 306.1188277591961
+      "w": 934,
+      "h": 1257,
+      "u": 306.062262998865
     },
     "frame": 980,
     "bamen": {
@@ -6706,18 +6706,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/093.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/093.jpg",
     "number": 93,
     "dantian": {
-      "x": 0.4419611,
-      "y": 0.4872548,
+      "x": 0.4401759,
+      "y": 0.4862696,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1261.418597747093,
+      "stature_source_px": 1261.1855123103653,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -6729,8 +6729,8 @@
     "sequence": 8,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/094.jpg",
-      "pdf_path": "assets/referenzwechsel/094.jpg",
+      "path": "assets/korrekturen-20261104/094.jpg",
+      "pdf_path": "assets/korrekturen-20261104/094.jpg",
       "cropped": true,
       "bbox": [
         0,
@@ -6744,7 +6744,7 @@
       ],
       "w": 879,
       "h": 1260,
-      "u": 314.9545020014579
+      "u": 312.4442422929647
     },
     "frame": 993,
     "bamen": {
@@ -6779,18 +6779,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/094.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/094.jpg",
     "number": 94,
     "dantian": {
-      "x": 0.5078224,
-      "y": 0.4771386,
+      "x": 0.5101056,
+      "y": 0.484294,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1297.8276088961602,
+      "stature_source_px": 1287.4836248143988,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -6802,22 +6802,22 @@
     "sequence": 9,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/095.jpg",
-      "pdf_path": "assets/referenzwechsel/095.jpg",
+      "path": "assets/korrekturen-20261104/095.jpg",
+      "pdf_path": "assets/korrekturen-20261104/095.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
         957,
-        1254
+        1253
       ],
       "size": [
         957,
-        1254
+        1253
       ],
       "w": 957,
-      "h": 1254,
-      "u": 312.5196318756041
+      "h": 1253,
+      "u": 308.00122801966535
     },
     "frame": 1000,
     "bamen": {
@@ -6850,18 +6850,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/095.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/095.jpg",
     "number": 95,
     "dantian": {
-      "x": 0.4374834,
-      "y": 0.4779147,
+      "x": 0.4396728,
+      "y": 0.4786106,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1287.794281373206,
+      "stature_source_px": 1269.1753721811951,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -8745,22 +8745,22 @@
     "sequence": 15,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/122.jpg",
-      "pdf_path": "assets/referenzwechsel/122.jpg",
+      "path": "assets/korrekturen-20261104/122.jpg",
+      "pdf_path": "assets/korrekturen-20261104/122.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        550,
-        1321
+        559,
+        1318
       ],
       "size": [
-        550,
-        1321
+        559,
+        1318
       ],
-      "w": 550,
-      "h": 1321,
-      "u": 312.9156294719599
+      "w": 559,
+      "h": 1318,
+      "u": 312.72577852038233
     },
     "frame": 1233,
     "bamen": {
@@ -8793,18 +8793,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/122.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/122.jpg",
     "number": 122,
     "dantian": {
-      "x": 0.4994366,
-      "y": 0.4828164,
+      "x": 0.4924443,
+      "y": 0.4786817,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1289.426061869567,
+      "stature_source_px": 1288.643746312981,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -8816,22 +8816,22 @@
     "sequence": 15,
     "boundary_uncertain": true,
     "image": {
-      "path": "assets/referenzwechsel/123.jpg",
-      "pdf_path": "assets/referenzwechsel/123.jpg",
+      "path": "assets/korrekturen-20261104/123.jpg",
+      "pdf_path": "assets/korrekturen-20261104/123.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        550,
-        1362
+        548,
+        1359
       ],
       "size": [
-        550,
-        1362
+        548,
+        1359
       ],
-      "w": 550,
-      "h": 1362,
-      "u": 322.55444701962796
+      "w": 548,
+      "h": 1359,
+      "u": 320.59988168775925
     },
     "frame": 1248,
     "bamen": {
@@ -8864,18 +8864,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/123.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/123.jpg",
     "number": 123,
     "dantian": {
-      "x": 0.4760455,
-      "y": 0.4831214,
+      "x": 0.4657893,
+      "y": 0.4830746,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1329.1445718479335,
+      "stature_source_px": 1321.0904280431287,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -10828,22 +10828,22 @@
     "sequence": 20,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/151.jpg",
-      "pdf_path": "assets/referenzwechsel/151.jpg",
+      "path": "assets/korrekturen-20261104/151.jpg",
+      "pdf_path": "assets/korrekturen-20261104/151.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        654,
+        664,
         1279
       ],
       "size": [
-        654,
+        664,
         1279
       ],
-      "w": 654,
+      "w": 664,
       "h": 1279,
-      "u": 315.07105048556315
+      "u": 312.2897374044727
     },
     "frame": 1441,
     "bamen": {
@@ -10878,18 +10878,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/151.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/151.jpg",
     "number": 151,
     "dantian": {
-      "x": 0.2684899,
-      "y": 0.4937213,
+      "x": 0.2727832,
+      "y": 0.4907364,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1298.3078682335743,
+      "stature_source_px": 1286.8469591731077,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -10901,8 +10901,8 @@
     "sequence": 20,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/152.jpg",
-      "pdf_path": "assets/referenzwechsel/152.jpg",
+      "path": "assets/korrekturen-20261104/152.jpg",
+      "pdf_path": "assets/korrekturen-20261104/152.jpg",
       "cropped": true,
       "bbox": [
         0,
@@ -10916,7 +10916,7 @@
       ],
       "w": 662,
       "h": 1280,
-      "u": 313.0593633038546
+      "u": 314.07967393263266
     },
     "frame": 1449,
     "bamen": {
@@ -10951,18 +10951,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/152.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/152.jpg",
     "number": 152,
     "dantian": {
-      "x": 0.2639911,
-      "y": 0.4971448,
+      "x": 0.2515368,
+      "y": 0.4923552,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1290.0183434028675,
+      "stature_source_px": 1294.2227198930068,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -11412,22 +11412,22 @@
     "sequence": 20,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/159.jpg",
-      "pdf_path": "assets/referenzwechsel/159.jpg",
+      "path": "assets/korrekturen-20261104/159.jpg",
+      "pdf_path": "assets/korrekturen-20261104/159.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        421,
+        446,
         1307
       ],
       "size": [
-        421,
+        446,
         1307
       ],
-      "w": 421,
+      "w": 446,
       "h": 1307,
-      "u": 324.7500333375059
+      "u": 322.7546310553418
     },
     "frame": 1535,
     "bamen": {
@@ -11460,18 +11460,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/159.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/159.jpg",
     "number": 159,
     "dantian": {
-      "x": 0.4179832,
-      "y": 0.4692848,
+      "x": 0.4219874,
+      "y": 0.4655179,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1338.1918866916612,
+      "stature_source_px": 1329.9694667669098,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -11556,22 +11556,22 @@
     "sequence": 21,
     "boundary_uncertain": true,
     "image": {
-      "path": "assets/referenzwechsel/161.jpg",
-      "pdf_path": "assets/referenzwechsel/161.jpg",
+      "path": "assets/korrekturen-20261104/161.jpg",
+      "pdf_path": "assets/korrekturen-20261104/161.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        987,
-        1086
+        986,
+        1085
       ],
       "size": [
-        987,
-        1086
+        986,
+        1085
       ],
-      "w": 987,
-      "h": 1086,
-      "u": 287.7477188231464
+      "w": 986,
+      "h": 1085,
+      "u": 288.81346634719546
     },
     "frame": 1567,
     "bamen": {
@@ -11606,18 +11606,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/161.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/161.jpg",
     "number": 161,
     "dantian": {
-      "x": 0.4832776,
-      "y": 0.5334355,
+      "x": 0.4844945,
+      "y": 0.5349065,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1185.7170845706469,
+      "stature_source_px": 1190.1086920950165,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -11629,22 +11629,22 @@
     "sequence": 21,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/162.jpg",
-      "pdf_path": "assets/referenzwechsel/162.jpg",
+      "path": "assets/korrekturen-20261104/162.jpg",
+      "pdf_path": "assets/korrekturen-20261104/162.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        860,
-        1228
+        857,
+        1227
       ],
       "size": [
-        860,
-        1228
+        857,
+        1227
       ],
-      "w": 860,
-      "h": 1228,
-      "u": 320.92311004139975
+      "w": 857,
+      "h": 1227,
+      "u": 320.61878371039546
     },
     "frame": 1579,
     "bamen": {
@@ -11677,18 +11677,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/162.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/162.jpg",
     "number": 162,
     "dantian": {
-      "x": 0.3133538,
-      "y": 0.4791034,
+      "x": 0.3152029,
+      "y": 0.4777782,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1322.4223495704186,
+      "stature_source_px": 1321.168317283274,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -14744,22 +14744,22 @@
     "sequence": 26,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/205.jpg",
-      "pdf_path": "assets/referenzwechsel/205.jpg",
+      "path": "assets/korrekturen-20261104/205.jpg",
+      "pdf_path": "assets/korrekturen-20261104/205.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        830,
-        1354
+        825,
+        1353
       ],
       "size": [
-        830,
-        1354
+        825,
+        1353
       ],
-      "w": 830,
-      "h": 1354,
-      "u": 309.09876087070944
+      "w": 825,
+      "h": 1353,
+      "u": 308.4560527154515
     },
     "frame": 1901,
     "bamen": {
@@ -14794,18 +14794,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/205.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/205.jpg",
     "number": 205,
     "dantian": {
-      "x": 0.4013595,
-      "y": 0.4888855,
+      "x": 0.3983617,
+      "y": 0.4890119,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1273.6979569567857,
+      "stature_source_px": 1271.0495604961675,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -15032,22 +15032,22 @@
     "sequence": 27,
     "boundary_uncertain": true,
     "image": {
-      "path": "assets/referenzwechsel/209.jpg",
-      "pdf_path": "assets/referenzwechsel/209.jpg",
+      "path": "assets/korrekturen-20261104/209.jpg",
+      "pdf_path": "assets/korrekturen-20261104/209.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        972,
+        973,
         1246
       ],
       "size": [
-        972,
+        973,
         1246
       ],
-      "w": 972,
+      "w": 973,
       "h": 1246,
-      "u": 305.29977781045005
+      "u": 306.19621347956337
     },
     "frame": 1947,
     "bamen": {
@@ -15082,18 +15082,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/209.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/209.jpg",
     "number": 209,
     "dantian": {
-      "x": 0.4314663,
-      "y": 0.483483,
+      "x": 0.4339979,
+      "y": 0.489814,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1258.0435526856868,
+      "stature_source_px": 1261.7374797563632,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -15105,22 +15105,22 @@
     "sequence": 27,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/210.jpg",
-      "pdf_path": "assets/referenzwechsel/210.jpg",
+      "path": "assets/korrekturen-20261104/210.jpg",
+      "pdf_path": "assets/korrekturen-20261104/210.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        718,
+        717,
         1338
       ],
       "size": [
-        718,
+        717,
         1338
       ],
-      "w": 718,
+      "w": 717,
       "h": 1338,
-      "u": 307.7781641519581
+      "u": 309.601927675606
     },
     "frame": 1955,
     "bamen": {
@@ -15153,18 +15153,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/210.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/210.jpg",
     "number": 210,
     "dantian": {
-      "x": 0.3496624,
-      "y": 0.4440074,
+      "x": 0.3476593,
+      "y": 0.4419305,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1268.2561967313509,
+      "stature_source_px": 1275.7713477707764,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -15176,22 +15176,22 @@
     "sequence": 27,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/211.jpg",
-      "pdf_path": "assets/referenzwechsel/211.jpg",
+      "path": "assets/korrekturen-20261104/211.jpg",
+      "pdf_path": "assets/korrekturen-20261104/211.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        514,
-        1325
+        520,
+        1323
       ],
       "size": [
-        514,
-        1325
+        520,
+        1323
       ],
-      "w": 514,
-      "h": 1325,
-      "u": 319.85220431063266
+      "w": 520,
+      "h": 1323,
+      "u": 319.0190590053739
     },
     "frame": 1959,
     "bamen": {
@@ -15224,18 +15224,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/211.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/211.jpg",
     "number": 211,
     "dantian": {
-      "x": 0.4857389,
-      "y": 0.4672523,
+      "x": 0.496603,
+      "y": 0.4639345,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1318.0094867121884,
+      "stature_source_px": 1314.5763591572058,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -15247,22 +15247,22 @@
     "sequence": 27,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/212.jpg",
-      "pdf_path": "assets/referenzwechsel/212.jpg",
+      "path": "assets/korrekturen-20261104/212.jpg",
+      "pdf_path": "assets/korrekturen-20261104/212.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
         827,
-        1318
+        1317
       ],
       "size": [
         827,
-        1318
+        1317
       ],
       "w": 827,
-      "h": 1318,
-      "u": 317.29547726670256
+      "h": 1317,
+      "u": 315.6537412712924
     },
     "frame": 1974,
     "bamen": {
@@ -15295,18 +15295,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/212.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/212.jpg",
     "number": 212,
     "dantian": {
-      "x": 0.4997459,
-      "y": 0.4630248,
+      "x": 0.4995067,
+      "y": 0.4629626,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1307.474025479097,
+      "stature_source_px": 1300.708952150023,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -15608,22 +15608,22 @@
     "sequence": 27,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/217.jpg",
-      "pdf_path": "assets/referenzwechsel/217.jpg",
+      "path": "assets/korrekturen-20261104/217.jpg",
+      "pdf_path": "assets/korrekturen-20261104/217.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        979,
-        1239
+        978,
+        1238
       ],
       "size": [
-        979,
-        1239
+        978,
+        1238
       ],
-      "w": 979,
-      "h": 1239,
-      "u": 319.54187141428326
+      "w": 978,
+      "h": 1238,
+      "u": 316.70883003345654
     },
     "frame": 2011,
     "bamen": {
@@ -15658,18 +15658,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/217.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/217.jpg",
     "number": 217,
     "dantian": {
-      "x": 0.5100391,
-      "y": 0.5088391,
+      "x": 0.5100393,
+      "y": 0.5055768,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1316.7307032743538,
+      "stature_source_px": 1305.0566382972947,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -16547,22 +16547,22 @@
     "sequence": 29,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/230.jpg",
-      "pdf_path": "assets/referenzwechsel/230.jpg",
+      "path": "assets/korrekturen-20261104/230.jpg",
+      "pdf_path": "assets/korrekturen-20261104/230.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
         782,
-        1327
+        1328
       ],
       "size": [
         782,
-        1327
+        1328
       ],
       "w": 782,
-      "h": 1327,
-      "u": 338.62179888325755
+      "h": 1328,
+      "u": 336.78345694332296
     },
     "frame": 2135,
     "bamen": {
@@ -16597,18 +16597,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/230.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/230.jpg",
     "number": 230,
     "dantian": {
-      "x": 0.7247494,
-      "y": 0.4797275,
+      "x": 0.7188133,
+      "y": 0.4867582,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1395.3530328096099,
+      "stature_source_px": 1387.7778087404906,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -16764,22 +16764,22 @@
     "sequence": 29,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/233.jpg",
-      "pdf_path": "assets/referenzwechsel/233.jpg",
+      "path": "assets/korrekturen-20261104/233.jpg",
+      "pdf_path": "assets/korrekturen-20261104/233.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        736,
-        1397
+        737,
+        1398
       ],
       "size": [
-        736,
-        1397
+        737,
+        1398
       ],
-      "w": 736,
-      "h": 1397,
-      "u": 314.9183173309566
+      "w": 737,
+      "h": 1398,
+      "u": 314.81264282253284
     },
     "frame": 2155,
     "bamen": {
@@ -16814,18 +16814,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/233.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/233.jpg",
     "number": 233,
     "dantian": {
-      "x": 0.5976013,
-      "y": 0.4255857,
+      "x": 0.5976135,
+      "y": 0.4279372,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1297.6785033456854,
+      "stature_source_px": 1297.2430522131651,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -16910,8 +16910,8 @@
     "sequence": 29,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/235.jpg",
-      "pdf_path": "assets/referenzwechsel/235.jpg",
+      "path": "assets/korrekturen-20261104/235.jpg",
+      "pdf_path": "assets/korrekturen-20261104/235.jpg",
       "cropped": true,
       "bbox": [
         0,
@@ -16925,7 +16925,7 @@
       ],
       "w": 586,
       "h": 1334,
-      "u": 311.6167252690741
+      "u": 311.5772561212874
     },
     "frame": 2177,
     "bamen": {
@@ -16960,18 +16960,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/235.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/235.jpg",
     "number": 235,
     "dantian": {
-      "x": 0.6193459,
-      "y": 0.4705815,
+      "x": 0.6224964,
+      "y": 0.4712419,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1284.0736896218173,
+      "stature_source_px": 1283.9110497821844,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -17776,22 +17776,22 @@
     "sequence": 31,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/247.jpg",
-      "pdf_path": "assets/referenzwechsel/247.jpg",
+      "path": "assets/korrekturen-20261104/247.jpg",
+      "pdf_path": "assets/korrekturen-20261104/247.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        654,
-        1394
+        653,
+        1392
       ],
       "size": [
-        654,
-        1394
+        653,
+        1392
       ],
-      "w": 654,
-      "h": 1394,
-      "u": 312.0774156334707
+      "w": 653,
+      "h": 1392,
+      "u": 313.23621912873375
     },
     "frame": 2311,
     "bamen": {
@@ -17826,18 +17826,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/247.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/247.jpg",
     "number": 247,
     "dantian": {
-      "x": 0.3750918,
-      "y": 0.4404903,
+      "x": 0.3774106,
+      "y": 0.4349412,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1285.9720484967243,
+      "stature_source_px": 1290.747110163983,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -18360,22 +18360,22 @@
     "sequence": 32,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/255.jpg",
-      "pdf_path": "assets/referenzwechsel/255.jpg",
+      "path": "assets/korrekturen-20261104/255.jpg",
+      "pdf_path": "assets/korrekturen-20261104/255.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        934,
+        935,
         1202
       ],
       "size": [
-        934,
+        935,
         1202
       ],
-      "w": 934,
+      "w": 935,
       "h": 1202,
-      "u": 293.6399466375938
+      "u": 294.3063895428929
     },
     "frame": 2402,
     "bamen": {
@@ -18410,18 +18410,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/255.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/255.jpg",
     "number": 255,
     "dantian": {
-      "x": 0.4494634,
-      "y": 0.4976571,
+      "x": 0.4492011,
+      "y": 0.5012463,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1209.9970865610944,
+      "stature_source_px": 1212.7432863987017,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -18652,22 +18652,22 @@
     "sequence": 33,
     "boundary_uncertain": true,
     "image": {
-      "path": "assets/referenzwechsel/259.jpg",
-      "pdf_path": "assets/referenzwechsel/259.jpg",
+      "path": "assets/korrekturen-20261104/259.jpg",
+      "pdf_path": "assets/korrekturen-20261104/259.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        956,
-        1269
+        954,
+        1268
       ],
       "size": [
-        956,
-        1269
+        954,
+        1268
       ],
-      "w": 956,
-      "h": 1269,
-      "u": 308.5583681633635
+      "w": 954,
+      "h": 1268,
+      "u": 307.7020706946856
     },
     "frame": 2442,
     "bamen": {
@@ -18702,18 +18702,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/259.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/259.jpg",
     "number": 259,
     "dantian": {
-      "x": 0.419083,
-      "y": 0.5116251,
+      "x": 0.4227467,
+      "y": 0.5042546,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1271.4711700057092,
+      "stature_source_px": 1267.942639728428,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -18869,22 +18869,22 @@
     "sequence": 33,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/262.jpg",
-      "pdf_path": "assets/referenzwechsel/262.jpg",
+      "path": "assets/korrekturen-20261104/262.jpg",
+      "pdf_path": "assets/korrekturen-20261104/262.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        735,
-        1329
+        734,
+        1326
       ],
       "size": [
-        735,
-        1329
+        734,
+        1326
       ],
-      "w": 735,
-      "h": 1329,
-      "u": 315.1452423288133
+      "w": 734,
+      "h": 1326,
+      "u": 315.2734754401567
     },
     "frame": 2474,
     "bamen": {
@@ -18919,18 +18919,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/262.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/262.jpg",
     "number": 262,
     "dantian": {
-      "x": 0.4384478,
-      "y": 0.4687637,
+      "x": 0.4389377,
+      "y": 0.4648718,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1298.6135892882442,
+      "stature_source_px": 1299.1419972685032,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -18942,22 +18942,22 @@
     "sequence": 33,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/263.jpg",
-      "pdf_path": "assets/referenzwechsel/263.jpg",
+      "path": "assets/korrekturen-20261104/263.jpg",
+      "pdf_path": "assets/korrekturen-20261104/263.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        672,
-        1300
+        670,
+        1299
       ],
       "size": [
-        672,
-        1300
+        670,
+        1299
       ],
-      "w": 672,
-      "h": 1300,
-      "u": 314.0561198889403
+      "w": 670,
+      "h": 1299,
+      "u": 314.5181594393978
     },
     "frame": 2489,
     "bamen": {
@@ -18990,18 +18990,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/263.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/263.jpg",
     "number": 263,
     "dantian": {
-      "x": 0.4371832,
-      "y": 0.466748,
+      "x": 0.4393395,
+      "y": 0.4631122,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1294.1256611495667,
+      "stature_source_px": 1296.0295795923103,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -19013,22 +19013,22 @@
     "sequence": 33,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/264.jpg",
-      "pdf_path": "assets/referenzwechsel/264.jpg",
+      "path": "assets/korrekturen-20261104/264.jpg",
+      "pdf_path": "assets/korrekturen-20261104/264.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        648,
+        682,
         1281
       ],
       "size": [
-        648,
+        682,
         1281
       ],
-      "w": 648,
+      "w": 682,
       "h": 1281,
-      "u": 309.78141473930987
+      "u": 305.6814336833848
     },
     "frame": 2508,
     "bamen": {
@@ -19063,18 +19063,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/264.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/264.jpg",
     "number": 264,
     "dantian": {
-      "x": 0.4546343,
-      "y": 0.477591,
+      "x": 0.4847632,
+      "y": 0.4787609,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1276.5109570325403,
+      "stature_source_px": 1259.6162354885819,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -19731,22 +19731,22 @@
     "sequence": 35,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/274.jpg",
-      "pdf_path": "assets/referenzwechsel/274.jpg",
+      "path": "assets/korrekturen-20261104/274.jpg",
+      "pdf_path": "assets/korrekturen-20261104/274.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        709,
-        1267
+        710,
+        1233
       ],
       "size": [
-        709,
-        1267
+        710,
+        1233
       ],
-      "w": 709,
-      "h": 1267,
-      "u": 300.1745888217488
+      "w": 710,
+      "h": 1233,
+      "u": 294.0372081453388
     },
     "frame": 2572,
     "bamen": {
@@ -19779,18 +19779,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/274.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/274.jpg",
     "number": 274,
     "dantian": {
-      "x": 0.4508438,
-      "y": 0.4559166,
+      "x": 0.4466989,
+      "y": 0.4683289,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1236.9242744150865,
+      "stature_source_px": 1211.6340752354167,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -26150,22 +26150,22 @@
     "sequence": 48,
     "boundary_uncertain": true,
     "image": {
-      "path": "assets/referenzwechsel/363.jpg",
-      "pdf_path": "assets/referenzwechsel/363.jpg",
+      "path": "assets/korrekturen-20261104/363.jpg",
+      "pdf_path": "assets/korrekturen-20261104/363.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
         925,
-        1095
+        1096
       ],
       "size": [
         925,
-        1095
+        1096
       ],
       "w": 925,
-      "h": 1095,
-      "u": 274.9480806514835
+      "h": 1096,
+      "u": 275.3095314415099
     },
     "frame": 3310,
     "bamen": {
@@ -26198,18 +26198,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/363.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/363.jpg",
     "number": 363,
     "dantian": {
-      "x": 0.4371704,
-      "y": 0.513655,
+      "x": 0.4311557,
+      "y": 0.5148014,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1132.97383531559,
+      "stature_source_px": 1134.4632593802485,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -26292,8 +26292,8 @@
     "sequence": 49,
     "boundary_uncertain": true,
     "image": {
-      "path": "assets/referenzwechsel/365.jpg",
-      "pdf_path": "assets/referenzwechsel/365.jpg",
+      "path": "assets/korrekturen-20261104/365.jpg",
+      "pdf_path": "assets/korrekturen-20261104/365.jpg",
       "cropped": true,
       "bbox": [
         0,
@@ -26307,7 +26307,7 @@
       ],
       "w": 953,
       "h": 1228,
-      "u": 300.74864185886355
+      "u": 300.3008702179111
     },
     "frame": 3325,
     "bamen": {
@@ -26342,18 +26342,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/365.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/365.jpg",
     "number": 365,
     "dantian": {
-      "x": 0.5205667,
-      "y": 0.5132928,
+      "x": 0.5179453,
+      "y": 0.5157401,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1239.2897649091224,
+      "stature_source_px": 1237.4446399961084,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -26438,22 +26438,22 @@
     "sequence": 49,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/367.jpg",
-      "pdf_path": "assets/referenzwechsel/367.jpg",
+      "path": "assets/korrekturen-20261104/367.jpg",
+      "pdf_path": "assets/korrekturen-20261104/367.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
         913,
-        1116
+        1117
       ],
       "size": [
         913,
-        1116
+        1117
       ],
       "w": 913,
-      "h": 1116,
-      "u": 274.6898345062284
+      "h": 1117,
+      "u": 273.9025690004695
     },
     "frame": 3335,
     "bamen": {
@@ -26488,18 +26488,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/367.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/367.jpg",
     "number": 367,
     "dantian": {
-      "x": 0.4623226,
-      "y": 0.500821,
+      "x": 0.4665633,
+      "y": 0.4993546,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1131.9096848587042,
+      "stature_source_px": 1128.6656134058035,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -28977,22 +28977,22 @@
     "sequence": 53,
     "boundary_uncertain": true,
     "image": {
-      "path": "assets/referenzwechsel/402.jpg",
-      "pdf_path": "assets/referenzwechsel/402.jpg",
+      "path": "assets/korrekturen-20261104/402.jpg",
+      "pdf_path": "assets/korrekturen-20261104/402.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        969,
-        1204
+        973,
+        1203
       ],
       "size": [
-        969,
-        1204
+        973,
+        1203
       ],
-      "w": 969,
-      "h": 1204,
-      "u": 297.99264191848056
+      "w": 973,
+      "h": 1203,
+      "u": 297.4868230773406
     },
     "frame": 3668,
     "bamen": {
@@ -29027,18 +29027,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/402.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/402.jpg",
     "number": 402,
     "dantian": {
-      "x": 0.4674986,
-      "y": 0.5060033,
+      "x": 0.4730007,
+      "y": 0.505606,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1227.933163272964,
+      "stature_source_px": 1225.8488442587586,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -32745,22 +32745,22 @@
     "sequence": 61,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/454.jpg",
-      "pdf_path": "assets/referenzwechsel/454.jpg",
+      "path": "assets/korrekturen-20261104/454.jpg",
+      "pdf_path": "assets/korrekturen-20261104/454.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        524,
-        1331
+        525,
+        1292
       ],
       "size": [
-        524,
-        1331
+        525,
+        1292
       ],
-      "w": 524,
-      "h": 1331,
-      "u": 339.4429222573419
+      "w": 525,
+      "h": 1292,
+      "u": 327.5973953146819
     },
     "frame": 4110,
     "bamen": {
@@ -32793,18 +32793,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/454.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/454.jpg",
     "number": 454,
     "dantian": {
-      "x": 0.3098288,
-      "y": 0.470892,
+      "x": 0.3092112,
+      "y": 0.4793412,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1398.7366217992083,
+      "stature_source_px": 1349.924962304224,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -32816,22 +32816,22 @@
     "sequence": 61,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/455.jpg",
-      "pdf_path": "assets/referenzwechsel/455.jpg",
+      "path": "assets/korrekturen-20261104/455.jpg",
+      "pdf_path": "assets/korrekturen-20261104/455.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        693,
-        1361
+        565,
+        1243
       ],
       "size": [
-        693,
-        1361
+        565,
+        1243
       ],
-      "w": 693,
-      "h": 1361,
-      "u": 341.4904554304652
+      "w": 565,
+      "h": 1243,
+      "u": 320.5218279659899
     },
     "frame": 4119,
     "bamen": {
@@ -32866,18 +32866,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/455.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/455.jpg",
     "number": 455,
     "dantian": {
-      "x": 0.330089,
-      "y": 0.4685844,
+      "x": 0.3837157,
+      "y": 0.5000454,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1407.1738565912924,
+      "stature_source_px": 1320.76879341195,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -34120,22 +34120,22 @@
     "sequence": 61,
     "boundary_uncertain": true,
     "image": {
-      "path": "assets/referenzwechsel/473.jpg",
-      "pdf_path": "assets/referenzwechsel/473.jpg",
+      "path": "assets/korrekturen-20261104/473.jpg",
+      "pdf_path": "assets/korrekturen-20261104/473.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        821,
-        1243
+        823,
+        1242
       ],
       "size": [
-        821,
-        1243
+        823,
+        1242
       ],
-      "w": 821,
-      "h": 1243,
-      "u": 322.4508174074598
+      "w": 823,
+      "h": 1242,
+      "u": 322.1469338975168
     },
     "frame": 4274,
     "bamen": {
@@ -34170,18 +34170,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/473.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/473.jpg",
     "number": 473,
     "dantian": {
-      "x": 0.4274454,
-      "y": 0.505848,
+      "x": 0.432984,
+      "y": 0.5019008,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1328.7175470843047,
+      "stature_source_px": 1327.4653395223045,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -34264,22 +34264,22 @@
     "sequence": 62,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/475.jpg",
-      "pdf_path": "assets/referenzwechsel/475.jpg",
+      "path": "assets/korrekturen-20261104/475.jpg",
+      "pdf_path": "assets/korrekturen-20261104/475.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        786,
-        1336
+        774,
+        1320
       ],
       "size": [
-        786,
-        1336
+        774,
+        1320
       ],
-      "w": 786,
-      "h": 1336,
-      "u": 320.90634555357093
+      "w": 774,
+      "h": 1320,
+      "u": 318.22954971422
     },
     "frame": 4292,
     "bamen": {
@@ -34314,18 +34314,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/475.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/475.jpg",
     "number": 475,
     "dantian": {
-      "x": 0.2367891,
-      "y": 0.4820105,
+      "x": 0.26134,
+      "y": 0.4729934,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1322.3532684332545,
+      "stature_source_px": 1311.323041776352,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -34483,22 +34483,22 @@
     "sequence": 63,
     "boundary_uncertain": true,
     "image": {
-      "path": "assets/referenzwechsel/478.jpg",
-      "pdf_path": "assets/referenzwechsel/478.jpg",
+      "path": "assets/korrekturen-20261104/478.jpg",
+      "pdf_path": "assets/korrekturen-20261104/478.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        901,
-        1271
+        900,
+        1272
       ],
       "size": [
-        901,
-        1271
+        900,
+        1272
       ],
-      "w": 901,
-      "h": 1271,
-      "u": 314.73449511345154
+      "w": 900,
+      "h": 1272,
+      "u": 315.12459958117665
     },
     "frame": 4318,
     "bamen": {
@@ -34531,18 +34531,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/478.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/478.jpg",
     "number": 478,
     "dantian": {
-      "x": 0.5536795,
-      "y": 0.4922544,
+      "x": 0.5566545,
+      "y": 0.4927708,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1296.9210302900838,
+      "stature_source_px": 1298.5285270724762,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -34771,22 +34771,22 @@
     "sequence": 64,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/482.jpg",
-      "pdf_path": "assets/referenzwechsel/482.jpg",
+      "path": "assets/korrekturen-20261104/482.jpg",
+      "pdf_path": "assets/korrekturen-20261104/482.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        897,
-        1295
+        896,
+        1294
       ],
       "size": [
-        897,
-        1295
+        896,
+        1294
       ],
-      "w": 897,
-      "h": 1295,
-      "u": 306.15647302512554
+      "w": 896,
+      "h": 1294,
+      "u": 305.2758286629863
     },
     "frame": 4336,
     "bamen": {
@@ -34821,18 +34821,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/482.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/482.jpg",
     "number": 482,
     "dantian": {
-      "x": 0.4287915,
-      "y": 0.4787049,
+      "x": 0.4325153,
+      "y": 0.4803089,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1261.5737219480711,
+      "stature_source_px": 1257.9448658449196,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -34844,22 +34844,22 @@
     "sequence": 64,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/483.jpg",
-      "pdf_path": "assets/referenzwechsel/483.jpg",
+      "path": "assets/korrekturen-20261104/483.jpg",
+      "pdf_path": "assets/korrekturen-20261104/483.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        907,
+        906,
         1263
       ],
       "size": [
-        907,
+        906,
         1263
       ],
-      "w": 907,
+      "w": 906,
       "h": 1263,
-      "u": 306.554417446399
+      "u": 303.6908695707624
     },
     "frame": 4344,
     "bamen": {
@@ -34894,18 +34894,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/483.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/483.jpg",
     "number": 483,
     "dantian": {
-      "x": 0.4698498,
-      "y": 0.4896442,
+      "x": 0.4684395,
+      "y": 0.4864047,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1263.213524692445,
+      "stature_source_px": 1251.4137521259936,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -35789,22 +35789,22 @@
     "sequence": 65,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/496.jpg",
-      "pdf_path": "assets/referenzwechsel/496.jpg",
+      "path": "assets/korrekturen-20261104/496.jpg",
+      "pdf_path": "assets/korrekturen-20261104/496.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        943,
-        1225
+        946,
+        1224
       ],
       "size": [
-        943,
-        1225
+        946,
+        1224
       ],
-      "w": 943,
-      "h": 1225,
-      "u": 302.4278422638218
+      "w": 946,
+      "h": 1224,
+      "u": 301.57472566904073
     },
     "frame": 4462,
     "bamen": {
@@ -35837,18 +35837,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/496.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/496.jpg",
     "number": 496,
     "dantian": {
-      "x": 0.4791287,
-      "y": 0.4965413,
+      "x": 0.4809173,
+      "y": 0.5021454,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1246.2092171873894,
+      "stature_source_px": 1242.6937942825623,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -36150,22 +36150,22 @@
     "sequence": 66,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/501.jpg",
-      "pdf_path": "assets/referenzwechsel/501.jpg",
+      "path": "assets/korrekturen-20261104/501.jpg",
+      "pdf_path": "assets/korrekturen-20261104/501.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        798,
-        1300
+        797,
+        1299
       ],
       "size": [
-        798,
-        1300
+        797,
+        1299
       ],
-      "w": 798,
-      "h": 1300,
-      "u": 319.76084723579226
+      "w": 797,
+      "h": 1299,
+      "u": 319.9929025392959
     },
     "frame": 4503,
     "bamen": {
@@ -36198,18 +36198,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/501.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/501.jpg",
     "number": 501,
     "dantian": {
-      "x": 0.6431589,
-      "y": 0.4442357,
+      "x": 0.6427264,
+      "y": 0.4441713,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1317.633033182417,
+      "stature_source_px": 1318.5892594873721,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -37594,8 +37594,8 @@
     "sequence": 68,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/521.jpg",
-      "pdf_path": "assets/referenzwechsel/521.jpg",
+      "path": "assets/korrekturen-20261104/521.jpg",
+      "pdf_path": "assets/korrekturen-20261104/521.jpg",
       "cropped": true,
       "bbox": [
         0,
@@ -37609,7 +37609,7 @@
       ],
       "w": 688,
       "h": 1362,
-      "u": 328.88138386318786
+      "u": 331.38741331754767
     },
     "frame": 4652,
     "bamen": {
@@ -37644,18 +37644,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/521.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/521.jpg",
     "number": 521,
     "dantian": {
-      "x": 0.6411908,
-      "y": 0.4701256,
+      "x": 0.642063,
+      "y": 0.4709862,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1355.21587187106,
+      "stature_source_px": 1365.5424244172436,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -38387,22 +38387,22 @@
     "sequence": 70,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/532.jpg",
-      "pdf_path": "assets/referenzwechsel/532.jpg",
+      "path": "assets/korrekturen-20261104/532.jpg",
+      "pdf_path": "assets/korrekturen-20261104/532.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        977,
-        1094
+        976,
+        1093
       ],
       "size": [
-        977,
-        1094
+        976,
+        1093
       ],
-      "w": 977,
-      "h": 1094,
-      "u": 287.2548139507539
+      "w": 976,
+      "h": 1093,
+      "u": 285.10674334650787
     },
     "frame": 4777,
     "bamen": {
@@ -38437,18 +38437,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/532.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/532.jpg",
     "number": 532,
     "dantian": {
-      "x": 0.4765978,
-      "y": 0.5373827,
+      "x": 0.4768156,
+      "y": 0.5367429,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1183.6859799257372,
+      "stature_source_px": 1174.834462267368,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -42922,22 +42922,22 @@
     "sequence": 80,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/595.jpg",
-      "pdf_path": "assets/referenzwechsel/595.jpg",
+      "path": "assets/korrekturen-20261104/595.jpg",
+      "pdf_path": "assets/korrekturen-20261104/595.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        908,
-        1349
+        907,
+        1348
       ],
       "size": [
-        908,
-        1349
+        907,
+        1348
       ],
-      "w": 908,
-      "h": 1349,
-      "u": 311.51756242670785
+      "w": 907,
+      "h": 1348,
+      "u": 311.508920503787
     },
     "frame": 5334,
     "bamen": {
@@ -42970,18 +42970,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/595.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/595.jpg",
     "number": 595,
     "dantian": {
-      "x": 0.48384,
-      "y": 0.4611299,
+      "x": 0.4841501,
+      "y": 0.4627589,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1283.6650709998203,
+      "stature_source_px": 1283.629460376415,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -43709,22 +43709,22 @@
     "sequence": 81,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/606.jpg",
-      "pdf_path": "assets/referenzwechsel/606.jpg",
+      "path": "assets/korrekturen-20261104/606.jpg",
+      "pdf_path": "assets/korrekturen-20261104/606.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        824,
-        1356
+        823,
+        1355
       ],
       "size": [
-        824,
-        1356
+        823,
+        1355
       ],
-      "w": 824,
-      "h": 1356,
-      "u": 291.78112902718175
+      "w": 823,
+      "h": 1355,
+      "u": 290.9850424018541
     },
     "frame": 5401,
     "bamen": {
@@ -43757,18 +43757,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/606.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/606.jpg",
     "number": 606,
     "dantian": {
-      "x": 0.6655404,
-      "y": 0.5136302,
+      "x": 0.6677787,
+      "y": 0.5100737,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1202.3374887481887,
+      "stature_source_px": 1199.0570682593323,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -43851,22 +43851,22 @@
     "sequence": 81,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/608.jpg",
-      "pdf_path": "assets/referenzwechsel/608.jpg",
+      "path": "assets/korrekturen-20261104/608.jpg",
+      "pdf_path": "assets/korrekturen-20261104/608.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        834,
-        1299
+        823,
+        1298
       ],
       "size": [
-        834,
-        1299
+        823,
+        1298
       ],
-      "w": 834,
-      "h": 1299,
-      "u": 307.7304440008878
+      "w": 823,
+      "h": 1298,
+      "u": 306.9902582744964
     },
     "frame": 5410,
     "bamen": {
@@ -43899,18 +43899,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/608.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/608.jpg",
     "number": 608,
     "dantian": {
-      "x": 0.5204875,
-      "y": 0.491789,
+      "x": 0.5232081,
+      "y": 0.4894433,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1268.0595571241502,
+      "stature_source_px": 1265.0094865097692,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -43922,22 +43922,22 @@
     "sequence": 81,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/609.jpg",
-      "pdf_path": "assets/referenzwechsel/609.jpg",
+      "path": "assets/korrekturen-20261104/609.jpg",
+      "pdf_path": "assets/korrekturen-20261104/609.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        854,
+        853,
         1301
       ],
       "size": [
-        854,
+        853,
         1301
       ],
-      "w": 854,
+      "w": 853,
       "h": 1301,
-      "u": 312.6155992201223
+      "u": 311.6986719378835
     },
     "frame": 5416,
     "bamen": {
@@ -43970,18 +43970,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/609.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/609.jpg",
     "number": 609,
     "dantian": {
-      "x": 0.4787387,
-      "y": 0.5017211,
+      "x": 0.4829334,
+      "y": 0.5037562,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1288.1897323620844,
+      "stature_source_px": 1284.4113658530255,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -44064,22 +44064,22 @@
     "sequence": 81,
     "boundary_uncertain": true,
     "image": {
-      "path": "assets/referenzwechsel/611.jpg",
-      "pdf_path": "assets/referenzwechsel/611.jpg",
+      "path": "assets/korrekturen-20261104/611.jpg",
+      "pdf_path": "assets/korrekturen-20261104/611.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        853,
+        852,
         1304
       ],
       "size": [
-        853,
+        852,
         1304
       ],
-      "w": 853,
+      "w": 852,
       "h": 1304,
-      "u": 306.9585758639184
+      "u": 309.2534446352914
     },
     "frame": 5430,
     "bamen": {
@@ -44112,18 +44112,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/611.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/611.jpg",
     "number": 611,
     "dantian": {
-      "x": 0.5921268,
-      "y": 0.4807668,
+      "x": 0.591267,
+      "y": 0.4831544,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1264.8789333444602,
+      "stature_source_px": 1274.3353596897095,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -44135,22 +44135,22 @@
     "sequence": 82,
     "boundary_uncertain": true,
     "image": {
-      "path": "assets/referenzwechsel/612.jpg",
-      "pdf_path": "assets/referenzwechsel/612.jpg",
+      "path": "assets/korrekturen-20261104/612.jpg",
+      "pdf_path": "assets/korrekturen-20261104/612.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
-        875,
+        872,
         1273
       ],
       "size": [
-        875,
+        872,
         1273
       ],
-      "w": 875,
+      "w": 872,
       "h": 1273,
-      "u": 310.2220963844736
+      "u": 311.5061324874144
     },
     "frame": 5441,
     "bamen": {
@@ -44183,18 +44183,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/612.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/612.jpg",
     "number": 612,
     "dantian": {
-      "x": 0.5369458,
-      "y": 0.5031797,
+      "x": 0.5404404,
+      "y": 0.503368,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1278.3268663216372,
+      "stature_source_px": 1283.6179718452163,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -44279,22 +44279,22 @@
     "sequence": 82,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/614.jpg",
-      "pdf_path": "assets/referenzwechsel/614.jpg",
+      "path": "assets/korrekturen-20261104/614.jpg",
+      "pdf_path": "assets/korrekturen-20261104/614.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
         473,
-        1382
+        1381
       ],
       "size": [
         473,
-        1382
+        1381
       ],
       "w": 473,
-      "h": 1382,
-      "u": 319.0599642291069
+      "h": 1381,
+      "u": 318.2141052313753
     },
     "frame": 5464,
     "bamen": {
@@ -44329,18 +44329,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/614.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/614.jpg",
     "number": 614,
     "dantian": {
-      "x": 0.4170959,
-      "y": 0.4493665,
+      "x": 0.4184664,
+      "y": 0.447215,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1314.7449166103347,
+      "stature_source_px": 1311.2593999610624,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
@@ -44352,22 +44352,22 @@
     "sequence": 82,
     "boundary_uncertain": false,
     "image": {
-      "path": "assets/referenzwechsel/615.jpg",
-      "pdf_path": "assets/referenzwechsel/615.jpg",
+      "path": "assets/korrekturen-20261104/615.jpg",
+      "pdf_path": "assets/korrekturen-20261104/615.jpg",
       "cropped": true,
       "bbox": [
         0,
         0,
         427,
-        1389
+        1388
       ],
       "size": [
         427,
-        1389
+        1388
       ],
       "w": 427,
-      "h": 1389,
-      "u": 321.05216723627933
+      "h": 1388,
+      "u": 321.3115013344039
     },
     "frame": 5478,
     "bamen": {
@@ -44400,18 +44400,18 @@
         }
       }
     },
-    "thumbnail": "assets/referenzwechsel-vorschau/615.jpg",
+    "thumbnail": "assets/korrekturen-20261104-vorschau/615.jpg",
     "number": 615,
     "dantian": {
-      "x": 0.4431523,
-      "y": 0.4244208,
+      "x": 0.442873,
+      "y": 0.4198388,
       "radius_pt": 10.35,
-      "basis": "Koerperpunkte der neuen Referenzfigur; vor Abgabe visuell pruefen"
+      "basis": "Visuell gepruefte Mitte des unteren Bauch-/Beckenraums, 2026-11-04"
     },
     "body_scale": {
-      "stature_source_px": 1322.9541533375568,
+      "stature_source_px": 1324.0227869031523,
       "stature_pt": 147.59245927535085,
-      "method": "Scheitel–Schultermitte–Beckenmitte plus laengerer Beinpfad; neue Referenzfigur"
+      "method": "Scheitel-Schultermitte-Beckenmitte plus laengerer Beinpfad; visuell geprueft"
     }
   },
   {
