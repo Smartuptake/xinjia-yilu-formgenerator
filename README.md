@@ -61,3 +61,6 @@ python -m unittest discover -s tests -v
 ## Schriftlizenzen und Bildmaterial
 
 Die mitgelieferten Schriften Lato, Cormorant Garamond und LXGW WenKai stehen unter der SIL Open Font License 1.1; vollständige Hinweise liegen in `LICENSES/fonts/`. Für den übrigen Code, die Comicfigur und das Healthlane-Logo ist in diesem Repository keine pauschale Open-Source-Lizenz festgelegt.
+
+
+Die 621 Positionen verwenden durchgaengig die juengere, freigegebene Referenzfigur ohne Brille und dasselbe schwarze Schuhmodell mit cremefarbenen Streifen und flacher brauner Sohle. Der anatomische Koerpermassstab und bestehende Haltungs- und Fusskorrekturen bleiben erhalten. Die 4K-Referenz ist technisch hochskaliert; die einzelnen Generierungen werden nicht als native 4K bezeichnet.

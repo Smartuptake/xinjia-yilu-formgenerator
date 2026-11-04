@@ -6,7 +6,7 @@ window.HLAOnline = (() => {
   const clone = value => structuredClone(value);
   async function load() {
     if (!app) {
-      const response = await fetch('/data/app.json');
+      const response = await fetch('/data/app.json', {cache:'no-store'});
       if (!response.ok) throw Error('Die Positionen konnten nicht geladen werden. Bitte die Seite erneut öffnen.');
       app = await response.json();
       const raw = localStorage.getItem(KEY);
